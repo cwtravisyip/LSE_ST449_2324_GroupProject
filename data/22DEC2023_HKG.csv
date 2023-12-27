@@ -1,0 +1,1094 @@
+code,time_sch,dest,time_act,commercial,orig
+EK 9784,00:00,HKG,At gate 00:00,0,Dubai/DWC
+CX 261,00:05,Paris,Dep 00:14,1,HKG
+CX 880,00:15,Los Angeles,Dep 00:23,1,HKG
+CX 289,00:15,Frankfurt,Dep 01:16,1,HKG
+MU 725,00:15,HKG,At gate 00:04,1,Shanghai/PVG
+CX 2067,00:15,"Dubai/DWC
+Amsterdam",Dep 00:57,0,HKG
+CX 315,00:20,Madrid,Dep 00:25,1,HKG
+LD 681,00:20,HKG,At gate 01:10,0,Taipei
+HX 313,00:20,HKG,At gate 00:13,1,Beijing/PEK
+CX 636,00:20,HKG,At gate 00:12,1,Singapore
+KZ 203,00:25,HKG,At gate 01:07,0,Tokyo/NRT
+LD 392,00:25,HKG,At gate 00:26,0,Penang
+CX 105,00:25,Melbourne,Dep 00:37,1,HKG
+UO 651,00:30,HKG,At gate 01:01,1,Tokyo/NRT
+QR 815,00:30,Doha,Dep 00:26,1,HKG
+7C 2107,00:30,HKG,At gate 01:05,1,Seoul/ICN
+CX 749,00:30,Johannesburg,Dep 00:52,1,HKG
+OZ 746,00:30,Seoul/ICN,Dep 01:09,1,HKG
+EK 381,00:35,Dubai,Dep 00:35,1,HKG
+KE 179,00:40,HKG,At gate 01:20,1,Seoul/ICN
+CX 383,00:40,Zurich,Dep 01:02,1,HKG
+LD 456,00:45,HKG,At gate 01:28,0,"Cebu
+Manila"
+MM 067,00:45,HKG,At gate 01:48,1,Osaka/Kansai
+LD 129,00:45,HKG,At gate 01:16,0,Seoul/ICN
+UO 627,00:55,HKG,At gate 01:12,1,Seoul/ICN
+KE 178,00:55,Seoul/ICN,Dep 01:25,1,HKG
+CX 097,00:55,HKG,At gate 03:54,0,"Felipe Angeles
+Guadalajara
+Anchorage"
+CX 872,00:55,San Francisco,Dep 01:03,1,HKG
+CX 888,01:00,Vancouver,Dep 01:19,1,HKG
+LD 205,01:00,HKG,At gate 01:30,0,Osaka/Kansai
+CI 5835,01:00,HKG,At gate 04:46,0,Taipei
+ES 728,01:10,Bahrain,Dep 01:39,0,HKG
+NH 8511,01:10,HKG,At gate 01:41,0,Tokyo/NRT
+CX 219,01:10,Manchester,Dep 01:12,1,HKG
+LD 769,01:10,HKG,At gate 00:56,0,Beijing/PEK
+EK 9837,01:10,Dubai/DWC,Dep 07:25,0,HKG
+CX 006,01:15,Tokyo/NRT,Dep 01:42,0,HKG
+CX 035,01:15,HKG,At gate 03:18,0,"Osaka/Kansai
+Seoul/ICN"
+UO 863,01:15,HKG,At gate 01:52,1,Osaka/Kansai
+LD 217,01:15,HKG,At gate 01:16,0,Nagoya
+HX 763,01:20,Bangkok,Dep 01:32,1,HKG
+KE 313,01:20,HKG,At gate 02:01,0,Seoul/ICN
+8K 525,01:20,HKG,At gate 01:30,0,Hanoi
+LD 562,01:20,HKG,At gate 01:06,0,Ho Chi Minh
+LD 326,01:25,HKG,At gate 01:36,0,Singapore
+LD 842,01:25,HKG,At gate 01:07,0,Bangkok
+CX 524,01:25,Tokyo/NRT,Dep 01:38,1,HKG
+HX 611,01:25,HKG,At gate 03:13,1,Tokyo/NRT
+SV 987,01:25,Riyadh,Dep 01:33,0,HKG
+BR 6537,01:25,HKG,At gate 01:28,0,Taipei
+LD 783,01:25,HKG,At gate 01:22,0,Shanghai/PVG
+LD 209,01:30,HKG,At gate 02:05,0,Tokyo/NRT
+7C 2108,01:30,Seoul/ICN,Dep 02:09,1,HKG
+TH 3507,01:30,HKG,At gate 01:46,0,Subang
+TW 117,01:30,HKG,At gate 03:03,1,Seoul/ICN
+MM 068,01:35,Osaka/Kansai,Dep 03:00,1,HKG
+CX 566,01:50,Osaka/Kansai,Dep 02:08,1,HKG
+HX 707,01:55,Denpasar,Dep 01:54,1,HKG
+HX 285,02:00,HKG,At gate 02:11,1,Taipei
+3S 520,02:00,HKG,At gate 00:56,0,"Leipzig
+Bahrain"
+HX 769,02:05,Bangkok,Dep 02:06,1,HKG
+KE 180,02:05,Seoul/ICN,Dep 02:20,1,HKG
+EK 9785,02:15,Dubai/DWC,Dep 02:09,0,HKG
+HX 606,02:20,Tokyo/NRT,Dep 02:14,1,HKG
+7L 628,02:30,HKG,At gate 01:22 (23/12/2023),0,"Baku
+Bishkek"
+TW 118,02:30,Seoul/ICN,Dep 04:11,1,HKG
+OZ 969,02:35,HKG,At gate 07:25,0,Seoul/ICN
+HX 637,02:35,HKG,At gate 02:32,1,Osaka/Kansai
+5X 004,02:40,HKG,At gate 02:46,0,"Philadelphia
+Cologne
+London/STN"
+NH 8512,02:40,Tokyo/NRT,Dep 03:04,0,HKG
+5Y 8197,02:43,HKG,At gate 03:10,0,Seoul/ICN
+KZ 202,02:45,Tokyo/NRT,Dep 03:15,0,HKG
+HX 602,02:50,Osaka/Kansai,Dep 02:38,1,HKG
+RH 962,02:55,Osaka/Kansai,Dep 09:52,0,HKG
+ES 725,02:55,HKG,At gate 02:41,0,Bahrain
+QY 548,02:55,HKG,At gate 03:46,0,"Leipzig
+Delhi"
+CI 5836,03:00,Taipei,Dep 06:30,0,HKG
+LD 768,03:20,Beijing/PEK,Dep 04:14,0,HKG
+PO 789,03:20,HKG,At gate 07:31,0,"Miami
+Anchorage"
+LD 327,03:20,Singapore,Dep 03:27,0,HKG
+CX 844,03:20,New York/JFK,Dep 04:34,1,HKG
+KE 314,03:20,Seoul/ICN,Dep 03:28,0,HKG
+LD 720,03:25,Chengdu,Dep 03:19,0,HKG
+LD 128,03:25,Seoul/ICN,Dep 03:34,0,HKG
+K4 252,03:25,HKG,At gate 07:59,0,"Miami
+Anchorage"
+BR 6538,03:25,Taipei,Dep 03:19,0,HKG
+LD 204,03:30,Osaka/Kansai,Dep 04:06,0,HKG
+8K 526,03:30,Bangkok,Dep 03:41,0,HKG
+D0 516,03:35,HKG,At gate 03:43,0,"East Midlands
+Dubai"
+LD 457,03:40,"Manila
+Cebu",Dep 04:09,0,HKG
+CX 2070,03:40,"Anchorage
+Miami",Dep 05:01,0,HKG
+LD 831,03:40,Bangkok,Dep 03:58,0,HKG
+LD 208,03:45,Tokyo/NRT,Dep 03:49,0,HKG
+TH 3508,03:45,Subang,Dep 04:00,0,HKG
+LD 561,03:45,Ho Chi Minh,Dep 04:19,0,HKG
+LD 216,03:45,Nagoya,Dep 03:57,0,HKG
+LD 782,03:50,Shanghai/PVG,Dep 03:59,0,HKG
+ES 743,03:55,HKG,At gate 03:48,0,"Bahrain
+Bangkok"
+3V 846,03:55,HKG,At gate 04:17,0,Leipzig
+LD 391,04:00,Penang,Dep 18:52,0,HKG
+UO 623,04:10,HKG,At gate 04:46,1,Tokyo/HND
+K4 614,04:10,HKG,At gate 10:20,0,"Cincinnati
+Anchorage"
+3S 543,04:15,"Singapore
+Leipzig",Dep 04:38,0,HKG
+LD 680,04:20,Taipei,Dep 04:51,0,HKG
+UO 765,04:20,HKG,At gate 03:58,1,Phuket
+LD 721,04:25,HKG,At gate 04:05,0,Chengdu
+ES 736,04:25,"Bengaluru
+Bahrain",Dep 04:45,0,HKG
+CX 138,04:25,HKG,At gate 04:30,1,Sydney
+3S 522,04:30,HKG,At gate 03:55,0,"Leipzig
+Bahrain"
+RH 4569,04:30,HKG,At gate 19:54,0,Taipei
+FX 5217,04:30,HKG,At gate 04:59,0,Osaka/Kansai
+N8 572,04:35,HKG,At gate 07:42,0,Anchorage
+CX 3509,04:40,HKG,At gate 05:51,0,"Felipe Angeles
+Guadalajara
+Anchorage"
+CX 662,04:45,HKG,At gate 04:21,1,Dhaka
+CX 3265,04:50,HKG,At gate 07:32,0,Chongqing
+CX 096,05:00,"Anchorage
+Felipe Angeles",Dep 05:50,0,HKG
+7L 629,05:00,Baku,Dep 03:25 (23/12/2023),0,HKG
+TK 6090,05:10,HKG,At gate 05:16,0,"Istanbul
+Navoi"
+CX 811,05:10,HKG,At gate 04:41,1,Boston
+HB 232,05:10,HKG,At gate 05:18,1,Manila
+CX 714,05:20,HKG,At gate 05:23,1,Singapore
+CX 829,05:25,HKG,At gate 04:51,1,Toronto
+AC 021,05:30,HKG,At gate 06:44,1,Vancouver
+D0 515,05:35,"Dubai
+East Midlands",Dep 05:47,0,HKG
+CX 2032,05:35,HKG,At gate 05:19,0,Chennai
+ES 722,05:35,Bahrain,Dep 05:39,0,HKG
+3S 580,05:35,HKG,At gate 05:52,0,"Leipzig
+Seoul/ICN"
+UO 629,05:55,HKG,At gate 07:34,1,Tokyo/HND
+RH 359,05:55,HKG,At gate 14:52,0,Milan/MXP
+UK 101,05:55,HKG,At gate 06:06,1,Delhi
+HX 780,05:55,HKG,At gate 05:38,1,Bangkok
+CX 796,06:00,HKG,At gate 06:25,1,Jakarta
+QY 549,06:00,"Almaty
+Cologne",Dep 06:55,0,HKG
+K4 288,06:05,HKG,At gate 16:46,0,"YHM
+Los Angeles"
+SV 976,06:05,HKG,At gate 06:46,0,Riyadh
+CX 698,06:15,HKG,At gate 06:10,1,Delhi
+RH 331,06:25,Bangkok,Dep 21:06,0,HKG
+CX 234,06:30,HKG,At gate 06:23,1,Milan/MXP
+3S 522,06:30,"Tokyo/NRT
+Cincinnati",Dep 06:30,0,HKG
+CX 843,06:35,HKG,At gate 06:06,1,New York/JFK
+EK 9238,06:35,HKG,At gate 06:20,0,Dubai/DWC
+O3 6925,06:40,HKG,At gate 06:45,0,Ningbo
+CX 865,06:45,HKG,At gate 07:36,1,Vancouver
+CX 2038,06:45,HKG,At gate 08:11,0,"Paris
+Amsterdam"
+UA 877,06:45,HKG,At gate 06:38,1,San Francisco
+CX 3258,06:50,Shanghai/PVG,Dep 07:34,0,HKG
+FX 5217,06:50,"Liege
+Paris
+Memphis",Dep 06:55,0,HKG
+CX 288,06:50,HKG,At gate 06:47,1,Frankfurt
+CX 178,06:55,HKG,At gate 06:57,1,Melbourne
+3V 847,06:55,Leipzig,Dep 07:33,0,HKG
+RH 352,07:00,HKG,At gate 06:07,0,Manila
+CX 260,07:00,HKG,At gate 07:29,1,Paris
+K4 615,07:00,"Anchorage
+Cincinnati",Dep 12:49,0,HKG
+CX 216,07:00,HKG,At gate 07:59,1,Manchester
+K4 253,07:05,"Anchorage
+Miami",Dep 11:47,0,HKG
+HX 762,07:05,HKG,At gate 06:50,1,Bangkok
+TK 6091,07:10,Istanbul,Dep 07:51,0,HKG
+UO 618,07:10,Seoul/ICN,Dep 07:34,1,HKG
+CX 095,07:15,HKG,At gate 08:24,0,"New York/JFK
+Anchorage"
+CX 881,07:20,HKG,At gate 07:20,1,Los Angeles
+OZ 970,07:20,Seoul/ICN,Dep 09:32,0,HKG
+HX 682,07:25,Okinawa,Dep 07:18,1,HKG
+3S 516,07:25,HKG,At gate 07:10,0,Leipzig
+N8 573,07:30,"Anchorage
+Chicago",Dep 11:53,0,HKG
+CX 156,07:30,HKG,At gate 07:18,1,Brisbane
+CX 907,07:30,Manila,Dep 07:43,1,HKG
+CX 366,07:30,Shanghai/PVG,Dep 07:50,1,HKG
+UO 724,07:35,Phuket,Dep 08:08,1,HKG
+3S 593,07:35,"Delhi
+Leipzig",Dep 07:59,0,HKG
+UO 820,07:35,Okinawa,Dep 07:41,1,HKG
+UO 550,07:35,Hanoi,Dep 07:50,1,HKG
+CX 270,07:35,HKG,At gate 08:35,1,Amsterdam
+MU 726,07:40,Shanghai/PVG,Dep 07:49,1,HKG
+CX 252,07:40,HKG,At gate 07:01,1,London/LHR
+CX 140,07:45,HKG,At gate 08:32,1,Perth
+UO 600,07:45,Fukuoka,Dep 07:49,1,HKG
+CX 958,07:50,Hangzhou,Dep 08:10,1,HKG
+CX 691,07:50,Singapore,Dep 08:02,1,HKG
+UO 192,07:50,Taichung,Dep 07:58,1,HKG
+HX 650,07:55,Yonago,Dep 08:16,1,HKG
+O3 6926,07:55,Ningbo,Dep 07:44,0,HKG
+CX 982,07:55,Guangzhou,Dep 07:58,1,HKG
+HX 452,07:55,Chengdu Tianfu,Dep 08:16,1,HKG
+CX 488,08:00,Taipei,Dep 08:08,1,HKG
+UO 130,08:00,Kaohsiung,Dep 08:01,1,HKG
+CX 976,08:05,HKG,At gate 08:20,1,Manila
+HX 764,08:05,HKG,At gate 08:07,1,Bangkok
+CX 434,08:10,Seoul/ICN,Dep 08:25,1,HKG
+CX 596,08:10,Osaka/Kansai,Dep 08:25,1,HKG
+RW 662,08:10,HKG,At gate 08:27,1,Clark
+5J 272,08:10,HKG,At gate 08:24,1,Manila
+CI 922,08:10,Taipei,Dep 08:17,1,HKG
+CX 526,08:10,Tokyo/NRT,Dep 08:11,1,HKG
+CX 633,08:15,Penang,Dep 08:18,1,HKG
+HB 340,08:15,Osaka/Kansai,Dep 08:17,1,HKG
+CX 994,08:20,Fuzhou,Dep 08:48,1,HKG
+CX 384,08:20,Wenzhou,Dep 08:31,1,HKG
+CX 767,08:25,Ho Chi Minh,Dep 08:34,1,HKG
+CX 257,08:25,London/LHR,Dep 08:35,1,HKG
+SV 977,08:25,Jeddah,Dep 09:37,0,HKG
+CX 037,08:25,"Dubai/DWC
+London/LHR",Dep 09:52,0,HKG
+HB 760,08:25,Seoul/ICN,Dep 08:33,1,HKG
+HX 640,08:25,Fukuoka,Dep 08:35,1,HKG
+CX 564,08:30,"Taipei
+Osaka/Kansai",Dep 08:44,1,HKG
+CX 936,08:30,Wuhan,Dep 08:33,1,HKG
+CV 7954,08:30,HKG,At gate 10:55,0,"Luxembourg
+Bahrain
+Ho Chi Minh"
+CA 118,08:30,Beijing/PEK,Dep 08:37,1,HKG
+CX 705,08:30,Bangkok,Dep 08:38,1,HKG
+HX 770,08:35,HKG,At gate 08:41,1,Bangkok
+CX 771,08:35,Phuket,Dep 09:02,1,HKG
+CZ 5010,08:40,Beijing/PKX,Dep 08:47,1,HKG
+EK 9239,08:40,Dubai/DWC,Dep 08:49,0,HKG
+HX 690,08:40,Sapporo,Dep 08:55,1,HKG
+CX 139,08:45,Sydney,Dep 08:52,1,HKG
+MH 079,08:45,Kuala Lumpur,Dep 08:57,1,HKG
+CX 741,08:50,Hanoi,Dep 09:09,1,HKG
+K4 289,08:50,Los Angeles,Dep 20:12,0,HKG
+AK 8008,08:50,HKG,At gate 00:10 (23/12/2023),0,Kota Kinabalu
+CX 3251,08:50,HKG,At gate 08:35,0,Shanghai/PVG
+BR 891,08:50,HKG,At gate 09:22,1,Taipei
+HX 664,08:50,Nagoya,Dep 09:15,1,HKG
+CX 432,08:50,Kaohsiung,Dep 08:57,1,HKG
+HB 702,08:55,Taipei,Dep 08:50,1,HKG
+UO 686,08:55,Osaka/Kansai,Dep 09:00,1,HKG
+UK 102,08:55,Delhi,Dep 09:02,1,HKG
+CX 548,08:55,Tokyo/HND,Dep 09:02,1,HKG
+CV 4324,08:55,HKG,At gate 09:35,0,"Luxembourg
+Dammam"
+5J 240,08:55,HKG,At gate 08:51,1,Cebu
+CX 386,09:00,Beijing/PEK,Dep 09:09,1,HKG
+CC 394,09:00,"Dubai/DWC
+Glasgow",Dep 18:46,0,HKG
+HX 236,09:00,Shanghai/PVG,Dep 09:14,1,HKG
+HX 628,09:00,Seoul/ICN,Dep 09:09,1,HKG
+CX 759,09:00,Singapore,Dep 09:21,1,HKG
+CX 901,09:00,Manila,Dep 09:55,1,HKG
+CX 530,09:00,"Taipei
+Nagoya",Dep 09:08,1,HKG
+UO 674,09:05,Busan,Dep 09:23,1,HKG
+HX 252,09:05,Taipei,Dep 09:16,1,HKG
+SQ 899,09:05,Singapore,Dep 09:33,1,HKG
+CX 504,09:05,Tokyo/NRT,Dep 09:25,1,HKG
+CI 601,09:05,HKG,At gate 09:38,1,Taipei
+CX 580,09:10,Sapporo,Dep 09:19,1,HKG
+UO 758,09:10,Bangkok,Dep 09:46,1,HKG
+RW 906,09:10,Davao,Dep 10:10,1,HKG
+CX 694,09:10,HKG,At gate 09:24,1,Delhi
+CX 2073,09:10,Singapore,Dep 10:46,0,HKG
+HX 608,09:15,Tokyo/NRT,Dep 09:35,1,HKG
+5J 150,09:15,HKG,At gate 09:01,1,Clark
+CX 410,09:20,Seoul/ICN,Dep 10:14,1,HKG
+CX 777,09:20,Jakarta,Dep 10:01,1,HKG
+HB 320,09:20,Tokyo/NRT,Dep 09:26,1,HKG
+CI 933,09:20,HKG,At gate 09:31,1,Kaohsiung
+5J 273,09:25,Manila,Dep 09:46,1,HKG
+3S 516,09:25,Cincinnati,Dep 09:24,0,HKG
+QR 8408,09:25,HKG,At gate 20:09,0,"Doha
+Singapore"
+UO 848,09:25,Tokyo/NRT,Dep 09:40,1,HKG
+RH 371,09:30,Singapore,Dep 11:27,0,HKG
+UO 552,09:30,Da Nang,Dep 09:42,1,HKG
+FD 515,09:30,HKG,At gate 09:28,1,Chiang Mai
+CX 830,09:30,New York/JFK,Dep 10:21,1,HKG
+CX 624,09:35,HKG,At gate 09:24,1,Bengaluru
+CX 660,09:35,HKG,At gate 09:53,1,Mumbai
+MU 724,09:35,Shanghai/PVG,Dep 10:47,1,HKG
+UO 642,09:40,Takamatsu,Dep 10:02,1,HKG
+HX 308,09:40,Beijing/PKX,Dep 09:41,1,HKG
+RH 9375,09:40,Chennai,Dep 16:54,0,HKG
+5J 241,09:40,Cebu,Dep 10:01,1,HKG
+5J 110,09:45,HKG,At gate 09:51,1,Manila
+CX 368,09:45,Shanghai/PVG,Dep 09:55,1,HKG
+CX 536,09:45,Nagoya,Dep 09:59,1,HKG
+PO 8200,09:45,"Anchorage
+Cincinnati",Dep 10:07,0,HKG
+FD 508,09:50,HKG,At gate 09:34,1,Bangkok/DMK
+CX 615,09:55,Bangkok,Dep 10:19,1,HKG
+UO 680,09:55,Nagoya,Dep 10:23,1,HKG
+CI 903,09:55,HKG,At gate 10:45,1,Taipei
+QR 8434,09:55,HKG,At gate 09:59,0,Doha
+UO 850,09:55,Osaka/Kansai,Dep 10:31,1,HKG
+BR 892,10:00,Taipei,Dep 10:40,1,HKG
+CX 450,10:00,"Taipei
+Tokyo/NRT",Dep 10:57,1,HKG
+5J 149,10:00,Clark,Dep 10:29,1,HKG
+CX 3800,10:00,HKG,At gate 10:40,1,Toulouse
+CX 785,10:00,Denpasar,Dep 10:28,1,HKG
+CX 348,10:00,Shanghai/SHA,Dep 10:20,1,HKG
+TR 978,10:05,HKG,At gate 09:39,1,Singapore
+BR 851,10:05,HKG,At gate 10:33,1,Taipei
+PO 790,10:05,"Los Angeles
+Miami",Dep 09:49,0,HKG
+CX 954,10:10,Qingdao,Dep 11:04,1,HKG
+AK 8011,10:10,Kuala Lumpur,Dep 01:53 (23/12/2023),0,HKG
+HX 231,10:15,HKG,At gate 10:10,1,Shanghai/PVG
+AC 022,10:15,Vancouver,Dep 10:26,1,HKG
+UO 616,10:15,Kumamoto,Dep 10:42,1,HKG
+PR 300,10:15,HKG,At gate 10:02,1,Manila
+CI 934,10:20,Kaohsiung,Dep 10:27,1,HKG
+CI 602,10:20,Taipei,Dep 10:50,1,HKG
+CX 986,10:20,Chengdu Tianfu,Dep 10:32,1,HKG
+HX 497,10:20,HKG,At gate 10:22,1,Chongqing
+JL 736,10:20,Tokyo/NRT,Dep 10:27,1,HKG
+CX 723,10:25,Kuala Lumpur,Dep 11:04,1,HKG
+CX 356,10:25,Nanjing,Dep 10:33,1,HKG
+CX 584,10:25,Sapporo,Dep 10:39,1,HKG
+CX 828,10:25,Toronto,Dep 10:46,1,HKG
+CX 494,10:25,Taipei,Dep 11:19,1,HKG
+MU 9623,10:25,HKG,At gate 09:47,1,Kunming
+CX 407,10:25,HKG,At gate 10:21,1,Taipei
+MU 765,10:30,HKG,At gate 10:36,1,Nanjing
+F5 8839,10:30,Dammam,Dep 10:57,0,HKG
+CX 912,10:30,HKG,At gate 10:19,1,Manila
+CX 520,10:30,Tokyo/NRT,Dep 11:26,1,HKG
+FD 516,10:30,Chiang Mai,Dep 10:34,1,HKG
+CV 7955,10:30,"Ashgabat
+Luxembourg",Dep 12:29,0,HKG
+MF 8715,10:35,HKG,At gate 10:24,1,Quanzhou
+HX 129,10:35,HKG,At gate 10:38,1,Hangzhou
+HO 1649,10:40,HKG,At gate 10:49,1,Nanjing
+CX 424,10:45,Kaohsiung,Dep 11:00,1,HKG
+CX 506,10:45,Osaka/Kansai,Dep 11:08,1,HKG
+FD 509,10:45,Bangkok/DMK,Dep 11:10,1,HKG
+CX 738,10:45,HKG,At gate 10:26,1,Dubai
+UO 172,10:50,Taichung,Dep 11:29,1,HKG
+HX 221,10:50,HKG,At gate 11:02,1,Nanjing
+MU 721,10:50,HKG,At gate 10:46,1,Shanghai/SHA
+UO 870,10:50,Tokyo/NRT,Dep 10:58,1,HKG
+UO 625,10:50,HKG,At gate 11:07,1,Tokyo/HND
+Z2 1264,10:55,HKG,At gate 11:45,1,Manila
+UA 862,11:00,San Francisco,Dep 10:56,1,HKG
+5J 111,11:00,Manila,Dep 11:51,1,HKG
+CX 917,11:00,HKG,At gate 10:30,1,Chengdu Tianfu
+CX 163,11:00,Melbourne,Dep 11:03,1,HKG
+UO 668,11:00,Fukuoka,Dep 11:02,1,HKG
+CI 904,11:05,Taipei,Dep 11:52,1,HKG
+CX 946,11:05,Xian,Dep 11:12,1,HKG
+CV 5325,11:05,"Anchorage
+Chicago
+Luxembourg",Dep 11:05,0,HKG
+TR 979,11:10,Singapore,Dep 11:20,1,HKG
+CX 588,11:10,Fukuoka,Dep 11:39,1,HKG
+HX 208,11:10,Nanjing,Dep 11:17,1,HKG
+EK 9244,11:10,HKG,At gate 11:06,0,Dubai/DWC
+5X 003,11:10,"Dubai
+Cologne
+Philadelphia",Dep 11:26,0,HKG
+CX 345,11:15,HKG,At gate 11:06,1,Beijing/PEK
+AK 138,11:15,HKG,At gate 11:04,1,Kuala Lumpur
+BR 852,11:15,Taipei,Dep 11:30,1,HKG
+MU 2685,11:20,HKG,At gate 11:17,1,Wuxi
+KE 171,11:20,HKG,At gate 12:11,1,Seoul/ICN
+MF 8655,11:20,HKG,At gate 11:31,1,Hangzhou
+MF 381,11:20,HKG,At gate 11:15,1,Xiamen
+SQ 874,11:20,HKG,At gate 11:19,1,Singapore
+OM 297,11:25,HKG,At gate 11:13,1,Ulaan Baatar
+MU 9624,11:25,Kunming,Dep 11:33,1,HKG
+CX 983,11:25,HKG,At gate 11:50,1,Guangzhou
+TW 115,11:25,HKG,At gate 12:00,1,Seoul/ICN
+CX 361,11:25,HKG,At gate 11:37,1,Shanghai/PVG
+HX 658,11:30,Okinawa,Dep 11:33,1,HKG
+UO 227,11:30,HKG,At gate 11:17,1,Ningbo
+MU 501,11:30,HKG,At gate 11:24,1,Shanghai/PVG
+PR 301,11:30,Manila,Dep 11:30,1,HKG
+MF 8716,11:35,Quanzhou,Dep 11:44,1,HKG
+UO 131,11:35,HKG,At gate 11:32,1,Kaohsiung
+MU 766,11:35,Nanjing,Dep 11:49,1,HKG
+HX 618,11:35,Osaka/Kansai,Dep 11:47,1,HKG
+UO 106,11:35,Taipei,Dep 11:50,1,HKG
+CX 739,11:40,Singapore,Dep 11:52,1,HKG
+HO 1650,11:40,Nanjing,Dep 11:55,1,HKG
+2C 610,11:45,HKG,At gate 11:50,0,Paris
+TG 600,11:45,HKG,At gate 11:42,1,Bangkok
+Z2 1265,11:45,Manila,Dep 12:35,1,HKG
+CA 101,11:45,HKG,At gate 11:23,1,Beijing/PEK
+3U 3957,11:45,HKG,At gate 11:33,1,Chengdu Tianfu
+ZH 9085,11:45,HKG,At gate 11:40,1,Nantong
+UO 898,11:50,Osaka/Kansai,Dep 11:54,1,HKG
+MM 063,11:50,HKG,At gate 12:09,1,Osaka/Kansai
+VJ 872,11:50,HKG,At gate 11:27,1,Hanoi
+OZ 721,11:50,HKG,At gate 12:22,1,Seoul/ICN
+QR 8409,11:55,Doha,Dep 09:01 (23/12/2023),0,HKG
+MU 722,11:55,Shanghai/SHA,Dep 12:13,1,HKG
+KL 887,11:55,HKG,At gate 12:12,1,Amsterdam
+HX 603,11:55,HKG,At gate 12:22,1,Osaka/Kansai
+QR 8435,11:55,Doha,Dep 12:08,0,HKG
+AK 139,12:00,Kuala Lumpur,Dep 11:54,1,HKG
+CX 653,12:00,Bangkok,Dep 12:12,1,HKG
+CX 332,12:00,Beijing/PEK,Dep 12:01,1,HKG
+UO 193,12:00,HKG,At gate 11:50,1,Taichung
+EY 9857,12:05,HKG,At gate 11:38,0,Abu Dhabi
+MU 5015,12:05,HKG,At gate 11:58,1,Beijing/PKX
+CA 411,12:05,HKG,At gate 11:41,1,Chengdu Tianfu
+HX 775,12:05,Bangkok,Dep 12:17,1,HKG
+CX 619,12:10,Singapore,Dep 12:15,1,HKG
+CX 700,12:10,HKG,At gate 12:06,1,Bangkok
+BR 867,12:10,HKG,At gate 12:34,1,Taipei
+CA 103,12:15,HKG,At gate 12:05,1,Tianjin
+CX 960,12:15,Hangzhou,Dep 12:48,1,HKG
+CX 730,12:15,HKG,At gate 12:14,1,Kuala Lumpur
+UO 112,12:15,Taipei,Dep 12:18,1,HKG
+MU 2686,12:20,Wuxi,Dep 12:27,1,HKG
+RH 963,12:20,HKG,At gate 20:44,0,Osaka/Kansai
+9C 8715,12:20,HKG,At gate 12:20,1,Shanghai/PVG
+MF 8656,12:20,Hangzhou,Dep 12:54,1,HKG
+MF 382,12:20,Xiamen,Dep 12:42,1,HKG
+CX 884,12:25,Los Angeles,Dep 12:33,1,HKG
+OM 298,12:25,Ulaan Baatar,Dep 12:31,1,HKG
+MU 5017,12:25,HKG,At gate 12:11,1,Shanghai/SHA
+PR 318,12:25,HKG,At gate 12:32,1,Manila
+TW 116,12:25,Seoul/ICN,Dep 13:12,1,HKG
+3S 508,12:25,HKG,At gate 12:24,0,Leipzig
+SQ 875,12:30,Singapore,Dep 12:35,1,HKG
+CX 092,12:30,"Toronto
+Anchorage
+Chicago",Dep 12:39,0,HKG
+CX 157,12:30,Brisbane,Dep 12:37,1,HKG
+MU 502,12:30,Shanghai/PVG,Dep 12:45,1,HKG
+CX 365,12:30,HKG,At gate 12:37,1,Shanghai/PVG
+UO 551,12:35,HKG,At gate 12:22,1,Hanoi
+CZ 309,12:40,HKG,At gate 12:42,1,Beijing/PKX
+MU 701,12:40,HKG,At gate 12:32,1,Shanghai/PVG
+ZH 9086,12:45,Nantong,Dep 13:00,1,HKG
+UO 132,12:45,Kaohsiung,Dep 12:46,1,HKG
+3U 3958,12:45,Chengdu Tianfu,Dep 12:50,1,HKG
+CX 725,12:45,Kuala Lumpur,Dep 13:09,1,HKG
+TG 601,12:45,Bangkok,Dep 12:55,1,HKG
+CX 710,12:50,HKG,At gate 12:28,1,Singapore
+CX 489,12:50,HKG,At gate 12:52,1,Taipei
+SC 1151,12:50,HKG,At gate 12:33,1,Jinan
+VJ 873,12:50,Hanoi,Dep 12:56,1,HKG
+CI 909,12:50,HKG,At gate 13:27,1,Taipei
+KE 172,12:50,Seoul/ICN,Dep 13:25,1,HKG
+MM 064,12:50,Osaka/Kansai,Dep 13:10,1,HKG
+CX 431,12:55,HKG,At gate 13:05,1,Kaohsiung
+7C 2101,12:55,HKG,At gate 13:04,1,Seoul/ICN
+MH 072,12:55,HKG,At gate 12:48,1,Kuala Lumpur
+HX 706,12:55,HKG,At gate 12:48,1,Denpasar
+NH 859,12:55,HKG,At gate 13:08,1,Tokyo/HND
+UO 638,12:55,Fukuoka,Dep 13:07,1,HKG
+CX 567,13:00,HKG,At gate 13:06,1,Osaka/Kansai
+HX 246,13:00,Shanghai/PVG,Dep 13:13,1,HKG
+CX 346,13:00,Shanghai/SHA,Dep 13:15,1,HKG
+CA 102,13:00,Beijing/PEK,Dep 12:54,1,HKG
+HX 668,13:00,Nagoya,Dep 13:27,1,HKG
+UO 646,13:00,Tokyo/NRT,Dep 13:07,1,HKG
+CX 400,13:00,Taipei,Dep 13:15,1,HKG
+RH 332,13:05,HKG,At gate 04:15 (23/12/2023),0,Bangkok
+CX 995,13:05,HKG,At gate 13:11,1,Fuzhou
+CA 111,13:05,HKG,At gate 12:59,1,Beijing/PEK
+HX 305,13:05,HKG,At gate 12:56,1,Beijing/PEK
+EK 9245,13:10,Dubai/DWC,Dep 13:15,0,HKG
+6E 1707,13:10,HKG,At gate 12:35,1,Delhi
+5Y 612,13:10,"Anchorage
+Miami",Dep 13:31,0,HKG
+GA 860,13:15,HKG,At gate 13:26,1,Jakarta
+MU 5018,13:15,Shanghai/SHA,Dep 13:24,1,HKG
+CX 417,13:15,HKG,At gate 13:22,1,Seoul/ICN
+OZ 722,13:15,Seoul/ICN,Dep 13:39,1,HKG
+CX 238,13:20,HKG,At gate 14:30,1,London/LHR
+9C 8716,13:20,Shanghai/PVG,Dep 13:27,1,HKG
+CX 503,13:25,HKG,At gate 13:41,1,Osaka/Kansai
+CX 509,13:25,HKG,At gate 13:47,1,Tokyo/NRT
+CX 355,13:25,HKG,At gate 13:30,1,Wenzhou
+PR 319,13:25,Manila,Dep 13:47,1,HKG
+HX 607,13:30,HKG,At gate 14:14,1,Tokyo/NRT
+VN 592,13:30,HKG,At gate 13:34,1,Hanoi
+CX 253,13:30,London/LHR,Dep 13:51,1,HKG
+CX 906,13:30,HKG,At gate 14:07,1,Manila
+BI 635,13:35,HKG,At gate 13:19,1,B S Begawan
+KL 888,13:35,Amsterdam,Dep 13:53,1,HKG
+CX 360,13:35,Shanghai/PVG,Dep 14:01,1,HKG
+BR 868,13:35,Taipei,Dep 13:37,1,HKG
+MU 5016,13:35,Beijing/PKX,Dep 13:33,1,HKG
+UO 700,13:35,Bangkok,Dep 13:40,1,HKG
+MU 203,13:40,HKG,At gate 12:41,1,Xian
+FD 500,13:40,HKG,At gate 13:32,1,Bangkok/DMK
+JL 029,13:40,HKG,At gate 14:14,1,Tokyo/HND
+CA 412,13:40,Chengdu Tianfu,Dep 13:48,1,HKG
+CX 3291,13:40,HKG,At gate 19:29,0,"Chicago
+Anchorage"
+MU 702,13:40,Shanghai/PVG,Dep 13:46,1,HKG
+HB 703,13:45,HKG,At gate 14:05,1,Taipei
+CA 104,13:45,Tianjin,Dep 13:46,1,HKG
+CZ 310,13:45,Beijing/PKX,Dep 13:50,1,HKG
+WW 861,13:45,HKG,At gate 14:24,0,Kota Kinabalu
+CX 959,13:50,HKG,At gate 14:00,1,Hangzhou
+HX 254,13:50,Taipei,Dep 13:54,1,HKG
+CX 420,13:50,Taipei,Dep 13:54,1,HKG
+UO 821,13:55,HKG,At gate 13:51,1,Okinawa
+HX 253,13:55,HKG,At gate 14:16,1,Taipei
+7C 2102,13:55,Seoul/ICN,Dep 14:07,1,HKG
+SQ 892,13:55,HKG,At gate 14:08,1,Singapore
+HX 681,13:55,HKG,At gate 13:52,1,Okinawa
+CX 740,14:00,HKG,At gate 14:11,1,Hanoi
+UO 553,14:00,HKG,At gate 14:24,1,Da Nang
+UO 650,14:00,Tokyo/NRT,Dep 13:52,1,HKG
+ET 3218,14:00,HKG,At gate 07:55 (23/12/2023),0,Addis Ababa
+CX 392,14:00,Beijing/PEK,Dep 14:10,1,HKG
+CX 418,14:05,Seoul/ICN,Dep 14:10,1,HKG
+KE 173,14:05,HKG,At gate 14:22,1,Seoul/ICN
+CI 910,14:05,Taipei,Dep 14:41,1,HKG
+EY 9858,14:05,Abu Dhabi,Dep 14:07,0,HKG
+CX 735,14:10,Singapore,Dep 14:12,1,HKG
+CX 658,14:10,HKG,At gate 13:53,1,Singapore
+SC 1152,14:10,Jinan,Dep 14:02,1,HKG
+OD 605,14:10,HKG,At gate 16:50,1,Kuala Lumpur
+BR 869,14:10,HKG,At gate 14:39,1,Taipei
+VN 594,14:15,HKG,At gate 14:13,1,Ho Chi Minh
+CX 841,14:15,HKG,At gate 13:47,1,New York/JFK
+D7 692,14:15,HKG,At gate 14:20,1,Kuala Lumpur
+CX 310,14:15,Haikou,Dep 14:19,1,HKG
+GA 863,14:15,Jakarta,Dep 14:37,1,HKG
+CX 543,14:20,HKG,At gate 14:52,1,Tokyo/HND
+CX 937,14:20,HKG,At gate 13:45,1,Wuhan
+CX 780,14:20,HKG,At gate 14:10,1,Surabaya
+NH 860,14:20,Tokyo/HND,Dep 14:22,1,HKG
+CX 919,14:20,Manila,Dep 14:32,1,HKG
+MU 507,14:25,HKG,At gate 14:37,1,Shanghai/PVG
+CX 363,14:25,HKG,At gate 14:41,1,Shanghai/PVG
+CA 419,14:25,HKG,At gate 13:46,1,Chongqing
+CX 779,14:25,Surabaya,Dep 15:15,1,HKG
+HX 238,14:30,Shanghai/SHA,Dep 14:30,1,HKG
+CX 751,14:30,Bangkok,Dep 14:36,1,HKG
+VN 593,14:30,Hanoi,Dep 14:42,1,HKG
+CX 250,14:30,HKG,At gate 14:30,1,London/LHR
+HX 453,14:35,HKG,At gate 14:24,1,Chengdu Tianfu
+CA 112,14:35,Beijing/PEK,Dep 14:42,1,HKG
+5X 062,14:35,HKG,At gate 15:42,0,"Louisville
+Anchorage"
+K4 260,14:40,HKG,At gate 14:59,0,"Cincinnati
+Tokyo/NRT"
+FD 501,14:40,Bangkok/DMK,Dep 14:43,1,HKG
+BA 031,14:40,HKG,At gate 14:27,1,London/LHR
+EK 382,14:45,HKG,At gate 14:43,1,Dubai
+MU 204,14:45,Xian,Dep 14:43,1,HKG
+HX 741,14:45,Phuket,Dep 15:27,1,HKG
+WW 862,14:45,Kuala Lumpur,Dep 15:52,0,HKG
+2C 611,14:45,Paris,Dep 14:49,0,HKG
+CX 005,14:50,HKG,At gate 14:52,0,"Tokyo/NRT
+Taipei"
+UO 114,14:50,Taipei,Dep 15:23,1,HKG
+MH 073,14:50,Kuala Lumpur,Dep 15:10,1,HKG
+CX 3259,14:50,HKG,At gate 15:06,0,Shanghai/PVG
+MU 503,14:55,HKG,At gate 15:31,1,Shanghai/PVG
+BI 636,14:55,B S Begawan,Dep 14:57,1,HKG
+5X 002,14:55,HKG,At gate 17:38,0,"Philadelphia
+Cologne"
+CX 134,14:55,HKG,At gate 15:01,1,Melbourne
+HX 610,14:55,Tokyo/NRT,Dep 14:58,1,HKG
+UO 688,14:55,Osaka/Kansai,Dep 14:51,1,HKG
+UO 652,14:55,Tokyo/NRT,Dep 15:01,1,HKG
+T8 4702,15:00,Dubai/DWC,Dep 15:10,0,HKG
+CX 423,15:00,HKG,At gate 15:22,1,Kaohsiung
+CC 4157,15:00,Dubai/DWC,Dep 15:52,0,HKG
+HB 283,15:00,Bangkok,Dep 15:21,1,HKG
+CX 501,15:00,HKG,At gate 15:57,1,Tokyo/NRT
+CX 380,15:00,Shanghai/PVG,Dep 15:23,1,HKG
+SV 3024,15:05,HKG,At gate 16:18,0,Riyadh
+UO 173,15:05,HKG,At gate 15:18,1,Taichung
+CX 110,15:05,HKG,At gate 15:11,1,Sydney
+CX 635,15:05,Singapore,Dep 15:28,1,HKG
+OD 606,15:10,Kuala Lumpur,Dep 17:44,1,HKG
+QR 818,15:10,HKG,At gate 14:54,1,Doha
+CX 171,15:10,Perth,Dep 15:30,1,HKG
+5X 058,15:10,HKG,At gate 14:41,0,"Louisville
+Seoul/ICN"
+CX 930,15:10,HKG,At gate 15:27,1,Manila
+CZ 3011,15:15,HKG,At gate 15:05,1,Shenyang
+RH 9071,15:15,Dhaka,Dep 08:04 (23/12/2023),0,HKG
+EK 9282,15:15,HKG,At gate 03:53 (23/12/2023),0,Dubai/DWC
+3S 509,15:20,Leipzig,Dep 15:18,0,HKG
+VN 595,15:20,Ho Chi Minh,Dep 15:35,1,HKG
+CX 766,15:20,HKG,At gate 15:01,1,Ho Chi Minh
+N8 583,15:20,HKG,At gate 16:12,0,Tel Aviv
+BR 870,15:20,Taipei,Dep 15:51,1,HKG
+MU 508,15:25,Shanghai/PVG,Dep 15:40,1,HKG
+CA 420,15:25,Chongqing,Dep 15:20,1,HKG
+CX 495,15:25,HKG,At gate 16:14,1,Taipei
+KE 174,15:25,Seoul/ICN,Dep 15:31,1,HKG
+CX 500,15:25,Tokyo/NRT,Dep 15:53,1,HKG
+3S 590,15:30,HKG,At gate 16:33,0,"Leipzig
+Tokyo/NRT"
+CX 750,15:30,HKG,At gate 15:09,1,Bangkok
+D7 693,15:30,Kuala Lumpur,Dep 15:53,1,HKG
+JL 026,15:35,Tokyo/HND,Dep 15:37,1,HKG
+UO 725,15:35,HKG,At gate 16:01,1,Phuket
+UO 619,15:35,HKG,At gate 15:37,1,Seoul/ICN
+UO 684,15:35,Nagoya,Dep 15:50,1,HKG
+CV 4984,15:40,HKG,At gate 15:45,0,Luxembourg
+HX 237,15:40,HKG,At gate 16:21,1,Shanghai/PVG
+VJ 986,15:40,HKG,At gate 16:48,1,Phu Quoc Island
+CX 472,15:45,Taipei,Dep 16:20,1,HKG
+UO 759,15:45,HKG,At gate 16:53,1,Bangkok
+CX 925,15:45,Cebu,Dep 16:09,1,HKG
+SQ 893,15:45,Singapore,Dep 16:00,1,HKG
+CX 719,15:50,Jakarta,Dep 16:03,1,HKG
+CA 427,15:50,HKG,At gate 16:05,1,Chengdu Tianfu
+D0 004,15:50,HKG,At gate 16:34,0,"East Midlands
+Nagoya"
+UO 601,15:50,HKG,At gate 16:23,1,Fukuoka
+ZH 9091,15:55,HKG,At gate 15:50,1,Quanzhou
+MU 504,15:55,Shanghai/PVG,Dep 16:29,1,HKG
+6E 1708,15:55,Delhi,Dep 15:52,1,HKG
+PG 805,15:55,HKG,At gate 15:25,1,Samui
+CX 657,16:00,Singapore,Dep 16:06,1,HKG
+ET 3219,16:00,Addis Ababa,Dep 06:34 (23/12/2023),0,HKG
+MU 9615,16:05,HKG,At gate 16:46,1,"Hohhot
+Kunming"
+HX 312,16:05,Beijing/PEK,Dep 16:02,1,HKG
+NZ 081,16:05,HKG,At gate 16:08,1,Auckland
+CX 701,16:05,Bangkok,Dep 16:13,1,HKG
+UO 107,16:10,HKG,At gate 16:37,1,Taipei
+CA 105,16:10,HKG,At gate 16:04,1,Dalian
+HX 651,16:10,HKG,At gate 17:22,1,Yonago
+BR 855,16:15,HKG,At gate 16:10,1,Taipei
+RW 905,16:15,HKG,At gate 18:21,1,Davao
+CZ 3012,16:15,Shenyang,Dep 16:11,1,HKG
+CX 903,16:15,Manila,Dep 16:24,1,HKG
+CX 840,16:20,New York/JFK,Dep 17:29,1,HKG
+CX 349,16:20,HKG,At gate 16:25,1,Shanghai/SHA
+GJ 8053,16:20,HKG,At gate 16:35,1,Hangzhou
+EK 9842,16:20,HKG,At gate 17:30 (23/12/2023),0,Sharjah
+MU 509,16:20,HKG,At gate 16:22,1,Shanghai/PVG
+CI 915,16:25,HKG,At gate 16:51,1,Taipei
+CX 729,16:25,Kuala Lumpur,Dep 17:05,1,HKG
+CX 542,16:25,Tokyo/HND,Dep 16:38,1,HKG
+UO 702,16:25,Bangkok,Dep 17:09,1,HKG
+HU 705,16:25,HKG,At gate 16:00,1,Haikou
+UO 558,16:30,Da Nang,Dep 16:30,1,HKG
+MU 595,16:30,HKG,At gate 16:29,1,Hangzhou
+N8 576,16:35,HKG,At gate 19:00,0,Okinawa
+CX 502,16:35,Osaka/Kansai,Dep 16:34,1,HKG
+UO 133,16:35,HKG,At gate 16:24,1,Kaohsiung
+UO 626,16:35,Seoul/ICN,Dep 17:04,1,HKG
+QF 127,16:35,HKG,At gate 16:46,1,Sydney
+FX 5391,16:40,HKG,At gate 17:06,0,Seoul/ICN
+VJ 985,16:40,Phu Quoc Island,Dep 17:38,1,HKG
+CX 416,16:40,Seoul/ICN,Dep 16:38,1,HKG
+CX 3194,16:40,"Anchorage
+New York/JFK",Dep 16:43,0,HKG
+LH 796,16:40,HKG,At gate 18:04,1,Frankfurt
+CX 367,16:45,HKG,At gate 16:51,1,Shanghai/PVG
+CX 458,16:45,Kaohsiung,Dep 16:43,1,HKG
+CA 109,16:45,HKG,At gate 16:37,1,Beijing/PEK
+SV 3025,16:45,Riyadh,Dep 19:55,0,HKG
+CX 799,16:45,Ho Chi Minh,Dep 16:48,1,HKG
+CX 770,16:50,HKG,At gate 17:32,1,Phuket
+9C 8921,16:50,HKG,At gate 17:09,1,Shanghai/PVG
+HX 641,16:50,HKG,At gate 17:29,1,Fukuoka
+UO 754,16:50,Chiang Mai,Dep 16:53,1,HKG
+CX 396,16:50,Wenzhou,Dep 16:48,1,HKG
+MM 065,16:50,HKG,At gate 17:38,1,Osaka/Kansai
+HX 765,16:55,Bangkok,Dep 17:06,1,HKG
+CX 634,16:55,HKG,At gate 17:15,1,Penang
+MU 2089,16:55,HKG,At gate 17:19,1,Ningbo
+X6 251,16:55,HKG,At gate 17:00,0,Tel Aviv
+SV 982,16:55,HKG,At gate 17:43,0,Jeddah
+ZH 9092,16:55,Quanzhou,Dep 16:57,1,HKG
+QR 8404,16:55,HKG,At gate 16:46,0,Doha
+CX 453,17:00,HKG,At gate 17:22,1,Seoul/ICN
+CX 731,17:00,Dubai,Dep 17:48,1,HKG
+TK 070,17:00,HKG,At gate 21:28,1,Istanbul
+UO 675,17:00,HKG,At gate 17:26,1,Busan
+CX 614,17:00,HKG,At gate 17:12,1,Bangkok
+UO 113,17:00,HKG,At gate 17:02,1,Taipei
+CX 357,17:05,HKG,At gate 17:03,1,Nanjing
+F5 2239,17:05,Dubai/DWC,Dep 20:05,0,HKG
+PG 806,17:05,Samui,Dep 17:03,1,HKG
+MU 9616,17:05,"Kunming
+Hohhot",Dep 17:36,1,HKG
+SQ 894,17:05,HKG,At gate 17:24,1,Singapore
+CX 690,17:05,HKG,At gate 17:15,1,Singapore
+GTR3934,17:05,HKG,At gate 18:10,0,Budapest
+MU 2067,17:10,HKG,At gate 17:00,1,Hefei
+CX 162,17:10,HKG,At gate 17:53,1,Sydney
+CA 106,17:10,Dalian,Dep 17:03,1,HKG
+HX 636,17:10,Osaka/Kansai,Dep 17:09,1,HKG
+CX 987,17:15,HKG,At gate 17:21,1,Chengdu Tianfu
+RW 910,17:15,Cebu,Dep 19:30,1,HKG
+HB 761,17:15,HKG,At gate 17:39,1,Seoul/ICN
+HX 205,17:20,HKG,At gate 17:40,1,Nanjing
+GJ 8054,17:20,Hangzhou,Dep 17:29,1,HKG
+CX 685,17:20,Mumbai,Dep 17:44,1,HKG
+HB 341,17:25,HKG,At gate 18:04,1,Osaka/Kansai
+CI 916,17:25,Taipei,Dep 18:02,1,HKG
+CX 2049,17:25,Hanoi,Dep 17:21,0,HKG
+UO 572,17:25,Manila,Dep 17:44,1,HKG
+CA 428,17:25,Chengdu Tianfu,Dep 17:16,1,HKG
+CX 391,17:30,HKG,At gate 18:00,1,Beijing/PEK
+HX 309,17:30,HKG,At gate 17:26,1,Beijing/PKX
+CX 364,17:30,Shanghai/PVG,Dep 17:45,1,HKG
+EK 9283,17:30,Dubai/DWC,Dep 07:09 (23/12/2023),0,HKG
+MU 596,17:30,Hangzhou,Dep 17:41,1,HKG
+GJ 805V,17:30,Hangzhou,Dep 18:32,1,HKG
+5X 061,17:30,"Taipei
+Anchorage
+Louisville",Dep 18:04,0,HKG
+AK 136,17:30,HKG,At gate 17:02,1,Kuala Lumpur
+3U 3959,17:35,HKG,At gate 17:16,1,Chengdu Tianfu
+HX 629,17:35,HKG,At gate 18:09,1,Seoul/ICN
+BR 856,17:35,Taipei,Dep 17:33,1,HKG
+CV 5935,17:40,"Anchorage
+Felipe Angeles
+Luxembourg",Dep 17:42,0,HKG
+NZ 080,17:40,Auckland,Dep 18:02,1,HKG
+MU 510,17:40,Shanghai/PVG,Dep 17:45,1,HKG
+LX 138,17:40,HKG,At gate 17:47,1,Zurich
+CX 695,17:40,Delhi,Dep 17:53,1,HKG
+EK 384,17:40,HKG,At gate 18:18,1,"Dubai
+Bangkok"
+PR 306,17:40,HKG,At gate 18:50,1,Manila
+TG 638,17:45,HKG,At gate 18:06,1,Bangkok
+FM 809,17:45,HKG,At gate 17:44,1,Shanghai/SHA
+HX 282,17:45,Taipei,Dep 18:47,1,HKG
+BA 027,17:45,HKG,At gate 17:56,1,London/LHR
+CV 4164,17:45,HKG,At gate 21:03,0,"Luxembourg
+Tbilisi"
+CX 978,17:50,Xiamen,Dep 17:54,1,HKG
+UO 687,17:50,HKG,At gate 19:01,1,Osaka/Kansai
+CA 110,17:50,Beijing/PEK,Dep 17:55,1,HKG
+HX 657,17:50,HKG,At gate 18:02,1,Okinawa
+UO 617,17:50,HKG,At gate 18:23,1,Kumamoto
+9C 8922,17:50,Shanghai/PVG,Dep 18:01,1,HKG
+HX 232,17:55,Shanghai/PVG,Dep 18:20,1,HKG
+UO 622,17:55,Tokyo/HND,Dep 18:03,1,HKG
+CX 443,17:55,HKG,At gate 18:48,1,Taipei
+CI 5827,17:55,HKG,At gate 19:18,0,Taipei
+CX 990,17:55,Fuzhou,Dep 18:17,1,HKG
+CX 3217,17:55,Mumbai,Dep 18:02,0,HKG
+QF 029,18:00,HKG,At gate 18:31,1,Melbourne
+5J 112,18:00,HKG,At gate 18:24,1,Manila
+PO 098D,18:00,HKG,At gate 17:56 (23/12/2023),0,Leipzig
+MU 2090,18:00,Ningbo,Dep 18:25,1,HKG
+MM 066,18:00,Osaka/Kansai,Dep 18:43,1,HKG
+EK 383,18:00,Dubai,Dep 18:18,1,HKG
+ET 608,18:05,HKG,At gate 17:57,1,"Addis Ababa
+Bangkok"
+D0 001,18:05,"Nagoya
+East Midlands",Dep 18:39,0,HKG
+CX 411,18:10,HKG,At gate 18:59,1,Seoul/ICN
+HB 261,18:10,Ho Chi Minh,Dep 18:52,1,HKG
+MU 2068,18:10,Hefei,Dep 18:02,1,HKG
+ZH 8033,18:10,HKG,At gate 17:59,1,Chengdu Tianfu
+HX 665,18:10,HKG,At gate 18:40,1,Nagoya
+SQ 7860,18:10,HKG,At gate 18:00,0,Singapore
+LH 8474,18:10,HKG,Est at 23:05 (23/12/2023),0,"Frankfurt
+Bengaluru"
+CX 812,18:10,Boston,Dep 18:13,1,HKG
+AK 137,18:15,Kuala Lumpur,Dep 18:13,1,HKG
+UO 643,18:15,HKG,At gate 19:00,1,Takamatsu
+CX 951,18:15,HKG,At gate 19:04,1,Qingdao
+UO 182,18:15,Taichung,Dep 18:29,1,HKG
+CX 2016,18:15,Taipei,Dep 18:41,0,HKG
+CX 313,18:15,HKG,At gate 17:55,1,Haikou
+CX 961,18:20,HKG,At gate 18:53,1,Hangzhou
+EK 9843,18:20,Dubai/DWC,Dep 19:31 (23/12/2023),0,HKG
+AC 007,18:20,HKG,At gate 19:12,1,Vancouver
+N8 584,18:20,"Anchorage
+Miami",Dep 19:19,0,HKG
+CX 630,18:25,HKG,At gate 18:23,1,Singapore
+MF 8651,18:25,HKG,At gate 18:26,1,Fuzhou
+5J 236,18:25,HKG,At gate 18:13,1,Cebu
+HU 706,18:25,Haikou,Dep 18:29,1,HKG
+HB 704,18:30,Taipei,Dep 19:25,1,HKG
+AF 188,18:30,HKG,At gate 19:44,1,Paris
+RH 9492,18:30,HKG,At gate 06:39 (23/12/2023),0,"Istanbul
+Almaty"
+BR 871,18:30,HKG,At gate 19:04,1,Taipei
+CX 402,18:30,Taipei,Dep 18:54,1,HKG
+HX 255,18:35,HKG,At gate 19:05,1,Taipei
+QF 7525,18:35,HKG,At gate 18:48,0,Sydney
+QF 128,18:35,Sydney,Dep 19:03,1,HKG
+K4 261,18:40,"Seoul/ICN
+Nagoya
+Cincinnati",Dep 18:58,0,HKG
+SV 983,18:40,Riyadh,Dep 19:24,0,HKG
+MU 2569,18:40,HKG,At gate 18:20,1,Wuhan
+3U 3960,18:40,Chengdu Tianfu,Dep 18:39,1,HKG
+CX 826,18:40,Toronto,Dep 19:27,1,HKG
+SQ 896,18:40,HKG,At gate 18:31,1,Singapore
+UO 116,18:45,Taipei,Dep 20:07,1,HKG
+FM 810,18:45,Shanghai/SHA,Dep 18:49,1,HKG
+CX 254,18:45,HKG,At gate 18:47,1,London/LHR
+VJ 876,18:50,HKG,At gate 19:28,1,Ho Chi Minh
+SQ 895,18:50,Singapore,Dep 18:50,1,HKG
+UO 134,18:50,Kaohsiung,Dep 18:49,1,HKG
+FX 169,18:50,HKG,At gate 19:06,0,"Memphis
+Anchorage
+Tokyo/NRT"
+QR 817,18:50,Doha,Dep 18:52,1,HKG
+HX 107,18:55,Haikou,Dep 18:57,1,HKG
+TG 639,18:55,Bangkok,Dep 19:17,1,HKG
+CX 527,18:55,HKG,At gate 19:49,1,Tokyo/NRT
+QR 8405,18:55,Doha,Dep 18:49,0,HKG
+CI 919,18:55,HKG,At gate 19:38,1,Taipei
+CX 674,18:55,HKG,At gate 18:48,1,Bangkok
+CX 344,19:00,Beijing/PEK,Dep 19:03,1,HKG
+CA 115,19:00,HKG,At gate 19:27,1,Beijing/PEK
+UO 669,19:00,HKG,At gate 19:31,1,Fukuoka
+UO 851,19:00,HKG,At gate 20:07,1,Osaka/Kansai
+CX 603,19:00,Kathmandu,Dep 19:06,1,HKG
+UO 681,19:00,HKG,At gate 19:59,1,Nagoya
+CX 947,19:05,HKG,At gate 19:06,1,Xian
+CX 797,19:05,Jakarta,Dep 19:10,1,HKG
+CX 831,19:05,HKG,At gate 18:34,1,New York/JFK
+UA 801,19:05,HKG,At gate 19:20,1,Los Angeles
+CX 135,19:05,Melbourne,Dep 19:03,1,HKG
+GTR3553,19:05,"Nur-Sultan
+Madrid",Dep 21:19,0,HKG
+CX 421,19:05,HKG,At gate 19:24,1,Taipei
+ZH 8034,19:10,Chengdu Tianfu,Dep 19:12,1,HKG
+CX 539,19:10,HKG,At gate 19:41,1,Nagoya
+HX 776,19:10,HKG,At gate 19:30,1,Bangkok
+AY 099,19:10,HKG,At gate 19:35,1,Helsinki
+CX 916,19:15,Chengdu Tianfu,Dep 19:20,1,HKG
+FD 504,19:15,HKG,At gate 19:11,1,Bangkok/DMK
+5J 113,19:15,Manila,Dep 19:52,1,HKG
+UA 869,19:20,HKG,At gate 20:37,1,San Francisco
+CX 111,19:20,Sydney,Dep 19:40,1,HKG
+CX 362,19:20,Shanghai/PVG,Dep 19:49,1,HKG
+PR 307,19:20,Manila,Dep 20:06,1,HKG
+MU 505,19:20,HKG,At gate 19:47,1,Shanghai/PVG
+5J 237,19:25,Cebu,Dep 19:28,1,HKG
+CX 341,19:25,HKG,At gate 19:27,1,Shanghai/SHA
+HX 169,19:25,Sanya,Dep 19:20,1,HKG
+MF 8652,19:25,Fuzhou,Dep 19:23,1,HKG
+CX 722,19:30,HKG,At gate 20:35,1,Kuala Lumpur
+ZH 9095,19:30,HKG,At gate 19:32,1,Wuxi
+CX 589,19:30,HKG,At gate 20:13,1,Fukuoka
+QF 030,19:30,Melbourne,Dep 20:04,1,HKG
+RH 372,19:30,HKG,At gate 21:13,0,Singapore
+CX 667,19:35,Dhaka,Dep 19:36,1,HKG
+CI 935,19:35,HKG,At gate 19:54,1,Kaohsiung
+HO 1291,19:35,HKG,At gate 19:58,1,Shanghai/PVG
+UO 115,19:35,HKG,At gate 20:45,1,Taipei
+PX 008,19:35,HKG,At gate 19:53,1,Port Moresby
+HX 241,19:40,HKG,At gate 20:05,1,Shanghai/PVG
+MH 6012,19:40,HKG,At gate 23:57,0,"Kuala Lumpur
+Kuching"
+BR 872,19:40,Taipei,Dep 20:08,1,HKG
+AK 239,19:45,HKG,At gate 19:40,1,Kota Kinabalu
+TG 606,19:45,HKG,At gate 19:44,1,Bangkok
+HX 609,19:50,HKG,At gate 20:24,1,Tokyo/NRT
+N8 582,19:50,"Anchorage
+Miami",Est at 20:30 (23/12/2023),0,HKG
+UO 628,19:50,Tokyo/HND,Dep 21:08,1,HKG
+VJ 877,19:50,Ho Chi Minh,Dep 20:44,1,HKG
+UO 226,19:50,Ningbo,Dep 20:01,1,HKG
+CI 920,19:55,Taipei,Dep 20:43,1,HKG
+CI 5828,19:55,Taipei,Dep 21:26,0,HKG
+FD 524,19:55,HKG,At gate 20:10,1,Phuket
+SQ 897,19:55,Singapore,Dep 19:55,1,HKG
+X6 252,20:00,Dubai/DWC,Dep 20:21,0,HKG
+UO 849,20:00,HKG,At gate 21:10,1,Tokyo/NRT
+7L 691,20:00,HKG,At gate 00:22 (23/12/2023),0,Baku
+MU 2570,20:00,Wuhan,Dep 19:58,1,HKG
+BR 857,20:05,HKG,At gate 21:01,1,Taipei
+QF 7526,20:05,Sydney,Dep 20:35,0,HKG
+UO 701,20:05,HKG,At gate 20:04,1,Bangkok
+CX 988,20:05,Guangzhou,Dep 20:15,1,HKG
+FD 505,20:10,Bangkok/DMK,Dep 20:03,1,HKG
+CI 923,20:10,HKG,At gate 20:15,1,Taipei
+CX 3119,20:10,Colombo,Dep 20:37,0,HKG
+HB 321,20:10,HKG,At gate 20:12,1,Tokyo/NRT
+UO 764,20:10,Phuket,Dep 20:24,1,HKG
+CX 663,20:10,Mumbai,Dep 20:35,1,HKG
+VJ 966,20:15,HKG,At gate 20:09,1,Da Nang
+CX 549,20:15,HKG,At gate 20:20,1,Tokyo/HND
+CA 116,20:15,Beijing/PEK,Dep 20:28,1,HKG
+RH 317,20:15,Hanoi,Dep 22:51,0,HKG
+5X 063,20:20,"Anchorage
+Louisville",Dep 20:19,0,HKG
+CX 913,20:20,Manila,Dep 20:27,1,HKG
+AC 008,20:20,Vancouver,Dep 20:35,1,HKG
+MU 506,20:20,Shanghai/PVG,Dep 20:54,1,HKG
+CX 561,20:25,HKG,At gate 20:46,1,Osaka/Kansai
+CX 776,20:25,HKG,At gate 20:40,1,Jakarta
+CX 715,20:25,Singapore,Dep 21:05,1,HKG
+CX 757,20:25,Bangkok,Dep 20:50,1,HKG
+5J 120,20:30,HKG,At gate 20:45,1,Clark
+CX 918,20:30,HKG,At gate 20:09,1,Manila
+AK 130,20:30,HKG,At gate 20:10,1,Kuala Lumpur
+CX 369,20:30,HKG,At gate 21:01,1,Shanghai/PVG
+CX 679,20:30,Delhi,Dep 20:40,1,HKG
+HX 220,20:30,Nanjing,Dep 20:36,1,HKG
+HO 1292,20:35,Shanghai/PVG,Dep 20:54,1,HKG
+CX 331,20:35,HKG,At gate 20:35,1,Beijing/PEK
+HX 691,20:35,HKG,At gate 21:13,1,Sapporo
+EK 9880,20:35,HKG,At gate 21:01,0,Dubai/DWC
+SQ 7859,20:35,Singapore,Dep 19:46,0,HKG
+CI 936,20:35,Kaohsiung,Dep 21:08,1,HKG
+HX 619,20:35,HKG,At gate 21:19,1,Osaka/Kansai
+CX 807,20:35,HKG,At gate 20:24,1,Chicago
+ZH 9096,20:40,Wuxi,Dep 20:38,1,HKG
+AK 238,20:40,Kota Kinabalu,Dep 20:28,1,HKG
+CX 473,20:40,HKG,At gate 21:41,1,Taipei
+HX 304,20:45,Beijing/PEK,Dep 20:45,1,HKG
+PX 019,20:45,Port Moresby,Dep 21:05,1,HKG
+TG 607,20:45,Bangkok,Dep 21:06,1,HKG
+5J 114,20:45,HKG,At gate 21:20,1,Manila
+5X 059,20:45,"Anchorage
+Ontario",Dep 20:50,0,HKG
+HX 239,20:45,HKG,At gate 20:44,1,Shanghai/SHA
+CX 734,20:45,HKG,At gate 21:38,1,Singapore
+TH 6826,20:50,HKG,At gate 21:21,0,Kuala Lumpur
+FD 525,20:50,Phuket,Dep 20:50,1,HKG
+HX 496,20:50,Chongqing,Dep 20:54,1,HKG
+BR 809,20:50,HKG,At gate 21:10,1,Taipei
+CA 117,20:50,HKG,At gate 20:58,1,Beijing/PEK
+TR 974,20:55,HKG,At gate 21:43,1,Singapore
+CX 581,20:55,HKG,At gate 21:22,1,Sapporo
+HX 284,20:55,Taipei,Dep 21:08,1,HKG
+UO 899,21:00,HKG,At gate 21:31,1,Osaka/Kansai
+MU 723,21:00,HKG,At gate 21:38,1,Shanghai/PVG
+EK 385,21:00,"Bangkok
+Dubai",Dep 21:15,1,HKG
+UO 559,21:00,HKG,At gate 21:00,1,Da Nang
+PO 916,21:05,Los Angeles,Dep 04:23,0,HKG
+UO 639,21:05,HKG,At gate 21:41,1,Fukuoka
+UA 802,21:05,Los Angeles,Dep 21:20,1,HKG
+CX 123,21:05,Christchurch,Dep 21:24,1,HKG
+CX 521,21:10,HKG,At gate 22:08,1,Tokyo/NRT
+CX 784,21:10,HKG,At gate 21:34,1,Denpasar
+HX 234,21:10,Shanghai/PVG,Dep 21:16,1,HKG
+CX 459,21:10,HKG,At gate 21:07,1,Kaohsiung
+CI 924,21:10,Taipei,Dep 21:14,1,HKG
+HB 710,21:10,Taipei,Dep 21:31,1,HKG
+BR 858,21:10,Taipei,Dep 22:12,1,HKG
+VJ 967,21:15,Da Nang,Dep 22:01,1,HKG
+5J 121,21:15,Clark,Dep 21:45,1,HKG
+CX 198,21:15,HKG,At gate 21:26,1,Auckland
+CV 5165,21:20,"Anchorage
+Felipe Angeles
+Houston
+Luxembourg",Dep 22:42,0,HKG
+UO 871,21:20,HKG,At gate 21:34,1,Tokyo/NRT
+AK 131,21:20,Kuala Lumpur,Dep 21:08,1,HKG
+CX 161,21:20,Sydney,Dep 21:40,1,HKG
+CX 708,21:25,HKG,At gate 21:25,1,Bangkok
+PR 310,21:25,HKG,At gate 21:55,1,Manila
+CX 100,21:25,HKG,At gate 21:31,1,Sydney
+HX 128,21:25,Hangzhou,Dep 21:32,1,HKG
+QR 816,21:30,HKG,At gate 21:15,1,Doha
+CX 565,21:30,HKG,At gate 21:47,1,"Osaka/Kansai
+Taipei"
+FD 502,21:30,HKG,At gate 21:56,1,Bangkok/DMK
+TH 6820,21:30,HKG,At gate 22:27,0,Kuala Lumpur
+CX 507,21:35,HKG,At gate 21:52,1,Osaka/Kansai
+CX 113,21:35,Auckland,Dep 22:22,1,HKG
+MH 6013,21:40,Kuala Lumpur,Dep 01:31 (23/12/2023),0,HKG
+CX 3187,21:45,HKG,At gate 00:36 (23/12/2023),0,"Portland
+Anchorage"
+CX 451,21:45,HKG,At gate 22:05,1,"Tokyo/NRT
+Taipei"
+CX 3069,21:45,HKG,At gate 01:11 (23/12/2023),0,"Houston
+Anchorage"
+AY 100,21:45,Helsinki,Dep 21:58,1,HKG
+CX 448,21:45,Kaohsiung,Dep 21:39,1,HKG
+CX 104,21:45,HKG,At gate 22:09,1,Melbourne
+CX 724,21:50,HKG,At gate 22:20,1,Kuala Lumpur
+EK 380,21:50,HKG,At gate 21:58,1,Dubai
+BR 810,21:50,Taipei,Dep 22:10,1,HKG
+CX 375,21:55,HKG,At gate 21:55,1,Wenzhou
+CX 381,21:55,HKG,At gate 21:59,1,Shanghai/PVG
+CX 583,21:55,HKG,At gate 22:30,1,Sapporo
+TR 975,21:55,Singapore,Dep 23:09,1,HKG
+7L 148,22:00,"Dubai/DWC
+Baku",Dep 02:31 (23/12/2023),0,HKG
+HB 284,22:00,HKG,At gate 21:55,1,Bangkok
+5J 115,22:00,Manila,Dep 22:33,1,HKG
+CX 716,22:05,HKG,At gate 22:04,1,Singapore
+CX 939,22:05,Manila,Dep 22:35,1,HKG
+CX 531,22:05,HKG,At gate 22:15,1,"Nagoya
+Taipei"
+HX 669,22:05,HKG,At gate 23:27,1,Nagoya
+LH 8463,22:10,Frankfurt,Est at 01:35 (24/12/2023),0,HKG
+CX 979,22:15,HKG,At gate 22:04,1,Xiamen
+CX 902,22:15,HKG,At gate 22:17,1,Manila
+RH 9376,22:15,HKG,At gate 04:56 (23/12/2023),0,Chennai
+FX 5986,22:15,Memphis,Dep 21:57,0,HKG
+FX 5391,22:20,"Osaka/Kansai
+Tokyo/NRT
+Anchorage",Dep 22:25,0,HKG
+UO 183,22:20,HKG,At gate 22:17,1,Taichung
+CX 505,22:20,HKG,At gate 23:46,1,Tokyo/NRT
+TH 6827,22:20,Kuala Lumpur,Dep 23:03,0,HKG
+CX 393,22:25,HKG,At gate 22:12,1,Beijing/PEK
+FD 503,22:25,Bangkok/DMK,Dep 22:54,1,HKG
+UA 878,22:30,San Francisco,Dep 22:26,1,HKG
+CX 991,22:35,HKG,At gate 22:36,1,Fuzhou
+JL 735,22:35,HKG,At gate 23:17,1,Tokyo/NRT
+N8 507,22:35,HKG,At gate 02:15 (23/12/2023),0,Dubai/DWC
+UO 135,22:35,HKG,At gate 22:26,1,Kaohsiung
+CX 419,22:40,HKG,At gate 22:51,1,Seoul/ICN
+CX 926,22:40,HKG,At gate 22:39,1,Cebu
+AF 185,22:40,Paris,Dep 22:51,1,HKG
+SQ 898,22:45,HKG,At gate 22:49,1,Singapore
+HX 742,22:45,HKG,At gate 23:15,1,Phuket
+PR 311,22:45,Manila,Dep 23:00,1,HKG
+LX 139,22:50,Zurich,Dep 22:50,1,HKG
+HX 283,22:50,HKG,At gate 23:20,1,Taipei
+OZ 745,22:50,HKG,At gate 23:13,1,Seoul/ICN
+ET 609,22:50,"Bangkok
+Addis Ababa",Dep 23:08,1,HKG
+CX 408,22:55,Taipei,Dep 23:02,1,HKG
+HX 779,22:55,Bangkok,Dep 22:59,1,HKG
+CX 251,22:55,London/LHR,Dep 23:03,1,HKG
+CX 702,23:00,HKG,At gate 23:17,1,Bangkok
+RH 9072,23:00,HKG,At gate 17:10 (23/12/2023),0,Dhaka
+BA 032,23:00,London/LHR,Dep 22:58,1,HKG
+FX 9799,23:00,HKG,At gate 00:52 (23/12/2023),0,Anchorage
+CI 921,23:00,HKG,At gate 23:01,1,Taipei
+UO 703,23:00,HKG,At gate 23:27,1,Bangkok
+TH 6821,23:05,Kuala Lumpur,Dep 23:46,0,HKG
+UO 117,23:05,HKG,At gate 00:45 (23/12/2023),1,Taipei
+UO 573,23:05,HKG,At gate 23:31,1,Manila
+CX 479,23:10,HKG,At gate 23:33,1,Taipei
+KE 177,23:10,HKG,At gate 23:26,1,Seoul/ICN
+UO 755,23:10,HKG,At gate 23:04,1,Chiang Mai
+CX 764,23:15,HKG,At gate 23:19,1,Ho Chi Minh
+HX 108,23:20,HKG,At gate 22:49,1,Haikou
+CX 2025,23:20,HKG,At gate 23:39,0,Taipei
+CX 271,23:20,Amsterdam,Dep 23:34,1,HKG
+ES 723,23:20,HKG,At gate 22:52,0,Bahrain
+HB 705,23:20,HKG,At gate 23:43,1,Taipei
+CZ 5009,23:20,HKG,At gate 23:37,1,Beijing/PKX
+HX 743,23:25,Phuket,Dep 00:37 (23/12/2023),1,HKG
+EK 9881,23:25,Dubai/DWC,Dep 23:08,0,HKG
+UO 647,23:25,HKG,At gate 00:03 (23/12/2023),1,Tokyo/NRT
+CX 2048,23:30,HKG,At gate 23:30,0,Hanoi
+TK 071,23:30,Istanbul,Dep 23:35,1,HKG
+RH 351,23:35,Manila,Dep 02:35 (23/12/2023),0,HKG
+CX 989,23:35,HKG,At gate 23:45,1,Guangzhou
+CX 255,23:35,London/LHR,Dep 23:57,1,HKG
+HX 170,23:40,HKG,At gate 23:49,1,Sanya
+BA 028,23:40,London/LHR,Dep 23:41,1,HKG
+SV 974,23:40,HKG,At gate 07:23 (23/12/2023),0,Riyadh
+CX 2074,23:45,HKG,At gate 00:39 (23/12/2023),0,"Singapore
+Penang"
+RW 909,23:45,HKG,At gate 02:31 (23/12/2023),1,Cebu
+LH 797,23:45,Frankfurt,Dep 23:48,1,HKG
+HB 231,23:50,Manila,Dep 23:59,1,HKG
+HX 761,23:50,Bangkok,Dep 00:22 (23/12/2023),1,HKG
+MH 078,23:50,HKG,At gate 01:34 (23/12/2023),1,Kuala Lumpur
+HX 766,23:50,HKG,At gate 00:02 (23/12/2023),1,Bangkok
+UO 624,23:55,Tokyo/HND,Dep 23:57,1,HKG
+CX 101,23:55,Sydney,Dep 00:05 (23/12/2023),1,HKG
+UO 689,23:55,HKG,At gate 00:36 (23/12/2023),1,Osaka/Kansai
+CX 090,23:55,"Los Angeles
+Anchorage
+Dallas FT.Worth",Dep 09:35 (23/12/2023),0,HKG

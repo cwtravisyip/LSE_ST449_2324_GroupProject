@@ -1,0 +1,1148 @@
+time_sch,time_act,code,dest,stat,orig
+06:00,06:00,HV 5315 Transavia,Larnaca (LCA),DEPARTED,Amsterdam
+06:30,06:30,HV 6411 Transavia,Naples (NAP),DEPARTED,Amsterdam
+06:30,07:04,HV 6901 Transavia,Dubai International (DXB),DEPARTED,Amsterdam
+06:40,06:55,HV 5951 Transavia,Lisbon (LIS),DEPARTED,Amsterdam
+06:40,06:40,HV 6331 Transavia,Valencia (VLC),DEPARTED,Amsterdam
+06:45,06:45,KL 1141 KLM,Oslo (OSL),DEPARTED,Amsterdam
+06:45,06:45,KL 1165 KLM,Helsinki (HEL),DEPARTED,Amsterdam
+06:50,07:16,HV 6115 Transavia,Malaga (AGP),DEPARTED,Amsterdam
+06:50,07:23,HV 6609 Transavia,Innsbruck (INN),DEPARTED,Amsterdam
+06:50,06:50,KL 1223 KLM,Paris de Gaulle (CDG),CANCELLED,Amsterdam
+06:50,06:50,KL 1351 KLM,Prague (PRG),DEPARTED,Amsterdam
+06:50,06:50,KL 1721 KLM,Brussels (BRU),DEPARTED,Amsterdam
+06:50,07:00,KL 1853 KLM,Dusseldorf (DUS),DEPARTED,Amsterdam
+06:50,06:50,KL 1953 KLM,Zurich (ZRH),DEPARTED,Amsterdam
+06:55,06:55,KL 1105 KLM,Stockholm (ARN),DEPARTED,Amsterdam
+06:55,06:55,KL 1777 KLM,Hamburg (HAM),DEPARTED,Amsterdam
+07:00,07:00,EJU 7847 easyJet Europe,Bristol (BRS),DEPARTED,Amsterdam
+07:00,07:00,HV 5131 Transavia,Barcelona (BCN),DEPARTED,Amsterdam
+07:00,07:39,HV 6705 Transavia,Fuerteventura (FUE),DEPARTED,Amsterdam
+07:00,07:00,KL 1597 KLM,Rome (FCO),DEPARTED,Amsterdam
+07:00,07:00,KL 1925 KLM,Geneva (GVA),DEPARTED,Amsterdam
+07:00,07:00,LO 270 LOT Polish Airlines,Warsaw (WAW),DEPARTED,Amsterdam
+07:00,07:00,LX 737 Swiss International Airlines,Zurich (ZRH),DEPARTED,Amsterdam
+07:00,07:00,TP 675 TAP Air Portugal,Lisbon (LIS),DEPARTED,Amsterdam
+07:00,07:00,VY 8308 Vueling,Barcelona (BCN),DEPARTED,Amsterdam
+07:05,07:05,AZ 119 ITA Airways,Milan Linate (LIN),DEPARTED,Amsterdam
+07:05,07:05,EJU 8672 easyJet Europe,London Gatwick (LGW),DEPARTED,Amsterdam
+07:05,08:35,KL 981 KLM,London City (LCY),DEPARTED,Amsterdam
+07:05,07:05,LH 2311 Lufthansa,Munich (MUC),DEPARTED,Amsterdam
+07:05,07:05,OS 378 Austrian Airlines,Vienna (VIE),DEPARTED,Amsterdam
+07:10,07:10,OR 3711 TUI fly,Tenerife (TFS),DEPARTED,Amsterdam
+07:15,07:15,EJU 2164 easyJet Europe,Manchester (MAN),DEPARTED,Amsterdam
+07:15,07:30,EJU 7939 easyJet Europe,Copenhagen (CPH),DEPARTED,Amsterdam
+07:15,07:34,HV 6727 Transavia,Sevilla (SVQ),DEPARTED,Amsterdam
+07:15,07:15,VY 8364 Vueling,Malaga (AGP),DEPARTED,Amsterdam
+07:20,07:20,KL 1001 KLM,London Heathrow (LHR),DEPARTED,Amsterdam
+07:20,07:38,KL 1227 KLM,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+07:25,07:25,BA 423 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+07:25,07:25,LH 1003 Lufthansa,Frankfurt (FRA),DEPARTED,Amsterdam
+07:30,07:30,EJU 7865 easyJet Europe,Geneva (GVA),DEPARTED,Amsterdam
+07:30,07:30,EJU 7883 easyJet Europe,Tenerife (TFS),DEPARTED,Amsterdam
+07:30,07:30,KL 933 KLM,Dublin (DUB),DEPARTED,Amsterdam
+07:35,07:35,HV 5753 Transavia,Marrakech (RAK),DEPARTED,Amsterdam
+07:40,07:40,EJU 7887 easyJet Europe,Arrecife (ACE),DEPARTED,Amsterdam
+07:40,07:50,EJU 7891 easyJet Europe,Las Palmas de Gran Canaria (LPA),DEPARTED,Amsterdam
+07:40,07:40,KL 1187 KLM,Bergen (BGO),DEPARTED,Amsterdam
+07:40,07:40,KL 1699 KLM,Madrid (MAD),DEPARTED,Amsterdam
+07:45,07:45,KL 1125 KLM,Copenhagen (CPH),DEPARTED,Amsterdam
+07:45,07:45,KL 1791 KLM,Munich (MUC),DEPARTED,Amsterdam
+07:55,07:55,KL 1197 KLM,Stavanger (SVG),DEPARTED,Amsterdam
+07:55,07:55,VY 8314 Vueling,Barcelona (BCN),DEPARTED,Amsterdam
+08:00,08:00,KL 1441 KLM,Aberdeen (ABZ),DEPARTED,Amsterdam
+08:00,08:00,KL 1471 KLM,Glasgow (GLA),DEPARTED,Amsterdam
+08:00,08:00,KL 1867 KLM,Stuttgart (STR),DEPARTED,Amsterdam
+08:05,08:05,KL 985 KLM,London City (LCY),DEPARTED,Amsterdam
+08:05,08:05,KL 1071 KLM,Manchester (MAN),DEPARTED,Amsterdam
+08:05,08:05,KL 1153 KLM,Gothenburg (GOT),DEPARTED,Amsterdam
+08:05,08:16,KL 1277 KLM,Edinburgh (EDI),DEPARTED,Amsterdam
+08:05,08:05,KL 1821 KLM,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+08:10,08:10,KL 1229 KLM,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+08:10,08:10,OR 3701 TUI fly,Ilha Do Sal (SID),DEPARTED,Amsterdam
+08:15,08:15,KL 1049 KLM,Bristol (BRS),DEPARTED,Amsterdam
+08:15,08:15,KL 1665 KLM,Barcelona (BCN),DEPARTED,Amsterdam
+08:25,08:25,KL 1107 KLM,Stockholm (ARN),DEPARTED,Amsterdam
+08:25,08:25,KL 1421 KLM,Birmingham (BHX),DEPARTED,Amsterdam
+08:25,08:48,KL 1883 KLM,Nuremberg (NUE),DEPARTED,Amsterdam
+08:30,08:30,KL 957 KLM,Newcastle (NCL),CANCELLED,Amsterdam
+08:30,08:30,KL 1329 KLM,Aalborg (AAL),DEPARTED,Amsterdam
+08:30,08:30,KL 1763 KLM,Frankfurt (FRA),DEPARTED,Amsterdam
+08:35,08:35,KL 1007 KLM,London Heathrow (LHR),DEPARTED,Amsterdam
+08:35,08:35,KL 1341 KLM,Billund (BLL),DEPARTED,Amsterdam
+08:40,08:40,WA 917 KLM Cityhopper,Southampton (SOU),DEPARTED,Amsterdam
+08:45,09:22,KL 713 KLM,Paramaribo (PBM),DEPARTED,Amsterdam
+08:45,08:45,KL 1693 KLM,Lisbon (LIS),DEPARTED,Amsterdam
+08:50,08:50,8R 6769 Amelia,Strasbourg (SXB),DEPARTED,Amsterdam
+08:50,08:50,EZS 1222 easyJet Switzerland,Basel (BSL),DEPARTED,Amsterdam
+08:50,09:11,HV 5819 Transavia,Bari (BRI),DEPARTED,Amsterdam
+08:50,08:50,KL 1515 KLM,Norwich (NWI),DEPARTED,Amsterdam
+08:50,09:04,KL 1711 KLM,Oporto (OPO),DEPARTED,Amsterdam
+08:50,08:50,LH 987 Lufthansa,Frankfurt (FRA),DEPARTED,Amsterdam
+08:55,10:25,DL 47 Delta Air Lines,New York JFK (JFK),DEPARTED,Amsterdam
+08:55,09:28,LH 2301 Lufthansa,Munich (MUC),DEPARTED,Amsterdam
+09:00,09:41,HV 5747 Transavia,Casablanca (CMN),DEPARTED,Amsterdam
+09:00,09:27,HV 5807 Transavia,Thessaloniki (SKG),DEPARTED,Amsterdam
+09:00,09:17,KL 1619 KLM,Milan Linate (LIN),DEPARTED,Amsterdam
+09:05,09:16,KL 1903 KLM,Hanover (HAJ),DEPARTED,Amsterdam
+09:10,09:10,EJU 5282 easyJet Europe,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+09:15,09:15,DL 57 Delta Air Lines,Salt L. City (SLC),DEPARTED,Amsterdam
+09:15,09:15,DL 179 Delta Air Lines,Portland (PDX),DEPARTED,Amsterdam
+09:15,10:30,EJU 7977 easyJet Europe,Hurghada (HRG),DEPARTED,Amsterdam
+09:15,09:25,KL 1353 KLM,Prague (PRG),DEPARTED,Amsterdam
+09:15,09:15,KL 1993 KLM,Krakow (KRK),DEPARTED,Amsterdam
+09:15,09:15,UA 71 United Airlines,Newark (EWR),DEPARTED,Amsterdam
+09:20,09:20,KL 961 KLM,Newcastle (NCL),DEPARTED,Amsterdam
+09:20,09:20,KL 1723 KLM,Brussels (BRU),DEPARTED,Amsterdam
+09:25,09:39,KL 987 KLM,London City (LCY),DEPARTED,Amsterdam
+09:25,09:44,KL 1373 KLM,Bucharest (OTP),DEPARTED,Amsterdam
+09:25,10:14,KL 1545 KLM,Leeds Bradford (LBA),DEPARTED,Amsterdam
+09:25,09:56,KL 1739 KLM,Luxembourg (LUX),DEPARTED,Amsterdam
+09:25,09:45,KL 1753 KLM,Bremen (BRE),DEPARTED,Amsterdam
+09:25,09:25,KL 1779 KLM,Hamburg (HAM),DEPARTED,Amsterdam
+09:25,10:02,KL 1985 KLM,Basel (BSL),DEPARTED,Amsterdam
+09:30,09:30,AF 1241 Air France,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+09:30,09:42,EZY 2512 easyJet,London Luton (LTN),DEPARTED,Amsterdam
+09:30,09:30,KL 1059 KLM,Cardiff (CWL),DEPARTED,Amsterdam
+09:30,09:46,KL 1265 KLM,Marseille (MRS),DEPARTED,Amsterdam
+09:30,09:30,KL 1413 KLM,Lyon (LYS),DEPARTED,Amsterdam
+09:30,09:30,KL 1555 KLM,Turin (TRN),DEPARTED,Amsterdam
+09:30,09:30,KL 1793 KLM,Munich (MUC),DEPARTED,Amsterdam
+09:30,09:43,KL 1905 KLM,Belgrade (BEG),DEPARTED,Amsterdam
+09:30,09:51,KL 1927 KLM,Geneva (GVA),DEPARTED,Amsterdam
+09:35,09:35,BA 8450 British Airways,London City (LCY),DEPARTED,Amsterdam
+09:35,09:50,EI 603 Aer Lingus,Dublin (DUB),DEPARTED,Amsterdam
+09:35,09:35,EJU 3852 easyJet Europe,Milan Malpensa (MXP),DEPARTED,Amsterdam
+09:35,09:49,FR 421 Ryanair,Dublin (DUB),DEPARTED,Amsterdam
+09:35,09:35,KL 623 KLM,Atlanta (ATL),DEPARTED,Amsterdam
+09:35,09:53,KL 749 KLM,Cartagena (CTG),DEPARTED,Amsterdam
+09:35,09:35,XQ 745 SunExpress,Konya (KYA),DEPARTED,Amsterdam
+09:40,09:40,EI 841 Aer Lingus,Cork (ORK),DEPARTED,Amsterdam
+09:40,09:53,KL 1073 KLM,Manchester (MAN),DEPARTED,Amsterdam
+09:40,09:57,KL 1179 KLM,Linkoping (LPI),DEPARTED,Amsterdam
+09:40,10:11,KL 1253 KLM,Nice (NCE),DEPARTED,Amsterdam
+09:40,10:06,KL 1601 KLM,Rome (FCO),DEPARTED,Amsterdam
+09:40,09:40,KL 1895 KLM,Graz (GRZ),DEPARTED,Amsterdam
+09:40,09:40,KL 1917 KLM,Gdansk (GDN),DEPARTED,Amsterdam
+09:40,09:54,KL 1957 KLM,Zurich (ZRH),DEPARTED,Amsterdam
+09:45,10:02,KL 1167 KLM,Helsinki (HEL),DEPARTED,Amsterdam
+09:45,10:07,KL 1199 KLM,Stavanger (SVG),DEPARTED,Amsterdam
+09:45,10:04,KL 1443 KLM,Aberdeen (ABZ),DEPARTED,Amsterdam
+09:45,09:56,KL 1455 KLM,Nantes (NTE),DEPARTED,Amsterdam
+09:45,10:04,KL 1823 KLM,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+09:45,09:45,KL 1845 KLM,Vienna (VIE),DEPARTED,Amsterdam
+09:50,10:01,KL 601 KLM,Los Angeles (LAX),DEPARTED,Amsterdam
+09:50,10:09,KL 1653 KLM,Venice (VCE),DEPARTED,Amsterdam
+09:50,10:12,KL 1701 KLM,Madrid (MAD),DEPARTED,Amsterdam
+09:50,10:17,LX 725 Swiss International Airlines,Zurich (ZRH),DEPARTED,Amsterdam
+09:55,09:55,EZY 2162 easyJet,Manchester (MAN),DEPARTED,Amsterdam
+09:55,09:55,KL 539 KLM,Entebbe (EBB),CANCELLED,Amsterdam
+09:55,10:17,KL 1315 KLM,Bordeaux (BOD),DEPARTED,Amsterdam
+09:55,10:10,KL 1485 KLM,Humberside (HUY),DEPARTED,Amsterdam
+09:55,10:15,KL 1533 KLM,Teesside International (MME),DEPARTED,Amsterdam
+09:55,09:55,KL 1765 KLM,Frankfurt (FRA),DEPARTED,Amsterdam
+09:55,10:25,KL 1869 KLM,Stuttgart (STR),DEPARTED,Amsterdam
+10:00,10:25,BT 618 AirBaltic,Riga (RIX),DEPARTED,Amsterdam
+10:00,11:09,JU 361 Air Serbia,Belgrade (BEG),DEPARTED,Amsterdam
+10:00,10:00,KL 571 KLM,Dar Es Salaam (DAR),DEPARTED,Amsterdam
+10:00,11:01,KL 605 KLM,San Francisco (SFO),DEPARTED,Amsterdam
+10:00,10:00,KL 1127 KLM,Copenhagen (CPH),DEPARTED,Amsterdam
+10:00,10:29,OS 372 Austrian Airlines,Vienna (VIE),DEPARTED,Amsterdam
+10:05,10:15,KL 661 KLM,Houston (IAH),DEPARTED,Amsterdam
+10:05,10:05,KL 689 KLM,Cancun (CUN),DEPARTED,Amsterdam
+10:05,10:18,KL 1641 KLM,Florence (FLR),DEPARTED,Amsterdam
+10:05,10:18,KL 1669 KLM,Barcelona (BCN),DEPARTED,Amsterdam
+10:05,10:28,KL 1975 KLM,Budapest (BUD),DEPARTED,Amsterdam
+10:10,10:10,BA 8496 British Airways,London City (LCY),DEPARTED,Amsterdam
+10:10,10:28,BT 858 AirBaltic,Tallinn (TLL),DEPARTED,Amsterdam
+10:10,10:10,DL 133 Delta Air Lines,Detroit (DTW),DEPARTED,Amsterdam
+10:10,10:59,HV 6141 Transavia,Alicante (ALC),DEPARTED,Amsterdam
+10:10,10:34,KL 1143 KLM,Oslo (OSL),DEPARTED,Amsterdam
+10:10,10:10,KL 1343 KLM,Billund (BLL),DEPARTED,Amsterdam
+10:10,10:29,KL 1363 KLM,Warsaw (WAW),DEPARTED,Amsterdam
+10:15,10:15,BA 429 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+10:15,10:32,KL 1855 KLM,Dusseldorf (DUS),DEPARTED,Amsterdam
+10:20,10:35,AF 1341 Air France,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+10:20,10:38,BT 962 AirBaltic,Vilnius (VNO),DEPARTED,Amsterdam
+10:20,10:34,FB 462 Bulgaria Air,Sofia (SOF),DEPARTED,Amsterdam
+10:20,10:20,KL 591 KLM,Johannesburg (JNB),DEPARTED,Amsterdam
+10:20,10:34,KL 597 KLM,Cape Town (CPT),DEPARTED,Amsterdam
+10:20,10:35,KL 1009 KLM,London Heathrow (LHR),DEPARTED,Amsterdam
+10:20,10:34,OR 1605 TUI fly,Arrecife (ACE),DEPARTED,Amsterdam
+10:20,10:57,UA 21 United Airlines,Houston (IAH),DEPARTED,Amsterdam
+10:25,11:25,KL 627 KLM,Miami (MIA),DEPARTED,Amsterdam
+10:25,10:25,SK 552 Scandinavian Airlines,Copenhagen (CPH),CANCELLED,Amsterdam
+10:25,10:25,SQ 323 Singapore Airlines,Singapore (SIN),DEPARTED,Amsterdam
+10:25,10:25,VY 8301 Vueling,Barcelona (BCN),DEPARTED,Amsterdam
+10:30,10:43,DL 143 Delta Air Lines,Seattle (SEA),DEPARTED,Amsterdam
+10:30,10:40,LO 266 LOT Polish Airlines,Warsaw (WAW),DEPARTED,Amsterdam
+10:35,10:53,DL 161 Delta Air Lines,Minneapolis (MSP),DEPARTED,Amsterdam
+10:35,10:35,KL 1583 KLM,Bologna (BLQ),DEPARTED,Amsterdam
+10:40,11:01,KL 705 KLM,Rio de Janeiro (GIG),DEPARTED,Amsterdam
+10:40,10:50,KL 1109 KLM,Stockholm (ARN),DEPARTED,Amsterdam
+10:40,10:40,SK 822 Scandinavian Airlines,Oslo (OSL),DEPARTED,Amsterdam
+10:45,11:24,KL 735 KLM,Curacao (CUR),DEPARTED,Amsterdam
+10:45,10:57,OR 1633 TUI fly,Las Palmas de Gran Canaria (LPA),DEPARTED,Amsterdam
+10:50,11:10,KL 777 KLM,Port O Spain (POS),DEPARTED,Amsterdam
+10:50,11:20,LH 989 Lufthansa,Frankfurt (FRA),DEPARTED,Amsterdam
+10:55,11:18,BA 2541 British Airways,London Gatwick (LGW),DEPARTED,Amsterdam
+10:55,11:08,CD 233 Corendon Dutch Airlines,Antalya (AYT),DEPARTED,Amsterdam
+10:55,10:55,DL 73 Delta Air Lines,Atlanta (ATL),DEPARTED,Amsterdam
+10:55,11:28,KL 791 KLM,Sao Paulo (GRU),DEPARTED,Amsterdam
+11:00,12:39,EJU 7927 easyJet Europe,Prague (PRG),DEPARTED,Amsterdam
+11:00,11:50,LH 2303 Lufthansa,Munich (MUC),DEPARTED,Amsterdam
+11:00,11:00,UA 908 United Airlines,Chicago (ORD),DEPARTED,Amsterdam
+11:00,11:00,UX 1098 Air Europa,Madrid (MAD),CANCELLED,Amsterdam
+11:05,11:05,KL 1303 KLM,Toulouse (TLS),DEPARTED,Amsterdam
+11:10,12:08,3O 128 Air Arabia Maroc,Tanger (TNG),DEPARTED,Amsterdam
+11:10,11:10,EJU 7845 easyJet Europe,Birmingham (BHX),DEPARTED,Amsterdam
+11:20,11:20,AY 1302 Finnair,Helsinki (HEL),DEPARTED,Amsterdam
+11:20,11:35,B6 32 JetBlue,Boston (BOS),DEPARTED,Amsterdam
+11:20,11:34,KL 757 KLM,Panama City (PTY),DEPARTED,Amsterdam
+11:20,11:50,OU 451 Croatia Airlines,Zagreb (ZAG),DEPARTED,Amsterdam
+11:30,11:59,DL 259 Delta Air Lines,Boston (BOS),DEPARTED,Amsterdam
+11:30,11:42,KL 1613 KLM,Istanbul Airport (IST),DEPARTED,Amsterdam
+11:30,11:49,KM 395 Air Malta,Malta (MLA),DEPARTED,Amsterdam
+11:30,11:40,MU 772 China Eastern Airlines,Shanghai (PVG),DEPARTED,Amsterdam
+11:40,11:40,BA 431 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+11:40,11:40,DL 49 Delta Air Lines,New York JFK (JFK),DEPARTED,Amsterdam
+11:40,12:03,KL 565 KLM,Nairobi (NBO),DEPARTED,Amsterdam
+11:40,12:10,RO 362 Tarom,Bucharest (OTP),DEPARTED,Amsterdam
+11:45,11:57,KL 877 KLM,Mumbai (BOM),DEPARTED,Amsterdam
+11:50,11:50,AZ 121 ITA Airways,Milan Linate (LIN),DEPARTED,Amsterdam
+11:50,11:50,KL 1623 KLM,Milan Linate (LIN),DEPARTED,Amsterdam
+11:55,11:55,AC 809 Air Canada,Toronto (YYZ),DEPARTED,Amsterdam
+11:55,12:38,AF 1795 Air France,Lyon (LYS),DEPARTED,Amsterdam
+11:55,11:55,AZ 107 ITA Airways,Rome (FCO),DEPARTED,Amsterdam
+11:55,11:55,KL 1185 KLM,Bergen (BGO),DEPARTED,Amsterdam
+11:55,12:35,PC 1252 Pegasus Airlines,Istanbul Sabiha (SAW),DEPARTED,Amsterdam
+12:00,12:00,KL 935 KLM,Dublin (DUB),DEPARTED,Amsterdam
+12:00,12:25,KL 1273 KLM,Poznan (POZ),DEPARTED,Amsterdam
+12:00,17:51,OG 461 Play,Reykjavik (KEF),DEPARTED,Amsterdam
+12:00,12:25,TK 1952 Turkish Airlines,Istanbul Airport (IST),DEPARTED,Amsterdam
+12:00,12:00,UA 947 United Airlines,Washington (IAD),DEPARTED,Amsterdam
+12:05,12:16,KL 1085 KLM,Cork (ORK),DEPARTED,Amsterdam
+12:10,12:10,KL 929 KLM,Inverness (INV),DEPARTED,Amsterdam
+12:10,12:10,KL 1255 KLM,Rennes (RNS),DEPARTED,Amsterdam
+12:10,12:22,KL 1271 KLM,Wroclaw (WRO),DEPARTED,Amsterdam
+12:10,12:10,KL 1475 KLM,Glasgow (GLA),DEPARTED,Amsterdam
+12:10,12:34,KL 1795 KLM,Munich (MUC),DEPARTED,Amsterdam
+12:15,12:15,DL 37 Delta Air Lines,Orlando (MCO),DEPARTED,Amsterdam
+12:15,12:15,I2 3723 Iberia Express,Madrid (MAD),CANCELLED,Amsterdam
+12:15,12:34,KL 1129 KLM,Copenhagen (CPH),DEPARTED,Amsterdam
+12:15,12:15,KL 1355 KLM,Prague (PRG),DEPARTED,Amsterdam
+12:15,12:48,KL 1809 KLM,Dresden (DRS),DEPARTED,Amsterdam
+12:15,12:33,KL 1959 KLM,Zurich (ZRH),DEPARTED,Amsterdam
+12:20,12:37,KL 871 KLM,New Delhi (DEL),DEPARTED,Amsterdam
+12:20,12:31,KL 1155 KLM,Gothenburg (GOT),DEPARTED,Amsterdam
+12:20,12:41,KL 1281 KLM,Edinburgh (EDI),DEPARTED,Amsterdam
+12:20,12:45,KL 1345 KLM,Billund (BLL),DEPARTED,Amsterdam
+12:20,12:54,KL 1919 KLM,Gdansk (GDN),DEPARTED,Amsterdam
+12:20,12:46,KL 1929 KLM,Geneva (GVA),DEPARTED,Amsterdam
+12:25,12:25,A3 625 Aegean Airlines,Athens (ATH),DEPARTED,Amsterdam
+12:25,12:25,EJU 7885 easyJet Europe,Alicante (ALC),DEPARTED,Amsterdam
+12:25,13:03,KL 959 KLM,Newcastle (NCL),DEPARTED,Amsterdam
+12:25,12:25,KL 1201 KLM,Stavanger (SVG),DEPARTED,Amsterdam
+12:25,12:57,KL 1233 KLM,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+12:25,13:01,KL 1333 KLM,Aalborg (AAL),DEPARTED,Amsterdam
+12:25,13:17,KL 1575 KLM,Athens (ATH),DEPARTED,Amsterdam
+12:30,12:30,CX 270 Cathay Pacific,Hong Kong (HKG),DEPARTED,Amsterdam
+12:30,12:30,KL 635 KLM,Las Vegas (LAS),DEPARTED,Amsterdam
+12:30,12:30,KL 861 KLM,Tokyo (NRT),DEPARTED,Amsterdam
+12:30,12:47,KL 1825 KLM,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+12:35,12:53,KL 1075 KLM,Manchester (MAN),DEPARTED,Amsterdam
+12:35,12:48,KL 1213 KLM,Rovaniemi (RVN),DEPARTED,Amsterdam
+12:35,12:48,KL 1425 KLM,Birmingham (BHX),DEPARTED,Amsterdam
+12:35,13:06,KL 1695 KLM,Lisbon (LIS),DEPARTED,Amsterdam
+12:35,12:51,KL 1767 KLM,Frankfurt (FRA),DEPARTED,Amsterdam
+12:40,13:16,KL 677 KLM,Calgary (YYC),DEPARTED,Amsterdam
+12:40,12:54,KL 1885 KLM,Nuremberg (NUE),DEPARTED,Amsterdam
+12:45,13:43,KL 1943 KLM,Zagreb (ZAG),DEPARTED,Amsterdam
+12:50,13:04,DL 75 Delta Air Lines,Atlanta (ATL),DEPARTED,Amsterdam
+12:50,13:00,KL 769 KLM,Bonaire (BON),DEPARTED,Amsterdam
+12:50,13:04,KL 1873 KLM,Stuttgart (STR),DEPARTED,Amsterdam
+12:50,13:34,LY 338 El Al,Tel Aviv (TLV),DEPARTED,Amsterdam
+12:55,14:20,OR 351 TUI fly,Curacao (CUR),DEPARTED,Amsterdam
+13:00,13:15,DL 135 Delta Air Lines,Detroit (DTW),DEPARTED,Amsterdam
+13:00,13:19,FI 501 Icelandair,Reykjavik (KEF),DEPARTED,Amsterdam
+13:00,13:18,KL 651 KLM,Washington (IAD),DEPARTED,Amsterdam
+13:00,13:18,KL 1051 KLM,Bristol (BRS),DEPARTED,Amsterdam
+13:05,13:05,AA 203 American Airlines,Philadelphia (PHL),DEPARTED,Amsterdam
+13:10,13:10,EZY 2516 easyJet,London Luton (LTN),DEPARTED,Amsterdam
+13:10,13:27,KL 1781 KLM,Hamburg (HAM),DEPARTED,Amsterdam
+13:10,13:10,KL 1857 KLM,Dusseldorf (DUS),DEPARTED,Amsterdam
+13:10,13:37,KL 1979 KLM,Budapest (BUD),DEPARTED,Amsterdam
+13:15,13:32,DL 163 Delta Air Lines,Minneapolis (MSP),DEPARTED,Amsterdam
+13:15,13:15,KL 1547 KLM,Leeds Bradford (LBA),DEPARTED,Amsterdam
+13:15,13:44,KL 1741 KLM,Luxembourg (LUX),DEPARTED,Amsterdam
+13:20,13:20,EI 605 Aer Lingus,Dublin (DUB),DEPARTED,Amsterdam
+13:20,13:20,QR 276 Qatar Airways,Doha (DOH),DEPARTED,Amsterdam
+13:25,13:37,KL 691 KLM,Toronto (YYZ),DEPARTED,Amsterdam
+13:25,15:23,OR 391 TUI fly,Curacao (CUR),DEPARTED,Amsterdam
+13:30,13:30,KL 1017 KLM,London Heathrow (LHR),DEPARTED,Amsterdam
+13:30,13:30,KL 1703 KLM,Madrid (MAD),DEPARTED,Amsterdam
+13:30,13:51,KL 1725 KLM,Brussels (BRU),DEPARTED,Amsterdam
+13:35,13:52,KL 641 KLM,New York JFK (JFK),DEPARTED,Amsterdam
+13:35,14:00,TK 7769 Turkish Airlines,Istanbul Sabiha (SAW),DEPARTED,Amsterdam
+13:40,13:40,B6 2289 JetBlue,New York JFK (JFK),DEPARTED,Amsterdam
+13:40,13:51,TP 671 TAP Air Portugal,Lisbon (LIS),DEPARTED,Amsterdam
+13:40,13:40,VY 8303 Vueling,Barcelona (BCN),DEPARTED,Amsterdam
+13:45,14:04,LH 2305 Lufthansa,Munich (MUC),DEPARTED,Amsterdam
+13:50,14:07,HV 5227 Transavia,Hurghada (HRG),DEPARTED,Amsterdam
+13:50,14:16,KL 587 KLM,Lagos (LOS),DEPARTED,Amsterdam
+13:50,13:50,KL 1503 KLM,Valencia (VLC),DEPARTED,Amsterdam
+13:50,14:32,KL 1713 KLM,Oporto (OPO),DEPARTED,Amsterdam
+13:55,14:07,AF 1641 Air France,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+14:00,15:01,AM 26 Aeromexico,Mexico City (MEX),DEPARTED,Amsterdam
+14:00,14:35,CD 599 Corendon Dutch Airlines,Curacao (CUR),DEPARTED,Amsterdam
+14:00,14:00,KL 733 KLM,Curacao (CUR),DEPARTED,Amsterdam
+14:00,14:20,KL 1169 KLM,Helsinki (HEL),DEPARTED,Amsterdam
+14:00,14:18,TK 1962 Turkish Airlines,Istanbul Airport (IST),DEPARTED,Amsterdam
+14:10,14:45,BA 435 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+14:10,14:10,EJU 3854 easyJet Europe,Milan Malpensa (MXP),DEPARTED,Amsterdam
+14:10,14:20,KL 1643 KLM,Florence (FLR),DEPARTED,Amsterdam
+14:10,14:22,VY 1376 Vueling,Alicante (ALC),DEPARTED,Amsterdam
+14:15,14:28,KL 1365 KLM,Warsaw (WAW),DEPARTED,Amsterdam
+14:15,14:26,KU 128 Kuwait Airways,Kuwait (KWI),DEPARTED,Amsterdam
+14:20,14:31,FR 3007 Ryanair,Dublin (DUB),DEPARTED,Amsterdam
+14:20,14:20,HV 5665 Transavia,Las Palmas de Gran Canaria (LPA),DEPARTED,Amsterdam
+14:20,14:42,HV 6145 Transavia,Alicante (ALC),DEPARTED,Amsterdam
+14:20,14:20,KL 1325 KLM,Aalesund (AES),DEPARTED,Amsterdam
+14:20,14:32,KL 1603 KLM,Rome (FCO),DEPARTED,Amsterdam
+14:20,14:32,KL 1829 KLM,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+14:20,14:20,KL 1977 KLM,Budapest (BUD),DEPARTED,Amsterdam
+14:20,14:20,KL 1995 KLM,Krakow (KRK),DEPARTED,Amsterdam
+14:25,14:59,KL 589 KLM,Accra (ACC),DEPARTED,Amsterdam
+14:25,14:46,KL 1147 KLM,Oslo (OSL),DEPARTED,Amsterdam
+14:25,14:38,KL 1175 KLM,Trondheim (TRD),DEPARTED,Amsterdam
+14:25,14:37,KL 1307 KLM,Toulouse (TLS),DEPARTED,Amsterdam
+14:25,14:35,KL 1673 KLM,Barcelona (BCN),DEPARTED,Amsterdam
+14:25,14:41,KL 1687 KLM,Bilbao (BIO),DEPARTED,Amsterdam
+14:25,14:25,KL 1847 KLM,Vienna (VIE),DEPARTED,Amsterdam
+14:30,15:12,EK 148 Emirates,Dubai International (DXB),DEPARTED,Amsterdam
+14:30,14:43,KL 685 KLM,Mexico City (MEX),DEPARTED,Amsterdam
+14:30,14:40,KL 1257 KLM,Nice (NCE),DEPARTED,Amsterdam
+14:30,14:30,VY 8435 Vueling,Lisbon (LIS),DEPARTED,Amsterdam
+14:35,15:43,KL 427 KLM,Dubai International (DXB),DEPARTED,Amsterdam
+14:35,14:35,KL 675 KLM,Edmonton (YEG),DEPARTED,Amsterdam
+14:35,14:49,KL 1115 KLM,Stockholm (ARN),DEPARTED,Amsterdam
+14:35,14:48,KL 1267 KLM,Marseille (MRS),DEPARTED,Amsterdam
+14:35,15:01,KL 1631 KLM,Milan Malpensa (MXP),DEPARTED,Amsterdam
+14:45,14:45,KL 1591 KLM,Bologna (BLQ),DEPARTED,Amsterdam
+14:45,16:01,LH 993 Lufthansa,Frankfurt (FRA),DEPARTED,Amsterdam
+14:50,16:16,AF 1741 Air France,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+14:50,15:19,HV 6671 Transavia,Tenerife (TFS),DEPARTED,Amsterdam
+14:50,15:40,TK 1958 Turkish Airlines,Istanbul Airport (IST),DEPARTED,Amsterdam
+14:55,14:55,EJU 7851 easyJet Europe,Manchester (MAN),DEPARTED,Amsterdam
+14:55,14:55,EZY 3446 easyJet,Liverpool (LPL),DEPARTED,Amsterdam
+14:55,14:55,KL 1189 KLM,Bergen (BGO),DEPARTED,Amsterdam
+14:55,15:27,LX 729 Swiss International Airlines,Zurich (ZRH),DEPARTED,Amsterdam
+14:55,15:16,SK 548 Scandinavian Airlines,Copenhagen (CPH),DEPARTED,Amsterdam
+15:00,15:00,DL 137 Delta Air Lines,Detroit (DTW),DEPARTED,Amsterdam
+15:00,16:05,MS 758 Egypt Air,Cairo (CAI),DEPARTED,Amsterdam
+15:05,15:19,KL 417 KLM,Dammam (DMM),DEPARTED,Amsterdam
+15:05,15:05,KL 1161 KLM,Gothenburg (GOT),DEPARTED,Amsterdam
+15:05,15:05,KL 1203 KLM,Stavanger (SVG),DEPARTED,Amsterdam
+15:10,15:27,BA 2543 British Airways,London Gatwick (LGW),DEPARTED,Amsterdam
+15:10,15:10,KL 1459 KLM,Bordeaux (BOD),DEPARTED,Amsterdam
+15:10,15:10,KL 1931 KLM,Geneva (GVA),DEPARTED,Amsterdam
+15:15,15:15,KL 1131 KLM,Copenhagen (CPH),DEPARTED,Amsterdam
+15:15,15:15,KL 1405 KLM,Montpellier (MPL),DEPARTED,Amsterdam
+15:15,15:15,QR 274 Qatar Airways,Doha (DOH),DEPARTED,Amsterdam
+15:20,15:20,KL 1797 KLM,Munich (MUC),DEPARTED,Amsterdam
+15:20,15:34,KL 1961 KLM,Zurich (ZRH),DEPARTED,Amsterdam
+15:25,15:57,SV 216 Saudi Arabian Airlines,Jeddah (JED),DEPARTED,Amsterdam
+15:30,15:30,HV 6867 Transavia,Athens (ATH),DEPARTED,Amsterdam
+15:30,16:01,KL 1655 KLM,Venice (VCE),DEPARTED,Amsterdam
+15:35,16:05,HV 5755 Transavia,Marrakech (RAK),DEPARTED,Amsterdam
+15:35,15:35,VY 8305 Vueling,Barcelona (BCN),DEPARTED,Amsterdam
+15:40,15:40,EZY 2518 easyJet,London Luton (LTN),DEPARTED,Amsterdam
+15:40,15:51,KL 1181 KLM,Linkoping (LPI),DEPARTED,Amsterdam
+15:40,15:40,KL 1317 KLM,Bordeaux (BOD),DEPARTED,Amsterdam
+15:45,15:45,KL 1021 KLM,London Heathrow (LHR),DEPARTED,Amsterdam
+15:45,15:45,KL 1921 KLM,Gdansk (GDN),DEPARTED,Amsterdam
+15:50,15:50,KL 1285 KLM,Edinburgh (EDI),DEPARTED,Amsterdam
+15:55,15:55,KL 895 KLM,Shanghai (PVG),DEPARTED,Amsterdam
+15:55,15:55,PC 1254 Pegasus Airlines,Istanbul Sabiha (SAW),DEPARTED,Amsterdam
+16:00,16:00,KL 937 KLM,Dublin (DUB),DEPARTED,Amsterdam
+16:05,16:05,BA 439 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+16:05,16:05,KL 1217 KLM,Sandefjord (TRF),DEPARTED,Amsterdam
+16:10,16:10,KL 1447 KLM,Aberdeen (ABZ),DEPARTED,Amsterdam
+16:10,16:10,KL 1769 KLM,Frankfurt (FRA),DEPARTED,Amsterdam
+16:15,16:43,KL 897 KLM,Beijing (PEK),DEPARTED,Amsterdam
+16:15,16:15,KL 1357 KLM,Prague (PRG),DEPARTED,Amsterdam
+16:15,16:28,KL 1989 KLM,Basel (BSL),DEPARTED,Amsterdam
+16:20,16:20,BA 8454 British Airways,London City (LCY),DEPARTED,Amsterdam
+16:20,16:20,EJU 3856 easyJet Europe,Milan Malpensa (MXP),DEPARTED,Amsterdam
+16:20,16:47,EJU 4072 easyJet Europe,Venice (VCE),DEPARTED,Amsterdam
+16:20,16:20,FR 3101 Ryanair,Dublin (DUB),DEPARTED,Amsterdam
+16:20,16:20,KL 947 KLM,Belfast City Airport (BHD),DEPARTED,Amsterdam
+16:20,16:20,KL 1079 KLM,Manchester (MAN),DEPARTED,Amsterdam
+16:25,16:36,KL 1247 KLM,Kristiansand (KRS),DEPARTED,Amsterdam
+16:25,16:39,KL 1335 KLM,Aalborg (AAL),DEPARTED,Amsterdam
+16:25,16:25,KL 1831 KLM,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+16:30,16:46,HV 6117 Transavia,Malaga (AGP),DEPARTED,Amsterdam
+16:30,16:30,KL 963 KLM,Newcastle (NCL),DEPARTED,Amsterdam
+16:30,17:00,KL 989 KLM,London City (LCY),DEPARTED,Amsterdam
+16:30,17:04,KL 1053 KLM,Bristol (BRS),DEPARTED,Amsterdam
+16:35,16:35,KL 1149 KLM,Oslo (OSL),DEPARTED,Amsterdam
+16:35,16:53,KL 1243 KLM,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+16:35,16:35,KL 1537 KLM,Teesside International (MME),DEPARTED,Amsterdam
+16:35,16:35,KL 1549 KLM,Leeds Bradford (LBA),DEPARTED,Amsterdam
+16:35,16:46,VY 8310 Vueling,Barcelona (BCN),DEPARTED,Amsterdam
+16:35,16:50,WA 1521 KLM Cityhopper,Norwich (NWI),DEPARTED,Amsterdam
+16:40,16:40,EI 609 Aer Lingus,Dublin (DUB),DEPARTED,Amsterdam
+16:40,17:01,KL 919 KLM,Southampton (SOU),DEPARTED,Amsterdam
+16:40,16:40,KL 1023 KLM,London Heathrow (LHR),DEPARTED,Amsterdam
+16:40,16:40,KL 1431 KLM,Birmingham (BHX),DEPARTED,Amsterdam
+16:40,16:52,KL 1489 KLM,Humberside (HUY),DEPARTED,Amsterdam
+16:40,18:27,KL 1875 KLM,Stuttgart (STR),DEPARTED,Amsterdam
+16:40,16:52,WA 1065 KLM Cityhopper,Cardiff (CWL),DEPARTED,Amsterdam
+16:45,16:56,HV 5355 Transavia,Faro (FAO),DEPARTED,Amsterdam
+16:45,17:19,KL 1347 KLM,Billund (BLL),DEPARTED,Amsterdam
+16:45,16:45,KL 1757 KLM,Bremen (BRE),DEPARTED,Amsterdam
+16:45,16:45,KL 1887 KLM,Nuremberg (NUE),DEPARTED,Amsterdam
+16:45,17:40,KL 1911 KLM,Hanover (HAJ),DEPARTED,Amsterdam
+16:50,17:11,HV 6003 Transavia,Oporto (OPO),DEPARTED,Amsterdam
+16:50,17:12,KL 621 KLM,Atlanta (ATL),DEPARTED,Amsterdam
+16:50,17:03,KL 695 KLM,Toronto (YYZ),DEPARTED,Amsterdam
+16:50,16:50,KL 1133 KLM,Copenhagen (CPH),DEPARTED,Amsterdam
+16:50,16:50,KL 1745 KLM,Luxembourg (LUX),DEPARTED,Amsterdam
+16:50,16:50,KL 1783 KLM,Hamburg (HAM),DEPARTED,Amsterdam
+16:55,17:32,HV 6119 Transavia,Malaga (AGP),DEPARTED,Amsterdam
+16:55,17:25,KL 1607 KLM,Rome (FCO),DEPARTED,Amsterdam
+16:55,16:55,KL 1633 KLM,Milan Malpensa (MXP),DEPARTED,Amsterdam
+16:55,17:19,KL 1675 KLM,Barcelona (BCN),DEPARTED,Amsterdam
+17:00,17:00,EJU 7805 easyJet Europe,Milan Linate (LIN),DEPARTED,Amsterdam
+17:00,17:00,KL 1367 KLM,Warsaw (WAW),DEPARTED,Amsterdam
+17:00,17:14,KL 1705 KLM,Madrid (MAD),DEPARTED,Amsterdam
+17:05,17:18,KL 875 KLM,Bangkok (BKK),DEPARTED,Amsterdam
+17:05,17:05,KL 1963 KLM,Zurich (ZRH),DEPARTED,Amsterdam
+17:10,17:10,AF 1797 Air France,Lyon (LYS),DEPARTED,Amsterdam
+17:10,17:10,KL 643 KLM,New York JFK (JFK),CANCELLED,Amsterdam
+17:10,17:10,KL 1861 KLM,Dusseldorf (DUS),DEPARTED,Amsterdam
+17:10,17:10,KL 1933 KLM,Geneva (GVA),DEPARTED,Amsterdam
+17:15,17:15,AT 851 Royal Air Maroc,Casablanca (CMN),DEPARTED,Amsterdam
+17:15,17:15,KL 887 KLM,Hong Kong (HKG),DEPARTED,Amsterdam
+17:20,18:05,HV 5627 Transavia,Palma (PMI),DEPARTED,Amsterdam
+17:20,17:20,KL 993 KLM,London City (LCY),DEPARTED,Amsterdam
+17:25,17:25,BA 447 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+17:25,17:25,TK 7823 Turkish Airlines,Istanbul Sabiha (SAW),DEPARTED,Amsterdam
+17:30,17:30,HV 5139 Transavia,Barcelona (BCN),DEPARTED,Amsterdam
+17:30,17:30,OS 374 Austrian Airlines,Vienna (VIE),DEPARTED,Amsterdam
+17:30,17:42,SK 1550 Scandinavian Airlines,Copenhagen (CPH),DEPARTED,Amsterdam
+17:35,18:30,KL 1031 KLM,London Heathrow (LHR),CANCELLED,Amsterdam
+17:35,17:35,KL 1773 KLM,Frankfurt (FRA),DEPARTED,Amsterdam
+17:35,17:35,LH 2307 Lufthansa,Munich (MUC),CANCELLED,Amsterdam
+17:40,19:57,EZS 1516 easyJet Switzerland,Geneva (GVA),DEPARTED,Amsterdam
+17:45,17:56,TP 673 TAP Air Portugal,Lisbon (LIS),DEPARTED,Amsterdam
+17:50,17:50,EZY 2520 easyJet,London Luton (LTN),DEPARTED,Amsterdam
+17:50,17:50,EZY 8684 easyJet,London Gatwick (LGW),DEPARTED,Amsterdam
+17:50,17:50,KL 1799 KLM,Munich (MUC),DEPARTED,Amsterdam
+17:55,17:55,KL 1245 KLM,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+18:05,18:05,AZ 109 ITA Airways,Rome (FCO),DEPARTED,Amsterdam
+18:10,18:10,KL 1117 KLM,Stockholm (ARN),DEPARTED,Amsterdam
+18:15,18:15,BA 8456 British Airways,London City (LCY),DEPARTED,Amsterdam
+18:20,18:50,KL 991 KLM,London City (LCY),DEPARTED,Amsterdam
+18:20,18:20,PC 1258 Pegasus Airlines,Istanbul Sabiha (SAW),DEPARTED,Amsterdam
+18:25,18:25,VY 8307 Vueling,Barcelona (BCN),DEPARTED,Amsterdam
+18:30,18:30,EJU 7801 easyJet Europe,Milan Malpensa (MXP),DEPARTED,Amsterdam
+18:30,18:30,LH 997 Lufthansa,Frankfurt (FRA),DEPARTED,Amsterdam
+18:30,18:30,TK 1954 Turkish Airlines,Istanbul Airport (IST),DEPARTED,Amsterdam
+18:45,19:08,EJU 7853 easyJet Europe,Manchester (MAN),DEPARTED,Amsterdam
+18:50,18:50,KL 1027 KLM,London Heathrow (LHR),DEPARTED,Amsterdam
+18:55,19:07,BA 2545 British Airways,London Gatwick (LGW),DEPARTED,Amsterdam
+18:55,19:11,SK 1556 Scandinavian Airlines,Stockholm (ARN),DEPARTED,Amsterdam
+19:00,19:13,AY 1306 Finnair,Helsinki (HEL),DEPARTED,Amsterdam
+19:00,19:11,EJU 7843 easyJet Europe,London Stansted (STN),DEPARTED,Amsterdam
+19:00,19:00,EJU 7849 easyJet Europe,Birmingham (BHX),DEPARTED,Amsterdam
+19:00,19:00,UX 1094 Air Europa,Madrid (MAD),DEPARTED,Amsterdam
+19:05,19:30,SK 828 Scandinavian Airlines,Oslo (OSL),DEPARTED,Amsterdam
+19:10,19:10,AF 1141 Air France,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+19:10,19:30,BT 620 AirBaltic,Riga (RIX),DEPARTED,Amsterdam
+19:15,19:15,EJU 8674 easyJet Europe,London Gatwick (LGW),DEPARTED,Amsterdam
+19:20,19:20,EJU 7831 easyJet Europe,London Luton (LTN),DEPARTED,Amsterdam
+19:25,19:44,I2 3725 Iberia Express,Madrid (MAD),DEPARTED,Amsterdam
+19:30,19:30,KL 997 KLM,London City (LCY),DEPARTED,Amsterdam
+19:30,19:30,KL 1433 KLM,Birmingham (BHX),DEPARTED,Amsterdam
+19:35,19:35,KQ 117 Kenya Airways,Nairobi (NBO),DEPARTED,Amsterdam
+19:35,20:01,LH 999 Lufthansa,Frankfurt (FRA),DEPARTED,Amsterdam
+19:40,19:40,BT 1562 AirBaltic,Tallinn (TLL),DEPARTED,Amsterdam
+19:40,19:40,KL 1135 KLM,Copenhagen (CPH),DEPARTED,Amsterdam
+19:45,19:45,BA 441 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+19:45,19:45,KE 926 Korean Air,Seoul Incheon (ICN),DEPARTED,Amsterdam
+19:45,19:59,LO 268 LOT Polish Airlines,Warsaw (WAW),DEPARTED,Amsterdam
+19:45,20:28,RO 364 Tarom,Bucharest (OTP),DEPARTED,Amsterdam
+19:50,19:50,AZ 113 ITA Airways,Milan Linate (LIN),DEPARTED,Amsterdam
+19:50,19:50,BA 8458 British Airways,London City (LCY),DEPARTED,Amsterdam
+19:50,19:50,KL 1833 KLM,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+19:50,20:00,LH 2309 Lufthansa,Munich (MUC),DEPARTED,Amsterdam
+19:50,20:08,XQ 945 SunExpress,Izmir (ADB),DEPARTED,Amsterdam
+20:00,20:00,LX 735 Swiss International Airlines,Zurich (ZRH),DEPARTED,Amsterdam
+20:00,20:00,OS 376 Austrian Airlines,Vienna (VIE),DEPARTED,Amsterdam
+20:05,20:05,KL 807 KLM,Manila (MNL),DEPARTED,Amsterdam
+20:10,20:10,KL 1081 KLM,Manchester (MAN),DEPARTED,Amsterdam
+20:15,20:15,EW 7185 Eurowings,Hamburg (HAM),DEPARTED,Amsterdam
+20:15,20:15,FR 2335 Ryanair,Malaga (AGP),DEPARTED,Amsterdam
+20:15,20:15,KL 979 KLM,London City (LCY),DEPARTED,Amsterdam
+20:15,20:15,SK 554 Scandinavian Airlines,Copenhagen (CPH),DEPARTED,Amsterdam
+20:20,20:37,EI 611 Aer Lingus,Dublin (DUB),DEPARTED,Amsterdam
+20:20,20:32,EJU 5286 easyJet Europe,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+20:25,21:04,AF 1441 Air France,Paris de Gaulle (CDG),DEPARTED,Amsterdam
+20:30,21:19,KL 1033 KLM,London Heathrow (LHR),DEPARTED,Amsterdam
+20:30,20:30,KL 1211 KLM,Kristiansand (KRS),DEPARTED,Amsterdam
+20:35,20:35,8R 6775 Amelia,Strasbourg (SXB),DEPARTED,Amsterdam
+20:35,21:43,KL 809 KLM,Jakarta (CGK),DEPARTED,Amsterdam
+20:35,20:35,KL 1263 KLM,Nice (NCE),DEPARTED,Amsterdam
+20:35,20:35,KL 1419 KLM,Lyon (LYS),DEPARTED,Amsterdam
+20:35,20:47,KL 1501 KLM,Valencia (VLC),DEPARTED,Amsterdam
+20:35,20:35,KL 1689 KLM,Bilbao (BIO),DEPARTED,Amsterdam
+20:35,21:01,KL 1715 KLM,Oporto (OPO),DEPARTED,Amsterdam
+20:40,20:40,KL 1151 KLM,Oslo (OSL),DEPARTED,Amsterdam
+20:40,20:40,KL 1171 KLM,Helsinki (HEL),DEPARTED,Amsterdam
+20:40,20:40,KL 1177 KLM,Trondheim (TRD),DEPARTED,Amsterdam
+20:40,20:59,KL 1319 KLM,Bordeaux (BOD),DEPARTED,Amsterdam
+20:40,20:40,KL 1461 KLM,Nantes (NTE),DEPARTED,Amsterdam
+20:40,20:54,KL 1659 KLM,Venice (VCE),DEPARTED,Amsterdam
+20:40,20:40,KL 1789 KLM,Hamburg (HAM),DEPARTED,Amsterdam
+20:40,20:40,KL 1801 KLM,Munich (MUC),DEPARTED,Amsterdam
+20:40,20:40,KL 1835 KLM,Berlin Brandenburg (BER),DEPARTED,Amsterdam
+20:40,20:55,KL 1891 KLM,Nuremberg (NUE),DEPARTED,Amsterdam
+20:45,21:22,KL 1269 KLM,Marseille (MRS),DEPARTED,Amsterdam
+20:45,20:56,KL 1379 KLM,Bucharest (OTP),DEPARTED,Amsterdam
+20:45,20:45,KL 1707 KLM,Madrid (MAD),DEPARTED,Amsterdam
+20:50,20:50,KL 1163 KLM,Gothenburg (GOT),DEPARTED,Amsterdam
+20:50,21:00,KL 1359 KLM,Prague (PRG),DEPARTED,Amsterdam
+20:50,20:50,KL 1923 KLM,Gdansk (GDN),DEPARTED,Amsterdam
+20:50,20:50,KL 1991 KLM,Basel (BSL),DEPARTED,Amsterdam
+20:55,21:14,EY 78 Etihad Airways,Abu Dhabi (AUH),DEPARTED,Amsterdam
+20:55,21:09,KL 1121 KLM,Stockholm (ARN),DEPARTED,Amsterdam
+20:55,22:28,KL 1183 KLM,Linkoping (LPI),DEPARTED,Amsterdam
+20:55,21:09,KL 1559 KLM,Turin (TRN),DEPARTED,Amsterdam
+20:55,20:55,KL 1581 KLM,Athens (ATH),DEPARTED,Amsterdam
+20:55,21:07,KL 1681 KLM,Barcelona (BCN),DEPARTED,Amsterdam
+21:00,21:18,KL 701 KLM,Santiago (SCL),DEPARTED,Amsterdam
+21:00,21:00,KL 1221 KLM,Sandefjord (TRF),DEPARTED,Amsterdam
+21:00,22:27,KL 1309 KLM,Toulouse (TLS),DEPARTED,Amsterdam
+21:00,21:00,KL 1435 KLM,Birmingham (BHX),DEPARTED,Amsterdam
+21:00,21:27,KL 1609 KLM,Rome (FCO),DEPARTED,Amsterdam
+21:00,21:10,KL 1647 KLM,Florence (FLR),DEPARTED,Amsterdam
+21:00,21:00,KL 1761 KLM,Bremen (BRE),DEPARTED,Amsterdam
+21:00,21:18,KL 1849 KLM,Vienna (VIE),DEPARTED,Amsterdam
+21:00,21:00,KL 1939 KLM,Zagreb (ZAG),DEPARTED,Amsterdam
+21:00,21:14,KL 1969 KLM,Zurich (ZRH),DEPARTED,Amsterdam
+21:00,21:00,KL 1999 KLM,Krakow (KRK),DEPARTED,Amsterdam
+21:05,21:05,BA 443 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+21:05,21:05,KL 1089 KLM,Cork (ORK),DEPARTED,Amsterdam
+21:05,21:05,KL 1337 KLM,Aalborg (AAL),DEPARTED,Amsterdam
+21:05,21:21,KL 1915 KLM,Hanover (HAJ),DEPARTED,Amsterdam
+21:05,21:27,KL 1981 KLM,Budapest (BUD),DEPARTED,Amsterdam
+21:10,21:26,KL 835 KLM,Denpasar (DPS),DEPARTED,Amsterdam
+21:10,21:20,KL 1139 KLM,Copenhagen (CPH),DEPARTED,Amsterdam
+21:10,21:21,KL 1193 KLM,Bergen (BGO),DEPARTED,Amsterdam
+21:10,21:10,KL 1205 KLM,Stavanger (SVG),DEPARTED,Amsterdam
+21:10,21:10,KL 1697 KLM,Lisbon (LIS),DEPARTED,Amsterdam
+21:10,21:22,KL 1937 KLM,Geneva (GVA),DEPARTED,Amsterdam
+21:15,21:29,EZY 2522 easyJet,London Luton (LTN),DEPARTED,Amsterdam
+21:15,21:15,EZY 2924 easyJet,Bristol (BRS),DEPARTED,Amsterdam
+21:15,21:15,KL 1595 KLM,Bologna (BLQ),DEPARTED,Amsterdam
+21:20,21:41,EZY 8686 easyJet,London Gatwick (LGW),DEPARTED,Amsterdam
+21:20,21:20,KL 1527 KLM,Norwich (NWI),DEPARTED,Amsterdam
+21:20,21:20,KL 1539 KLM,Teesside International (MME),DEPARTED,Amsterdam
+21:20,21:37,KL 1627 KLM,Milan Linate (LIN),DEPARTED,Amsterdam
+21:20,21:20,KL 1775 KLM,Frankfurt (FRA),DEPARTED,Amsterdam
+21:20,21:38,KL 1863 KLM,Dusseldorf (DUS),DEPARTED,Amsterdam
+21:20,21:33,KL 1879 KLM,Stuttgart (STR),DEPARTED,Amsterdam
+21:25,21:25,KL 939 KLM,Dublin (DUB),DEPARTED,Amsterdam
+21:25,21:25,KL 1481 KLM,Glasgow (GLA),DEPARTED,Amsterdam
+21:25,21:25,KL 1749 KLM,Luxembourg (LUX),DEPARTED,Amsterdam
+21:30,21:40,BR 76 EVA Air,Taipei (TPE),DEPARTED,Amsterdam
+21:30,21:30,EZY 2168 easyJet,Manchester (MAN),DEPARTED,Amsterdam
+21:30,21:30,KL 1275 KLM,Wroclaw (WRO),DEPARTED,Amsterdam
+21:30,21:47,KL 1369 KLM,Warsaw (WAW),DEPARTED,Amsterdam
+21:35,21:35,KL 1293 KLM,Edinburgh (EDI),DEPARTED,Amsterdam
+21:35,21:46,KL 1349 KLM,Billund (BLL),DEPARTED,Amsterdam
+21:35,21:35,KL 1733 KLM,Brussels (BRU),DEPARTED,Amsterdam
+21:45,21:45,BA 427 British Airways,London Heathrow (LHR),DEPARTED,Amsterdam
+21:45,22:13,EZY 3302 easyJet,Edinburgh (EDI),DEPARTED,Amsterdam
+21:45,21:45,KL 1083 KLM,Manchester (MAN),DEPARTED,Amsterdam
+22:00,22:00,EK 150 Emirates,Dubai International (DXB),DEPARTED,Amsterdam
+22:00,22:00,KL 1069 KLM,Cardiff (CWL),DEPARTED,Amsterdam
+22:20,22:20,TK 1956 Turkish Airlines,Istanbul Airport (IST),DEPARTED,Amsterdam
+22:40,22:40,KL 965 KLM,Newcastle (NCL),DEPARTED,Amsterdam
+22:40,22:40,KL 1057 KLM,Bristol (BRS),DEPARTED,Amsterdam
+22:40,22:40,KL 1551 KLM,Leeds Bradford (LBA),DEPARTED,Amsterdam
+22:45,22:45,KL 1451 KLM,Aberdeen (ABZ),DEPARTED,Amsterdam
+00:00,00:00,HV 5752 Transavia,Amsterdam,BAGGAGE HANDLED,Marrakech (RAK)
+00:10,00:10,HV 6888 Transavia,Amsterdam,BAGGAGE HANDLED,Reykjavik (KEF)
+00:15,00:15,HV 6110 Transavia,Amsterdam,BAGGAGE HANDLED,Malaga (AGP)
+00:20,00:44,OR 3721 TUI fly,Amsterdam,BAGGAGE HANDLED,Sao Vicente Island (VXE)
+00:25,00:25,HV 5662 Transavia,Amsterdam,BAGGAGE HANDLED,Las Palmas de Gran Canaria (LPA)
+00:55,00:55,HV 6506 Transavia,Amsterdam,BAGGAGE HANDLED,Amman (AMM)
+05:20,05:20,KL 588 KLM,Amsterdam,BAGGAGE HANDLED,Lagos (LOS)
+05:45,06:08,KL 590 KLM,Amsterdam,BAGGAGE HANDLED,Accra (ACC)
+05:50,05:50,KL 810 KLM,Amsterdam,BAGGAGE HANDLED,Jakarta (CGK)
+05:55,05:55,DL 46 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,New York JFK (JFK)
+05:55,05:55,KL 624 KLM,Amsterdam,BAGGAGE HANDLED,Atlanta (ATL)
+06:00,06:00,DL 132 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Detroit (DTW)
+06:00,06:00,KL 714 KLM,Amsterdam,BAGGAGE HANDLED,Paramaribo (PBM)
+06:20,06:20,KL 428 KLM,Amsterdam,CANCELLED,Dubai International (DXB)
+06:35,06:35,CX 271 Cathay Pacific,Amsterdam,BAGGAGE HANDLED,Hong Kong (HKG)
+06:35,06:35,KL 537 KLM,Amsterdam,BAGGAGE HANDLED,Kigali (KGL)
+06:40,06:40,DL 160 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Minneapolis (MSP)
+06:45,06:45,SQ 324 Singapore Airlines,Amsterdam,BAGGAGE HANDLED,Singapore (SIN)
+06:50,06:50,KL 642 KLM,Amsterdam,BAGGAGE HANDLED,New York JFK (JFK)
+07:00,07:00,KL 1750 KLM,Amsterdam,BAGGAGE HANDLED,Bremen (BRE)
+07:05,07:05,KL 566 KLM,Amsterdam,BAGGAGE HANDLED,Nairobi (NBO)
+07:05,07:27,KL 856 KLM,Amsterdam,BAGGAGE HANDLED,Seoul Incheon (ICN)
+07:05,07:05,KL 1720 KLM,Amsterdam,BAGGAGE HANDLED,Brussels (BRU)
+07:05,07:05,KL 1852 KLM,Amsterdam,BAGGAGE HANDLED,Dusseldorf (DUS)
+07:10,07:10,KL 425 KLM,Amsterdam,BAGGAGE HANDLED,Riyadh (RUH)
+07:10,07:26,KL 692 KLM,Amsterdam,BAGGAGE HANDLED,Toronto (YYZ)
+07:15,07:15,KL 1340 KLM,Amsterdam,BAGGAGE HANDLED,Billund (BLL)
+07:15,07:15,KL 1776 KLM,Amsterdam,BAGGAGE HANDLED,Hamburg (HAM)
+07:15,07:15,KL 1900 KLM,Amsterdam,BAGGAGE HANDLED,Hanover (HAJ)
+07:15,07:15,UA 70 United Airlines,Amsterdam,BAGGAGE HANDLED,Newark (EWR)
+07:20,09:11,KL 1736 KLM,Amsterdam,BAGGAGE HANDLED,Luxembourg (LUX)
+07:20,07:20,KL 1880 KLM,Amsterdam,BAGGAGE HANDLED,Nuremberg (NUE)
+07:25,07:25,KL 1124 KLM,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+07:25,07:25,KL 1328 KLM,Amsterdam,BAGGAGE HANDLED,Aalborg (AAL)
+07:25,07:25,KL 1818 KLM,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+07:30,07:30,KL 1206 KLM,Amsterdam,BAGGAGE HANDLED,Kristiansand (KRS)
+07:30,07:30,KL 1866 KLM,Amsterdam,BAGGAGE HANDLED,Stuttgart (STR)
+07:35,07:35,KL 612 KLM,Amsterdam,BAGGAGE HANDLED,Chicago (ORD)
+07:35,07:35,KL 662 KLM,Amsterdam,BAGGAGE HANDLED,Houston (IAH)
+07:35,08:25,KL 878 KLM,Amsterdam,BAGGAGE HANDLED,Mumbai (BOM)
+07:35,07:35,KL 1152 KLM,Amsterdam,BAGGAGE HANDLED,Gothenburg (GOT)
+07:35,07:35,KL 1196 KLM,Amsterdam,BAGGAGE HANDLED,Stavanger (SVG)
+07:35,07:35,KL 1350 KLM,Amsterdam,BAGGAGE HANDLED,Prague (PRG)
+07:35,07:35,KL 1984 KLM,Amsterdam,BAGGAGE HANDLED,Basel (BSL)
+07:40,08:37,KL 569 KLM,Amsterdam,BAGGAGE HANDLED,Kilimanjaro (JRO)
+07:40,07:40,KL 652 KLM,Amsterdam,BAGGAGE HANDLED,Washington (IAD)
+07:40,07:40,KL 736 KLM,Amsterdam,BAGGAGE HANDLED,Curacao (CUR)
+07:45,07:45,KL 1312 KLM,Amsterdam,BAGGAGE HANDLED,Bordeaux (BOD)
+07:50,07:50,KL 1184 KLM,Amsterdam,BAGGAGE HANDLED,Bergen (BGO)
+07:50,07:50,KL 1454 KLM,Amsterdam,BAGGAGE HANDLED,Nantes (NTE)
+07:55,07:55,DL 72 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Atlanta (ATL)
+07:55,07:55,KL 1178 KLM,Amsterdam,BAGGAGE HANDLED,Linkoping (LPI)
+07:55,07:55,KL 1212 KLM,Amsterdam,BAGGAGE HANDLED,Sandefjord (TRF)
+08:00,08:00,KL 1300 KLM,Amsterdam,BAGGAGE HANDLED,Toulouse (TLS)
+08:00,08:00,KL 1372 KLM,Amsterdam,BAGGAGE HANDLED,Bucharest (OTP)
+08:00,08:00,KL 1992 KLM,Amsterdam,BAGGAGE HANDLED,Krakow (KRK)
+08:05,08:05,8R 6768 Amelia,Amsterdam,BAGGAGE HANDLED,Strasbourg (SXB)
+08:05,10:48,KL 672 KLM,Amsterdam,BAGGAGE HANDLED,Montreal (YUL)
+08:05,08:05,KL 1514 KLM,Amsterdam,BAGGAGE HANDLED,Norwich (NWI)
+08:05,08:05,LH 986 Lufthansa,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+08:05,08:15,UA 946 United Airlines,Amsterdam,BAGGAGE HANDLED,Washington (IAD)
+08:10,08:10,KL 1362 KLM,Amsterdam,BAGGAGE HANDLED,Warsaw (WAW)
+08:10,08:10,KL 1762 KLM,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+08:15,08:15,DL 134 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Detroit (DTW)
+08:15,08:15,DL 258 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Boston (BOS)
+08:15,08:15,KL 952 KLM,Amsterdam,BAGGAGE HANDLED,Newcastle (NCL)
+08:15,08:15,KL 1070 KLM,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+08:15,08:15,KL 1270 KLM,Amsterdam,BAGGAGE HANDLED,Wroclaw (WRO)
+08:15,08:15,KL 1482 KLM,Amsterdam,BAGGAGE HANDLED,Humberside (HUY)
+08:15,08:15,KL 1530 KLM,Amsterdam,BAGGAGE HANDLED,Teesside International (MME)
+08:15,08:15,KL 1554 KLM,Amsterdam,BAGGAGE HANDLED,Turin (TRN)
+08:15,08:15,KL 1916 KLM,Amsterdam,BAGGAGE HANDLED,Gdansk (GDN)
+08:15,08:15,LH 2300 Lufthansa,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+08:20,08:20,DL 178 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Portland (PDX)
+08:20,08:20,EZS 1221 easyJet Switzerland,Amsterdam,BAGGAGE HANDLED,Basel (BSL)
+08:25,08:25,KL 678 KLM,Amsterdam,BAGGAGE HANDLED,Calgary (YYC)
+08:25,08:38,KL 808 KLM,Amsterdam,BAGGAGE HANDLED,Manila (MNL)
+08:25,08:25,KL 872 KLM,Amsterdam,BAGGAGE HANDLED,New Delhi (DEL)
+08:25,09:04,KL 880 KLM,Amsterdam,BAGGAGE HANDLED,Bengaluru (BLR)
+08:25,08:25,KL 1058 KLM,Amsterdam,BAGGAGE HANDLED,Cardiff (CWL)
+08:25,08:25,KL 1276 KLM,Amsterdam,BAGGAGE HANDLED,Edinburgh (EDI)
+08:25,08:25,KL 1618 KLM,Amsterdam,BAGGAGE HANDLED,Milan Linate (LIN)
+08:25,08:25,KL 1662 KLM,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+08:30,08:30,KL 836 KLM,Amsterdam,BAGGAGE HANDLED,Denpasar (DPS)
+08:30,08:30,KL 1140 KLM,Amsterdam,BAGGAGE HANDLED,Oslo (OSL)
+08:30,08:30,KL 1540 KLM,Amsterdam,BAGGAGE HANDLED,Leeds Bradford (LBA)
+08:35,08:35,AF 1240 Air France,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+08:35,08:35,DL 48 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,New York JFK (JFK)
+08:35,08:35,KL 932 KLM,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+08:35,08:35,KL 1046 KLM,Amsterdam,BAGGAGE HANDLED,Bristol (BRS)
+08:35,08:35,KL 1412 KLM,Amsterdam,BAGGAGE HANDLED,Lyon (LYS)
+08:35,08:35,KL 1572 KLM,Amsterdam,BAGGAGE HANDLED,Athens (ATH)
+08:35,08:35,KL 1582 KLM,Amsterdam,BAGGAGE HANDLED,Bologna (BLQ)
+08:35,08:47,KL 1710 KLM,Amsterdam,BAGGAGE HANDLED,Oporto (OPO)
+08:35,08:35,UA 20 United Airlines,Amsterdam,BAGGAGE HANDLED,Houston (IAH)
+08:40,08:40,EJU 5281 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+08:40,08:52,KL 1104 KLM,Amsterdam,BAGGAGE HANDLED,Stockholm (ARN)
+08:40,08:40,KL 1264 KLM,Amsterdam,BAGGAGE HANDLED,Marseille (MRS)
+08:40,08:40,KL 1420 KLM,Amsterdam,BAGGAGE HANDLED,Birmingham (BHX)
+08:40,08:40,KL 1440 KLM,Amsterdam,BAGGAGE HANDLED,Aberdeen (ABZ)
+08:40,08:40,KL 1502 KLM,Amsterdam,BAGGAGE HANDLED,Valencia (VLC)
+08:40,08:40,KL 1650 KLM,Amsterdam,BAGGAGE HANDLED,Venice (VCE)
+08:40,08:40,KL 1698 KLM,Amsterdam,BAGGAGE HANDLED,Madrid (MAD)
+08:40,08:40,KL 1898 KLM,Amsterdam,BAGGAGE HANDLED,Belgrade (BEG)
+08:40,08:40,XQ 944 SunExpress,Amsterdam,BAGGAGE HANDLED,Izmir (ADB)
+08:45,08:57,KL 1164 KLM,Amsterdam,BAGGAGE HANDLED,Helsinki (HEL)
+08:45,08:45,KL 1790 KLM,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+08:45,08:45,KL 1972 KLM,Amsterdam,BAGGAGE HANDLED,Budapest (BUD)
+08:50,08:50,KL 1172 KLM,Amsterdam,BAGGAGE HANDLED,Trondheim (TRD)
+08:50,08:50,KL 1470 KLM,Amsterdam,BAGGAGE HANDLED,Glasgow (GLA)
+08:50,08:50,KL 1596 KLM,Amsterdam,BAGGAGE HANDLED,Rome (FCO)
+08:50,08:50,KL 1952 KLM,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+08:55,08:55,EI 602 Aer Lingus,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+08:55,08:55,EI 840 Aer Lingus,Amsterdam,BAGGAGE HANDLED,Cork (ORK)
+08:55,08:55,EZY 2511 easyJet,Amsterdam,BAGGAGE HANDLED,London Luton (LTN)
+08:55,08:55,KL 1638 KLM,Amsterdam,BAGGAGE HANDLED,Florence (FLR)
+09:00,09:00,B6 2288 JetBlue,Amsterdam,BAGGAGE HANDLED,New York JFK (JFK)
+09:00,09:13,BT 617 AirBaltic,Amsterdam,BAGGAGE HANDLED,Riga (RIX)
+09:00,09:00,EJU 3851 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Milan Malpensa (MXP)
+09:00,09:10,FB 461 Bulgaria Air,Amsterdam,BAGGAGE HANDLED,Sofia (SOF)
+09:00,09:00,KL 1000 KLM,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+09:00,09:00,KL 1084 KLM,Amsterdam,BAGGAGE HANDLED,Cork (ORK)
+09:00,09:00,KL 1684 KLM,Amsterdam,BAGGAGE HANDLED,Bilbao (BIO)
+09:00,09:00,KL 1838 KLM,Amsterdam,BAGGAGE HANDLED,Vienna (VIE)
+09:00,09:00,KL 1924 KLM,Amsterdam,BAGGAGE HANDLED,Geneva (GVA)
+09:00,09:00,LX 724 Swiss International Airlines,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+09:05,09:05,KL 602 KLM,Amsterdam,BAGGAGE HANDLED,Los Angeles (LAX)
+09:05,09:05,KL 1692 KLM,Amsterdam,BAGGAGE HANDLED,Lisbon (LIS)
+09:10,09:20,BT 857 AirBaltic,Amsterdam,BAGGAGE HANDLED,Tallinn (TLL)
+09:10,09:10,FR 420 Ryanair,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+09:10,09:10,KL 1722 KLM,Amsterdam,BAGGAGE HANDLED,Brussels (BRU)
+09:10,09:10,OS 371 Austrian Airlines,Amsterdam,BAGGAGE HANDLED,Vienna (VIE)
+09:15,09:50,DL 56 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Salt L. City (SLC)
+09:15,09:34,JU 360 Air Serbia,Amsterdam,BAGGAGE HANDLED,Belgrade (BEG)
+09:15,09:15,KL 1854 KLM,Amsterdam,BAGGAGE HANDLED,Dusseldorf (DUS)
+09:20,09:20,BA 428 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+09:20,09:20,BT 961 AirBaltic,Amsterdam,BAGGAGE HANDLED,Vilnius (VNO)
+09:20,09:20,UA 909 United Airlines,Amsterdam,BAGGAGE HANDLED,Chicago (ORD)
+09:25,09:25,BA 8497 British Airways,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+09:25,09:25,DL 142 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Seattle (SEA)
+09:25,09:25,EZY 2161 easyJet,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+09:30,09:30,AF 1340 Air France,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+09:35,09:35,KL 1778 KLM,Amsterdam,BAGGAGE HANDLED,Hamburg (HAM)
+09:40,09:40,KL 702 KLM,Amsterdam,BAGGAGE HANDLED,Santiago (SCL)
+09:40,09:40,LO 265 LOT Polish Airlines,Amsterdam,BAGGAGE HANDLED,Warsaw (WAW)
+09:40,09:40,UX 1091 Air Europa,Amsterdam,BAGGAGE HANDLED,Madrid (MAD)
+09:40,09:40,VY 8300 Vueling,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+09:45,09:45,SK 2551 Scandinavian Airlines,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+09:55,09:55,AY 1301 Finnair,Amsterdam,BAGGAGE HANDLED,Helsinki (HEL)
+09:55,10:51,KL 982 KLM,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+10:00,10:00,DL 36 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Orlando (MCO)
+10:00,10:00,DL 162 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Minneapolis (MSP)
+10:00,10:00,SK 821 Scandinavian Airlines,Amsterdam,BAGGAGE HANDLED,Oslo (OSL)
+10:05,10:05,BA 2540 British Airways,Amsterdam,BAGGAGE HANDLED,London Gatwick (LGW)
+10:10,10:10,KL 592 KLM,Amsterdam,BAGGAGE HANDLED,Johannesburg (JNB)
+10:10,10:10,KL 682 KLM,Amsterdam,BAGGAGE HANDLED,Vancouver (YVR)
+10:10,10:10,LH 988 Lufthansa,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+10:15,10:15,EJU 7848 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Bristol (BRS)
+10:20,10:20,3O 127 Air Arabia Maroc,Amsterdam,BAGGAGE HANDLED,Tanger (TNG)
+10:20,11:36,EJU 8673 easyJet Europe,Amsterdam,BAGGAGE HANDLED,London Gatwick (LGW)
+10:20,10:42,KL 668 KLM,Amsterdam,BAGGAGE HANDLED,Austin (AUS)
+10:20,10:32,LH 2302 Lufthansa,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+10:30,10:30,DL 74 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Atlanta (ATL)
+10:30,10:30,DL 136 Delta Air Lines,Amsterdam,BAGGAGE HANDLED,Detroit (DTW)
+10:30,10:30,KL 1224 KLM,Amsterdam,CANCELLED,Paris de Gaulle (CDG)
+10:30,10:30,KL 1352 KLM,Amsterdam,BAGGAGE HANDLED,Prague (PRG)
+10:30,10:30,OU 450 Croatia Airlines,Amsterdam,BAGGAGE HANDLED,Zagreb (ZAG)
+10:35,10:35,KL 644 KLM,Amsterdam,BAGGAGE HANDLED,New York JFK (JFK)
+10:35,10:35,KL 745 KLM,Amsterdam,BAGGAGE HANDLED,Bogota (BOG)
+10:35,10:35,PY 994 Surinam Airways,Amsterdam,BAGGAGE HANDLED,Paramaribo (PBM)
+10:40,10:40,AA 204 American Airlines,Amsterdam,BAGGAGE HANDLED,Philadelphia (PHL)
+10:40,10:40,AC 808 Air Canada,Amsterdam,BAGGAGE HANDLED,Toronto (YYZ)
+10:40,10:40,EJU 7940 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+10:40,10:40,KM 394 Air Malta,Amsterdam,BAGGAGE HANDLED,Malta (MLA)
+10:40,11:09,OR 365 TUI fly,Amsterdam,BAGGAGE HANDLED,Curacao (CUR)
+10:40,10:40,PC 1251 Pegasus Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Sabiha (SAW)
+10:40,10:52,RO 361 Tarom,Amsterdam,BAGGAGE HANDLED,Bucharest (OTP)
+10:40,10:40,TK 1951 Turkish Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Airport (IST)
+10:45,10:45,KL 1954 KLM,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+10:50,10:50,BA 430 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+10:50,10:50,KL 758 KLM,Amsterdam,BAGGAGE HANDLED,Panama City (PTY)
+10:55,10:55,HV 6610 Transavia,Amsterdam,BAGGAGE HANDLED,Innsbruck (INN)
+11:00,12:12,AM 25 Aeromexico,Amsterdam,BAGGAGE HANDLED,Mexico City (MEX)
+11:00,11:00,AZ 108 ITA Airways,Amsterdam,BAGGAGE HANDLED,Rome (FCO)
+11:00,11:00,AZ 120 ITA Airways,Amsterdam,BAGGAGE HANDLED,Milan Linate (LIN)
+11:00,11:00,KL 986 KLM,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+11:00,11:00,KL 1228 KLM,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+11:00,11:00,KL 1926 KLM,Amsterdam,BAGGAGE HANDLED,Geneva (GVA)
+11:00,16:36,OG 460 Play,Amsterdam,BAGGAGE HANDLED,Reykjavik (KEF)
+11:00,11:00,QR 275 Qatar Airways,Amsterdam,BAGGAGE HANDLED,Doha (DOH)
+11:05,11:05,KL 1002 KLM,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+11:05,11:05,KL 1516 KLM,Amsterdam,CANCELLED,Norwich (NWI)
+11:10,11:10,KL 1868 KLM,Amsterdam,BAGGAGE HANDLED,Stuttgart (STR)
+11:10,13:12,OR 511 TUI fly,Amsterdam,BAGGAGE HANDLED,Montego Bay (MBJ)
+11:15,11:34,AF 1794 Air France,Amsterdam,BAGGAGE HANDLED,Lyon (LYS)
+11:15,11:15,KL 598 KLM,Amsterdam,BAGGAGE HANDLED,Cape Town (CPT)
+11:15,11:15,KL 1126 KLM,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+11:15,11:15,LY 337 El Al,Amsterdam,BAGGAGE HANDLED,Tel Aviv (TLV)
+11:20,11:20,EJU 7866 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Geneva (GVA)
+11:20,11:20,KL 1050 KLM,Amsterdam,BAGGAGE HANDLED,Bristol (BRS)
+11:20,11:20,KL 1142 KLM,Amsterdam,BAGGAGE HANDLED,Oslo (OSL)
+11:25,11:25,A3 624 Aegean Airlines,Amsterdam,BAGGAGE HANDLED,Athens (ATH)
+11:25,11:40,KL 934 KLM,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+11:25,11:25,KL 1884 KLM,Amsterdam,BAGGAGE HANDLED,Nuremberg (NUE)
+11:30,11:30,KL 1072 KLM,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+11:30,11:30,KL 1198 KLM,Amsterdam,BAGGAGE HANDLED,Stavanger (SVG)
+11:30,11:30,KL 1342 KLM,Amsterdam,BAGGAGE HANDLED,Billund (BLL)
+11:35,11:35,B6 31 JetBlue,Amsterdam,BAGGAGE HANDLED,Boston (BOS)
+11:35,11:35,I2 3722 Iberia Express,Amsterdam,CANCELLED,Madrid (MAD)
+11:35,11:35,KL 1330 KLM,Amsterdam,BAGGAGE HANDLED,Aalborg (AAL)
+11:35,11:35,KL 1422 KLM,Amsterdam,BAGGAGE HANDLED,Birmingham (BHX)
+11:35,11:35,KL 1442 KLM,Amsterdam,BAGGAGE HANDLED,Aberdeen (ABZ)
+11:35,11:35,KL 1764 KLM,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+11:35,11:35,KL 1792 KLM,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+11:35,11:35,KL 1822 KLM,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+11:35,11:35,WA 918 KLM Cityhopper,Amsterdam,BAGGAGE HANDLED,Southampton (SOU)
+11:40,11:40,KL 1106 KLM,Amsterdam,BAGGAGE HANDLED,Stockholm (ARN)
+11:40,11:40,KL 1724 KLM,Amsterdam,BAGGAGE HANDLED,Brussels (BRU)
+11:40,11:40,KL 1904 KLM,Amsterdam,BAGGAGE HANDLED,Hanover (HAJ)
+11:45,11:45,KL 765 KLM,Amsterdam,BAGGAGE HANDLED,Aruba (AUA)
+11:45,11:45,KL 958 KLM,Amsterdam,CANCELLED,Newcastle (NCL)
+11:45,11:45,KL 1188 KLM,Amsterdam,BAGGAGE HANDLED,Bergen (BGO)
+11:45,11:45,KL 1230 KLM,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+11:45,11:45,KL 1472 KLM,Amsterdam,BAGGAGE HANDLED,Glasgow (GLA)
+11:50,11:50,KL 1278 KLM,Amsterdam,BAGGAGE HANDLED,Edinburgh (EDI)
+11:50,11:50,KL 1754 KLM,Amsterdam,BAGGAGE HANDLED,Bremen (BRE)
+11:55,11:55,FI 500 Icelandair,Amsterdam,BAGGAGE HANDLED,Reykjavik (KEF)
+12:00,12:23,KL 1740 KLM,Amsterdam,BAGGAGE HANDLED,Luxembourg (LUX)
+12:05,12:17,OR 361 TUI fly,Amsterdam,BAGGAGE HANDLED,Aruba (AUA)
+12:10,12:10,KL 988 KLM,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+12:10,12:10,KL 1780 KLM,Amsterdam,BAGGAGE HANDLED,Hamburg (HAM)
+12:15,12:15,KL 706 KLM,Amsterdam,BAGGAGE HANDLED,Rio de Janeiro (GIG)
+12:15,12:44,KL 1546 KLM,Amsterdam,BAGGAGE HANDLED,Leeds Bradford (LBA)
+12:20,12:20,KL 656 KLM,Amsterdam,CANCELLED,Minneapolis (MSP)
+12:20,12:20,KL 1166 KLM,Amsterdam,BAGGAGE HANDLED,Helsinki (HEL)
+12:25,12:25,HV 6412 Transavia,Amsterdam,BAGGAGE HANDLED,Naples (NAP)
+12:25,13:22,KL 792 KLM,Amsterdam,BAGGAGE HANDLED,Sao Paulo (GRU)
+12:25,12:25,KL 962 KLM,Amsterdam,BAGGAGE HANDLED,Newcastle (NCL)
+12:25,12:25,KL 1008 KLM,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+12:30,12:30,HV 5132 Transavia,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+12:30,12:30,HV 6332 Transavia,Amsterdam,BAGGAGE HANDLED,Valencia (VLC)
+12:35,12:35,KL 622 KLM,Amsterdam,BAGGAGE HANDLED,Atlanta (ATL)
+12:35,12:35,KL 1856 KLM,Amsterdam,BAGGAGE HANDLED,Dusseldorf (DUS)
+12:35,12:35,TK 7768 Turkish Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Sabiha (SAW)
+12:35,12:35,VY 8309 Vueling,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+12:40,12:40,BA 8451 British Airways,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+12:40,12:40,EI 604 Aer Lingus,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+12:40,12:40,EK 147 Emirates,Amsterdam,BAGGAGE HANDLED,Dubai International (DXB)
+12:40,12:40,EZY 2515 easyJet,Amsterdam,BAGGAGE HANDLED,London Luton (LTN)
+12:40,12:40,KL 1060 KLM,Amsterdam,BAGGAGE HANDLED,Cardiff (CWL)
+12:40,12:40,KL 1486 KLM,Amsterdam,BAGGAGE HANDLED,Humberside (HUY)
+12:40,12:40,KL 1598 KLM,Amsterdam,BAGGAGE HANDLED,Rome (FCO)
+12:45,13:00,KL 1986 KLM,Amsterdam,BAGGAGE HANDLED,Basel (BSL)
+12:50,12:50,TP 670 TAP Air Portugal,Amsterdam,BAGGAGE HANDLED,Lisbon (LIS)
+12:55,12:55,KL 1534 KLM,Amsterdam,BAGGAGE HANDLED,Teesside International (MME)
+12:55,12:55,KU 127 Kuwait Airways,Amsterdam,BAGGAGE HANDLED,Kuwait (KWI)
+13:00,13:00,KL 1074 KLM,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+13:00,13:00,LH 2304 Lufthansa,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+13:00,13:00,TK 1961 Turkish Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Airport (IST)
+13:05,13:05,AF 1640 Air France,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+13:05,13:05,KL 1766 KLM,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+13:10,13:10,KL 1354 KLM,Amsterdam,BAGGAGE HANDLED,Prague (PRG)
+13:10,15:04,KL 1870 KLM,Amsterdam,BAGGAGE HANDLED,Stuttgart (STR)
+13:15,13:15,KL 1344 KLM,Amsterdam,BAGGAGE HANDLED,Billund (BLL)
+13:15,13:15,KL 1620 KLM,Amsterdam,BAGGAGE HANDLED,Milan Linate (LIN)
+13:15,13:15,KL 1824 KLM,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+13:15,13:26,SV 215 Saudi Arabian Airlines,Amsterdam,BAGGAGE HANDLED,Jeddah (JED)
+13:20,13:20,BA 434 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+13:20,13:20,KL 753 KLM,Amsterdam,BAGGAGE HANDLED,Quito (UIO)
+13:20,13:20,KL 1794 KLM,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+13:20,13:20,QR 273 Qatar Airways,Amsterdam,BAGGAGE HANDLED,Doha (DOH)
+13:25,13:25,HV 5952 Transavia,Amsterdam,BAGGAGE HANDLED,Lisbon (LIS)
+13:25,13:25,KL 1108 KLM,Amsterdam,BAGGAGE HANDLED,Stockholm (ARN)
+13:25,13:45,TK 1957 Turkish Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Airport (IST)
+13:30,13:30,KL 1128 KLM,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+13:30,13:30,KL 1200 KLM,Amsterdam,BAGGAGE HANDLED,Stavanger (SVG)
+13:30,13:30,KL 1414 KLM,Amsterdam,BAGGAGE HANDLED,Lyon (LYS)
+13:30,13:30,KL 1444 KLM,Amsterdam,BAGGAGE HANDLED,Aberdeen (ABZ)
+13:30,13:30,KL 1958 KLM,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+13:30,13:30,VY 1377 Vueling,Amsterdam,BAGGAGE HANDLED,Alicante (ALC)
+13:35,13:35,EJU 3853 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Milan Malpensa (MXP)
+13:35,13:35,KL 1556 KLM,Amsterdam,BAGGAGE HANDLED,Turin (TRN)
+13:35,13:35,KL 1666 KLM,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+13:35,13:35,KL 1700 KLM,Amsterdam,BAGGAGE HANDLED,Madrid (MAD)
+13:35,13:35,KL 1928 KLM,Amsterdam,BAGGAGE HANDLED,Geneva (GVA)
+13:40,13:40,KL 1456 KLM,Amsterdam,BAGGAGE HANDLED,Nantes (NTE)
+13:40,13:40,KL 1918 KLM,Amsterdam,BAGGAGE HANDLED,Gdansk (GDN)
+13:40,13:40,VY 8315 Vueling,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+13:45,13:45,KL 1180 KLM,Amsterdam,BAGGAGE HANDLED,Linkoping (LPI)
+13:45,13:45,KL 1896 KLM,Amsterdam,BAGGAGE HANDLED,Graz (GRZ)
+13:50,13:50,KL 1994 KLM,Amsterdam,BAGGAGE HANDLED,Krakow (KRK)
+13:55,13:55,FR 3006 Ryanair,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+13:55,13:55,HV 6116 Transavia,Amsterdam,BAGGAGE HANDLED,Malaga (AGP)
+13:55,13:55,HV 6728 Transavia,Amsterdam,BAGGAGE HANDLED,Sevilla (SVQ)
+13:55,14:27,LH 992 Lufthansa,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+14:00,15:08,AF 1740 Air France,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+14:00,14:00,MS 757 Egypt Air,Amsterdam,BAGGAGE HANDLED,Cairo (CAI)
+14:05,14:05,KL 744 KLM,Amsterdam,BAGGAGE HANDLED,Lima (LIM)
+14:05,14:05,KL 1010 KLM,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+14:05,14:19,LX 728 Swiss International Airlines,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+14:10,14:10,KL 1316 KLM,Amsterdam,BAGGAGE HANDLED,Bordeaux (BOD)
+14:10,14:10,KL 1846 KLM,Amsterdam,BAGGAGE HANDLED,Vienna (VIE)
+14:15,14:15,SK 547 Scandinavian Airlines,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+14:20,14:20,BA 2542 British Airways,Amsterdam,BAGGAGE HANDLED,London Gatwick (LGW)
+14:20,14:20,EJU 7846 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Birmingham (BHX)
+14:20,14:20,KL 1654 KLM,Amsterdam,BAGGAGE HANDLED,Venice (VCE)
+14:25,14:25,EZY 3445 easyJet,Amsterdam,BAGGAGE HANDLED,Liverpool (LPL)
+14:25,14:25,KL 1254 KLM,Amsterdam,BAGGAGE HANDLED,Nice (NCE)
+14:25,14:25,KL 1266 KLM,Amsterdam,BAGGAGE HANDLED,Marseille (MRS)
+14:35,14:35,KL 1144 KLM,Amsterdam,BAGGAGE HANDLED,Oslo (OSL)
+14:40,15:58,EJU 7928 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Prague (PRG)
+14:40,14:40,PC 1253 Pegasus Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Sabiha (SAW)
+14:40,14:40,VY 8365 Vueling,Amsterdam,BAGGAGE HANDLED,Malaga (AGP)
+14:45,14:45,HV 5820 Transavia,Amsterdam,BAGGAGE HANDLED,Bari (BRI)
+14:50,14:50,KL 1364 KLM,Amsterdam,BAGGAGE HANDLED,Warsaw (WAW)
+14:50,15:11,KQ 116 Kenya Airways,Amsterdam,BAGGAGE HANDLED,Nairobi (NBO)
+14:55,14:55,EJU 2163 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+14:55,14:55,KL 1642 KLM,Amsterdam,BAGGAGE HANDLED,Florence (FLR)
+14:55,14:55,KL 1712 KLM,Amsterdam,BAGGAGE HANDLED,Oporto (OPO)
+15:05,15:05,KL 1584 KLM,Amsterdam,BAGGAGE HANDLED,Bologna (BLQ)
+15:05,15:05,KL 1976 KLM,Amsterdam,BAGGAGE HANDLED,Budapest (BUD)
+15:10,15:10,BA 438 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+15:10,15:10,EZY 2517 easyJet,Amsterdam,BAGGAGE HANDLED,London Luton (LTN)
+15:10,15:10,KL 686 KLM,Amsterdam,BAGGAGE HANDLED,Mexico City (MEX)
+15:10,15:10,KL 1906 KLM,Amsterdam,BAGGAGE HANDLED,Belgrade (BEG)
+15:15,15:15,KL 1346 KLM,Amsterdam,BAGGAGE HANDLED,Billund (BLL)
+15:20,15:20,KL 1602 KLM,Amsterdam,BAGGAGE HANDLED,Rome (FCO)
+15:25,15:25,KL 1670 KLM,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+15:25,15:25,KL 1694 KLM,Amsterdam,BAGGAGE HANDLED,Lisbon (LIS)
+15:25,15:25,KL 1858 KLM,Amsterdam,BAGGAGE HANDLED,Dusseldorf (DUS)
+15:30,15:30,KL 1168 KLM,Amsterdam,BAGGAGE HANDLED,Helsinki (HEL)
+15:30,15:30,KL 1304 KLM,Amsterdam,BAGGAGE HANDLED,Toulouse (TLS)
+15:30,15:30,KL 1810 KLM,Amsterdam,BAGGAGE HANDLED,Dresden (DRS)
+15:35,15:35,EJU 3855 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Milan Malpensa (MXP)
+15:35,16:07,EJU 4071 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Venice (VCE)
+15:35,15:35,KL 1110 KLM,Amsterdam,BAGGAGE HANDLED,Stockholm (ARN)
+15:35,15:35,KL 1130 KLM,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+15:35,16:00,KL 1334 KLM,Amsterdam,BAGGAGE HANDLED,Aalborg (AAL)
+15:35,15:35,KL 1768 KLM,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+15:40,15:40,HV 5316 Transavia,Amsterdam,BAGGAGE HANDLED,Larnaca (LCA)
+15:40,15:40,KL 1702 KLM,Amsterdam,BAGGAGE HANDLED,Madrid (MAD)
+15:40,15:40,KL 1726 KLM,Amsterdam,BAGGAGE HANDLED,Brussels (BRU)
+15:40,15:52,KL 1886 KLM,Amsterdam,BAGGAGE HANDLED,Nuremberg (NUE)
+15:45,16:10,KL 960 KLM,Amsterdam,BAGGAGE HANDLED,Newcastle (NCL)
+15:45,15:45,KL 1426 KLM,Amsterdam,BAGGAGE HANDLED,Birmingham (BHX)
+15:50,15:50,HV 5808 Transavia,Amsterdam,BAGGAGE HANDLED,Thessaloniki (SKG)
+15:50,15:50,KL 1234 KLM,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+15:50,15:50,KL 1274 KLM,Amsterdam,BAGGAGE HANDLED,Poznan (POZ)
+15:55,15:55,FR 3100 Ryanair,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+15:55,15:55,KL 1256 KLM,Amsterdam,BAGGAGE HANDLED,Rennes (RNS)
+15:55,16:09,KL 1282 KLM,Amsterdam,BAGGAGE HANDLED,Edinburgh (EDI)
+15:55,15:55,KL 1374 KLM,Amsterdam,BAGGAGE HANDLED,Bucharest (OTP)
+15:55,15:55,KL 1782 KLM,Amsterdam,BAGGAGE HANDLED,Hamburg (HAM)
+15:55,15:55,KL 1796 KLM,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+15:55,15:55,KL 1826 KLM,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+15:55,15:55,KL 1960 KLM,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+15:55,15:55,VY 8302 Vueling,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+16:00,16:00,EI 608 Aer Lingus,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+16:00,16:00,HV 5754 Transavia,Amsterdam,BAGGAGE HANDLED,Marrakech (RAK)
+16:00,16:12,KL 1076 KLM,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+16:00,16:00,KL 1086 KLM,Amsterdam,BAGGAGE HANDLED,Cork (ORK)
+16:00,16:00,KL 1202 KLM,Amsterdam,BAGGAGE HANDLED,Stavanger (SVG)
+16:00,16:00,KL 1356 KLM,Amsterdam,BAGGAGE HANDLED,Prague (PRG)
+16:00,16:00,KL 1476 KLM,Amsterdam,BAGGAGE HANDLED,Glasgow (GLA)
+16:00,16:00,KL 1624 KLM,Amsterdam,BAGGAGE HANDLED,Milan Linate (LIN)
+16:00,16:45,KL 1742 KLM,Amsterdam,BAGGAGE HANDLED,Luxembourg (LUX)
+16:00,16:00,KL 1874 KLM,Amsterdam,BAGGAGE HANDLED,Stuttgart (STR)
+16:05,16:05,KL 1052 KLM,Amsterdam,BAGGAGE HANDLED,Bristol (BRS)
+16:10,16:10,KL 930 KLM,Amsterdam,BAGGAGE HANDLED,Inverness (INV)
+16:10,16:10,KL 936 KLM,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+16:10,16:10,KL 1156 KLM,Amsterdam,BAGGAGE HANDLED,Gothenburg (GOT)
+16:10,16:10,KL 1186 KLM,Amsterdam,BAGGAGE HANDLED,Bergen (BGO)
+16:10,16:10,KL 1272 KLM,Amsterdam,BAGGAGE HANDLED,Wroclaw (WRO)
+16:15,16:15,AT 850 Royal Air Maroc,Amsterdam,BAGGAGE HANDLED,Casablanca (CMN)
+16:15,16:15,KL 1548 KLM,Amsterdam,BAGGAGE HANDLED,Leeds Bradford (LBA)
+16:15,16:15,KL 1930 KLM,Amsterdam,BAGGAGE HANDLED,Geneva (GVA)
+16:25,16:25,TK 7822 Turkish Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Sabiha (SAW)
+16:30,16:30,AF 1796 Air France,Amsterdam,BAGGAGE HANDLED,Lyon (LYS)
+16:30,16:30,HV 6142 Transavia,Amsterdam,BAGGAGE HANDLED,Alicante (ALC)
+16:35,16:35,BA 446 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+16:45,16:45,KL 1920 KLM,Amsterdam,BAGGAGE HANDLED,Gdansk (GDN)
+16:45,16:45,OS 373 Austrian Airlines,Amsterdam,BAGGAGE HANDLED,Vienna (VIE)
+16:50,16:50,LH 2306 Lufthansa,Amsterdam,CANCELLED,Munich (MUC)
+16:50,16:50,SK 1549 Scandinavian Airlines,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+16:55,17:29,HV 6706 Transavia,Amsterdam,BAGGAGE HANDLED,Fuerteventura (FUE)
+16:55,16:55,TK 1953 Turkish Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Airport (IST)
+17:00,17:00,EZS 1515 easyJet Switzerland,Amsterdam,BAGGAGE HANDLED,Geneva (GVA)
+17:00,17:00,TP 672 TAP Air Portugal,Amsterdam,BAGGAGE HANDLED,Lisbon (LIS)
+17:15,17:15,AZ 110 ITA Airways,Amsterdam,BAGGAGE HANDLED,Rome (FCO)
+17:15,17:15,EZY 8683 easyJet,Amsterdam,BAGGAGE HANDLED,London Gatwick (LGW)
+17:15,17:31,HV 5748 Transavia,Amsterdam,BAGGAGE HANDLED,Casablanca (CMN)
+17:15,17:15,KE 925 Korean Air,Amsterdam,BAGGAGE HANDLED,Seoul Incheon (ICN)
+17:15,17:48,KL 1944 KLM,Amsterdam,BAGGAGE HANDLED,Zagreb (ZAG)
+17:15,17:15,PC 1257 Pegasus Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Sabiha (SAW)
+17:20,17:20,EZY 2519 easyJet,Amsterdam,BAGGAGE HANDLED,London Luton (LTN)
+17:20,17:20,KL 898 KLM,Amsterdam,BAGGAGE HANDLED,Beijing (PEK)
+17:25,17:25,EJU 7888 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Arrecife (ACE)
+17:30,17:30,KL 868 KLM,Amsterdam,BAGGAGE HANDLED,Osaka Kansai (KIX)
+17:35,17:35,BA 8455 British Airways,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+17:35,17:35,UX 1093 Air Europa,Amsterdam,BAGGAGE HANDLED,Madrid (MAD)
+17:40,17:40,VY 8306 Vueling,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+17:45,17:45,EJU 7884 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Tenerife (TFS)
+17:45,18:05,KL 1980 KLM,Amsterdam,BAGGAGE HANDLED,Budapest (BUD)
+17:45,17:45,LH 996 Lufthansa,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+17:50,17:50,EJU 7892 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Las Palmas de Gran Canaria (LPA)
+17:55,17:55,KL 1830 KLM,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+18:00,18:00,AY 1305 Finnair,Amsterdam,BAGGAGE HANDLED,Helsinki (HEL)
+18:00,18:00,KL 1020 KLM,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+18:05,18:05,BA 2544 British Airways,Amsterdam,BAGGAGE HANDLED,London Gatwick (LGW)
+18:15,18:15,EJU 7852 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+18:15,18:15,SK 1555 Scandinavian Airlines,Amsterdam,BAGGAGE HANDLED,Stockholm (ARN)
+18:20,18:20,AF 1140 Air France,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+18:25,18:38,BT 619 AirBaltic,Amsterdam,BAGGAGE HANDLED,Riga (RIX)
+18:25,18:25,EY 77 Etihad Airways,Amsterdam,BAGGAGE HANDLED,Abu Dhabi (AUH)
+18:25,18:25,SK 827 Scandinavian Airlines,Amsterdam,BAGGAGE HANDLED,Oslo (OSL)
+18:30,18:48,BT 1561 AirBaltic,Amsterdam,BAGGAGE HANDLED,Tallinn (TLL)
+18:30,18:30,EJU 7886 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Alicante (ALC)
+18:45,18:45,I2 3724 Iberia Express,Amsterdam,BAGGAGE HANDLED,Madrid (MAD)
+18:50,18:50,BA 440 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+18:50,18:50,KL 1132 KLM,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+18:50,18:50,KL 1632 KLM,Amsterdam,BAGGAGE HANDLED,Milan Malpensa (MXP)
+18:50,18:50,KL 1848 KLM,Amsterdam,BAGGAGE HANDLED,Vienna (VIE)
+18:50,18:50,KL 1996 KLM,Amsterdam,BAGGAGE HANDLED,Krakow (KRK)
+18:50,19:07,LH 998 Lufthansa,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+18:50,19:03,WA 1522 KLM Cityhopper,Amsterdam,BAGGAGE HANDLED,Norwich (NWI)
+18:50,18:50,XQ 744 SunExpress,Amsterdam,BAGGAGE HANDLED,Konya (KYA)
+18:55,18:55,FR 2334 Ryanair,Amsterdam,BAGGAGE HANDLED,Malaga (AGP)
+18:55,18:55,KL 1148 KLM,Amsterdam,BAGGAGE HANDLED,Oslo (OSL)
+18:55,18:55,KL 1162 KLM,Amsterdam,BAGGAGE HANDLED,Gothenburg (GOT)
+18:55,18:55,KL 1204 KLM,Amsterdam,BAGGAGE HANDLED,Stavanger (SVG)
+18:55,18:55,KL 1326 KLM,Amsterdam,BAGGAGE HANDLED,Aalesund (AES)
+18:55,18:55,KL 1366 KLM,Amsterdam,CANCELLED,Warsaw (WAW)
+18:55,18:55,KL 1644 KLM,Amsterdam,BAGGAGE HANDLED,Florence (FLR)
+18:55,18:55,LO 267 LOT Polish Airlines,Amsterdam,BAGGAGE HANDLED,Warsaw (WAW)
+18:55,18:55,RO 363 Tarom,Amsterdam,BAGGAGE HANDLED,Bucharest (OTP)
+19:00,19:00,AZ 112 ITA Airways,Amsterdam,BAGGAGE HANDLED,Milan Linate (LIN)
+19:00,19:00,KL 876 KLM,Amsterdam,BAGGAGE HANDLED,Bangkok (BKK)
+19:00,19:00,KL 1308 KLM,Amsterdam,BAGGAGE HANDLED,Toulouse (TLS)
+19:00,20:13,KL 1460 KLM,Amsterdam,BAGGAGE HANDLED,Bordeaux (BOD)
+19:00,19:00,KL 1758 KLM,Amsterdam,BAGGAGE HANDLED,Bremen (BRE)
+19:05,19:05,KL 1770 KLM,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+19:10,19:10,KL 1258 KLM,Amsterdam,BAGGAGE HANDLED,Nice (NCE)
+19:10,20:00,KL 1912 KLM,Amsterdam,BAGGAGE HANDLED,Hanover (HAJ)
+19:10,19:10,LH 2308 Lufthansa,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+19:10,19:10,LX 734 Swiss International Airlines,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+19:15,19:15,BA 8459 British Airways,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+19:15,19:15,KL 990 KLM,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+19:15,19:15,KL 1022 KLM,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+19:15,19:15,KL 1190 KLM,Amsterdam,BAGGAGE HANDLED,Bergen (BGO)
+19:15,19:15,KL 1490 KLM,Amsterdam,BAGGAGE HANDLED,Humberside (HUY)
+19:15,19:15,KL 1592 KLM,Amsterdam,BAGGAGE HANDLED,Bologna (BLQ)
+19:15,19:15,KL 1798 KLM,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+19:15,19:15,KL 1932 KLM,Amsterdam,BAGGAGE HANDLED,Geneva (GVA)
+19:15,19:15,KL 1962 KLM,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+19:15,19:15,KL 1978 KLM,Amsterdam,BAGGAGE HANDLED,Budapest (BUD)
+19:15,19:15,OS 375 Austrian Airlines,Amsterdam,BAGGAGE HANDLED,Vienna (VIE)
+19:20,19:20,BR 75 EVA Air,Amsterdam,BAGGAGE HANDLED,Taipei (TPE)
+19:25,19:25,KL 1268 KLM,Amsterdam,BAGGAGE HANDLED,Marseille (MRS)
+19:30,19:30,KL 1116 KLM,Amsterdam,BAGGAGE HANDLED,Stockholm (ARN)
+19:30,19:30,KL 1538 KLM,Amsterdam,BAGGAGE HANDLED,Teesside International (MME)
+19:35,19:35,AF 1440 Air France,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+19:35,19:55,EJU 5285 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+19:35,19:35,EW 7184 Eurowings,Amsterdam,BAGGAGE HANDLED,Hamburg (HAM)
+19:35,19:50,KL 920 KLM,Amsterdam,BAGGAGE HANDLED,Southampton (SOU)
+19:35,19:57,KL 1054 KLM,Amsterdam,BAGGAGE HANDLED,Bristol (BRS)
+19:35,19:35,KL 1176 KLM,Amsterdam,BAGGAGE HANDLED,Trondheim (TRD)
+19:35,19:52,KL 1214 KLM,Amsterdam,BAGGAGE HANDLED,Rovaniemi (RVN)
+19:35,19:35,KL 1286 KLM,Amsterdam,BAGGAGE HANDLED,Edinburgh (EDI)
+19:35,19:35,KL 1336 KLM,Amsterdam,BAGGAGE HANDLED,Aalborg (AAL)
+19:35,19:35,KL 1406 KLM,Amsterdam,BAGGAGE HANDLED,Montpellier (MPL)
+19:35,19:35,KL 1504 KLM,Amsterdam,BAGGAGE HANDLED,Valencia (VLC)
+19:35,19:35,KL 1550 KLM,Amsterdam,BAGGAGE HANDLED,Leeds Bradford (LBA)
+19:35,19:35,KL 1614 KLM,Amsterdam,BAGGAGE HANDLED,Istanbul Airport (IST)
+19:35,19:35,KL 1688 KLM,Amsterdam,BAGGAGE HANDLED,Bilbao (BIO)
+19:35,19:35,KL 1696 KLM,Amsterdam,BAGGAGE HANDLED,Lisbon (LIS)
+19:35,19:35,KL 1704 KLM,Amsterdam,BAGGAGE HANDLED,Madrid (MAD)
+19:35,19:35,KL 1746 KLM,Amsterdam,BAGGAGE HANDLED,Luxembourg (LUX)
+19:35,19:35,KL 1862 KLM,Amsterdam,BAGGAGE HANDLED,Dusseldorf (DUS)
+19:35,19:35,KL 1990 KLM,Amsterdam,BAGGAGE HANDLED,Basel (BSL)
+19:35,19:35,SK 553 Scandinavian Airlines,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+19:40,19:40,EI 610 Aer Lingus,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+19:40,21:31,KL 896 KLM,Amsterdam,BAGGAGE HANDLED,Shanghai (PVG)
+19:45,19:45,WA 1066 KLM Cityhopper,Amsterdam,BAGGAGE HANDLED,Cardiff (CWL)
+19:50,19:50,8R 6774 Amelia,Amsterdam,BAGGAGE HANDLED,Strasbourg (SXB)
+19:50,19:50,KL 964 KLM,Amsterdam,BAGGAGE HANDLED,Newcastle (NCL)
+19:50,19:50,KL 1080 KLM,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+19:50,19:50,KL 1170 KLM,Amsterdam,BAGGAGE HANDLED,Helsinki (HEL)
+19:50,19:50,KL 1182 KLM,Amsterdam,BAGGAGE HANDLED,Linkoping (LPI)
+19:50,19:50,KL 1604 KLM,Amsterdam,BAGGAGE HANDLED,Rome (FCO)
+19:50,19:50,KL 1714 KLM,Amsterdam,BAGGAGE HANDLED,Oporto (OPO)
+19:50,21:28,KL 1876 KLM,Amsterdam,BAGGAGE HANDLED,Stuttgart (STR)
+19:50,19:50,KL 1888 KLM,Amsterdam,BAGGAGE HANDLED,Nuremberg (NUE)
+19:55,19:55,KL 948 KLM,Amsterdam,BAGGAGE HANDLED,Belfast City Airport (BHD)
+19:55,19:55,KL 1218 KLM,Amsterdam,BAGGAGE HANDLED,Sandefjord (TRF)
+19:55,19:55,KL 1248 KLM,Amsterdam,BAGGAGE HANDLED,Kristiansand (KRS)
+19:55,19:55,KL 1348 KLM,Amsterdam,BAGGAGE HANDLED,Billund (BLL)
+19:55,19:55,KL 1432 KLM,Amsterdam,BAGGAGE HANDLED,Birmingham (BHX)
+19:55,20:22,KL 1576 KLM,Amsterdam,BAGGAGE HANDLED,Athens (ATH)
+19:55,19:55,KL 1656 KLM,Amsterdam,BAGGAGE HANDLED,Venice (VCE)
+19:55,19:55,KL 1674 KLM,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+19:55,19:55,KL 1784 KLM,Amsterdam,BAGGAGE HANDLED,Hamburg (HAM)
+19:55,19:55,KL 1832 KLM,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+20:00,20:00,CD 234 Corendon Dutch Airlines,Amsterdam,BAGGAGE HANDLED,Antalya (AYT)
+20:00,20:00,EK 149 Emirates,Amsterdam,BAGGAGE HANDLED,Dubai International (DXB)
+20:00,20:00,KL 1244 KLM,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+20:00,20:00,KL 1318 KLM,Amsterdam,BAGGAGE HANDLED,Bordeaux (BOD)
+20:00,20:00,KL 1448 KLM,Amsterdam,BAGGAGE HANDLED,Aberdeen (ABZ)
+20:00,20:00,KL 1922 KLM,Amsterdam,BAGGAGE HANDLED,Gdansk (GDN)
+20:05,20:05,KL 938 KLM,Amsterdam,BAGGAGE HANDLED,Dublin (DUB)
+20:05,20:05,KL 994 KLM,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+20:05,20:05,KL 1358 KLM,Amsterdam,BAGGAGE HANDLED,Prague (PRG)
+20:10,20:10,BA 442 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+20:10,20:10,KL 1030 KLM,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+20:20,20:20,KL 1134 KLM,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+20:35,20:48,EZY 2521 easyJet,Amsterdam,BAGGAGE HANDLED,London Luton (LTN)
+20:35,20:35,EZY 2923 easyJet,Amsterdam,BAGGAGE HANDLED,Bristol (BRS)
+20:35,20:35,KL 1774 KLM,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+20:40,20:40,EZY 8685 easyJet,Amsterdam,BAGGAGE HANDLED,London Gatwick (LGW)
+20:40,21:06,OR 1634 TUI fly,Amsterdam,BAGGAGE HANDLED,Las Palmas de Gran Canaria (LPA)
+20:45,20:45,TK 1955 Turkish Airlines,Amsterdam,BAGGAGE HANDLED,Istanbul Airport (IST)
+20:50,20:50,KL 1964 KLM,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+20:55,20:55,KL 1150 KLM,Amsterdam,BAGGAGE HANDLED,Oslo (OSL)
+21:00,21:00,BA 426 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+21:00,21:00,BA 8457 British Airways,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+21:00,21:00,EJU 7978 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Hurghada (HRG)
+21:00,21:00,EZY 2167 easyJet,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+21:00,21:00,VY 8304 Vueling,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+21:05,21:05,KL 1024 KLM,Amsterdam,CANCELLED,London Heathrow (LHR)
+21:10,21:10,EJU 7806 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Milan Linate (LIN)
+21:10,21:10,KL 992 KLM,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+21:10,21:10,KL 1934 KLM,Amsterdam,BAGGAGE HANDLED,Geneva (GVA)
+21:15,21:34,EZY 3301 easyJet,Amsterdam,BAGGAGE HANDLED,Edinburgh (EDI)
+21:20,21:20,KL 1634 KLM,Amsterdam,BAGGAGE HANDLED,Milan Malpensa (MXP)
+21:20,21:20,OR 1605 TUI fly,Amsterdam,BAGGAGE HANDLED,Fuerteventura (FUE)
+21:35,21:35,VY 8436 Vueling,Amsterdam,BAGGAGE HANDLED,Lisbon (LIS)
+21:40,21:40,HV 6146 Transavia,Amsterdam,BAGGAGE HANDLED,Alicante (ALC)
+21:45,21:45,EJU 7844 easyJet Europe,Amsterdam,BAGGAGE HANDLED,London Stansted (STN)
+21:45,22:01,KL 1368 KLM,Amsterdam,BAGGAGE HANDLED,Warsaw (WAW)
+21:45,21:45,KL 1800 KLM,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+21:50,21:50,KL 1246 KLM,Amsterdam,BAGGAGE HANDLED,Paris de Gaulle (CDG)
+21:55,21:55,BA 444 British Airways,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+22:00,22:00,EJU 7850 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Birmingham (BHX)
+22:00,22:00,VY 8311 Vueling,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+22:05,22:05,EJU 7854 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+22:10,22:10,EJU 7832 easyJet Europe,Amsterdam,BAGGAGE HANDLED,London Luton (LTN)
+22:15,22:15,EJU 8675 easyJet Europe,Amsterdam,BAGGAGE HANDLED,London Gatwick (LGW)
+22:15,22:15,KL 998 KLM,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+22:15,22:15,KL 1676 KLM,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+22:15,22:15,LH 1002 Lufthansa,Amsterdam,BAGGAGE HANDLED,Frankfurt (FRA)
+22:15,22:15,OS 377 Austrian Airlines,Amsterdam,BAGGAGE HANDLED,Vienna (VIE)
+22:20,22:20,TP 674 TAP Air Portugal,Amsterdam,BAGGAGE HANDLED,Lisbon (LIS)
+22:25,22:25,LX 736 Swiss International Airlines,Amsterdam,BAGGAGE HANDLED,Zurich (ZRH)
+22:30,22:30,KL 1434 KLM,Amsterdam,BAGGAGE HANDLED,Birmingham (BHX)
+22:30,22:30,LO 269 LOT Polish Airlines,Amsterdam,BAGGAGE HANDLED,Warsaw (WAW)
+22:35,22:35,KL 1032 KLM,Amsterdam,BAGGAGE HANDLED,London Heathrow (LHR)
+22:35,22:35,LH 2310 Lufthansa,Amsterdam,BAGGAGE HANDLED,Munich (MUC)
+22:40,22:40,AZ 118 ITA Airways,Amsterdam,BAGGAGE HANDLED,Milan Linate (LIN)
+22:50,22:50,EJU 7802 easyJet Europe,Amsterdam,BAGGAGE HANDLED,Milan Malpensa (MXP)
+23:00,23:00,HV 5140 Transavia,Amsterdam,BAGGAGE HANDLED,Barcelona (BCN)
+23:00,23:00,HV 6004 Transavia,Amsterdam,BAGGAGE HANDLED,Oporto (OPO)
+23:00,23:00,KL 980 KLM,Amsterdam,BAGGAGE HANDLED,London City (LCY)
+23:00,23:00,KL 1118 KLM,Amsterdam,BAGGAGE HANDLED,Stockholm (ARN)
+23:00,23:00,KL 1706 KLM,Amsterdam,BAGGAGE HANDLED,Madrid (MAD)
+23:05,23:29,HV 5628 Transavia,Amsterdam,BAGGAGE HANDLED,Palma (PMI)
+23:15,23:15,HV 6868 Transavia,Amsterdam,BAGGAGE HANDLED,Athens (ATH)
+23:20,23:20,KL 1082 KLM,Amsterdam,BAGGAGE HANDLED,Manchester (MAN)
+23:20,23:20,KL 1136 KLM,Amsterdam,BAGGAGE HANDLED,Copenhagen (CPH)
+23:20,23:20,KL 1834 KLM,Amsterdam,BAGGAGE HANDLED,Berlin Brandenburg (BER)
+23:25,23:25,HV 6118 Transavia,Amsterdam,BAGGAGE HANDLED,Malaga (AGP)
+23:25,23:25,KL 1608 KLM,Amsterdam,BAGGAGE HANDLED,Rome (FCO)
+23:40,23:40,HV 6902 Transavia,Amsterdam,BAGGAGE HANDLED,Dubai International (DXB)
+23:45,23:45,HV 5356 Transavia,Amsterdam,BAGGAGE HANDLED,Faro (FAO)
+23:50,23:50,HV 6120 Transavia,Amsterdam,BAGGAGE HANDLED,Malaga (AGP)

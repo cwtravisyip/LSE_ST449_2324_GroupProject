@@ -1,0 +1,1276 @@
+,time_sch,dest,url,time_act,orig,code
+0,06:00,Lisbon,https://www.heathrow.com/departures/terminal-2/flight-details/TP1363/19-12-2023,06:25,London,TP1363
+1,06:00,Vienna,https://www.heathrow.com/departures/terminal-2/flight-details/OS458/19-12-2023,06:42,London,OS458
+2,06:00,Zurich,https://www.heathrow.com/departures/terminal-2/flight-details/LX345/19-12-2023,06:39,London,LX345
+3,06:05,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA472/19-12-2023,06:20,London,BA472
+4,06:15,Belfast,https://www.heathrow.com/departures/terminal-5/flight-details/BA1414/19-12-2023,06:31,London,BA1414
+5,06:20,Paris,https://www.heathrow.com/departures/terminal-4/flight-details/AF1381/19-12-2023,06:53,London,AF1381
+6,06:20,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/BA456/19-12-2023,06:52,London,BA456
+7,06:25,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1432/19-12-2023,06:43,London,BA1432
+8,06:25,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1472/19-12-2023,06:47,London,BA1472
+9,06:30,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1000/19-12-2023,06:45,London,KL1000
+10,06:30,Brussels,https://www.heathrow.com/departures/terminal-5/flight-details/BA388/19-12-2023,06:36,London,BA388
+11,06:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH921/19-12-2023,06:58,London,LH921
+12,06:30,Warsaw,https://www.heathrow.com/departures/terminal-2/flight-details/LO286/19-12-2023,07:13,London,LO286
+13,06:35,Istanbul,https://www.heathrow.com/departures/terminal-2/flight-details/TK1988/19-12-2023,07:02,London,TK1988
+14,06:35,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2485/19-12-2023,07:05,London,LH2485
+15,06:40,Stockholm,https://www.heathrow.com/departures/terminal-2/flight-details/SK1530/19-12-2023,06:54,London,SK1530
+16,06:40,Copenhagen,https://www.heathrow.com/departures/terminal-2/flight-details/SK500/19-12-2023,06:59,London,SK500
+17,06:45,Aberdeen,https://www.heathrow.com/departures/terminal-5/flight-details/BA1304/19-12-2023,06:52,London,BA1304
+18,06:45,Copenhagen,https://www.heathrow.com/departures/terminal-5/flight-details/BA812/19-12-2023,06:57,London,BA812
+19,06:45,Dublin,https://www.heathrow.com/departures/terminal-5/flight-details/BA832/19-12-2023,07:16,London,BA832
+20,06:45,Milan,https://www.heathrow.com/departures/terminal-4/flight-details/AZ229/19-12-2023,06:56,London,AZ229
+21,06:45,Paris,https://www.heathrow.com/departures/terminal-5/flight-details/BA328/19-12-2023,07:03,London,BA328
+22,06:50,Brussels,https://www.heathrow.com/departures/terminal-2/flight-details/SN2104/19-12-2023,07:22,London,SN2104
+23,06:50,Zurich,https://www.heathrow.com/departures/terminal-5/flight-details/BA710/19-12-2023,07:00,London,BA710
+24,06:55,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA428/19-12-2023,07:06,London,BA428
+25,06:55,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA724/19-12-2023,07:12,London,BA724
+26,06:55,Manchester,https://www.heathrow.com/departures/terminal-5/flight-details/BA1370/19-12-2023,07:44,London,BA1370
+27,06:55,Munich,https://www.heathrow.com/departures/terminal-5/flight-details/BA948/19-12-2023,07:32,London,BA948
+28,07:00,Geneva,https://www.heathrow.com/departures/terminal-2/flight-details/LX359/19-12-2023,07:19,London,LX359
+29,07:00,Istanbul,https://www.heathrow.com/departures/terminal-5/flight-details/BA678/19-12-2023,07:24,London,BA678
+30,07:05,Rome,https://www.heathrow.com/departures/terminal-5/flight-details/BA548/19-12-2023,07:38,London,BA548
+31,07:05,Lisbon,https://www.heathrow.com/departures/terminal-5/flight-details/BA500/19-12-2023,07:37,London,BA500
+32,07:05,Oslo,https://www.heathrow.com/departures/terminal-2/flight-details/SK802/19-12-2023,07:18,London,SK802
+33,07:10,Dusseldorf,https://www.heathrow.com/departures/terminal-5/flight-details/BA936/19-12-2023,07:33,London,BA936
+34,07:10,Brussels,https://www.heathrow.com/departures/terminal-2/flight-details/SN2106/19-12-2023,07:59,London,SN2106
+35,07:15,Berlin,https://www.heathrow.com/departures/terminal-5/flight-details/BA990/19-12-2023,08:39,London,BA990
+36,07:15,Prague,https://www.heathrow.com/departures/terminal-3/flight-details/BA854/19-12-2023,07:29,London,BA854
+37,07:15,Vienna,https://www.heathrow.com/departures/terminal-3/flight-details/BA696/19-12-2023,07:40,London,BA696
+38,07:20,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA478/19-12-2023,07:34,London,BA478
+39,07:20,Paris,https://www.heathrow.com/departures/terminal-5/flight-details/BA304/19-12-2023,07:27,London,BA304
+40,07:25,Stockholm,https://www.heathrow.com/departures/terminal-5/flight-details/BA776/19-12-2023,08:25,London,BA776
+41,07:25,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1474/19-12-2023,07:35,London,BA1474
+42,07:25,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA564/19-12-2023,07:52,London,BA564
+43,07:25,Riyadh,https://www.heathrow.com/departures/terminal-4/flight-details/SV120/19-12-2023,07:58,London,SV120
+44,07:25,New York City,https://www.heathrow.com/departures/terminal-2/flight-details/B62220/19-12-2023,07:54,London,B62220
+45,07:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH923/19-12-2023,08:11,London,LH923
+46,07:30,Helsinki,https://www.heathrow.com/departures/terminal-3/flight-details/AY1340/19-12-2023,07:49,London,AY1340
+47,07:30,Stuttgart,https://www.heathrow.com/departures/terminal-3/flight-details/BA918/19-12-2023,07:43,London,BA918
+48,07:35,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/BA458/19-12-2023,08:40,London,BA458
+49,07:40,Hannover,https://www.heathrow.com/departures/terminal-5/flight-details/BA976/19-12-2023,08:03,London,BA976
+50,07:40,Reykjavik,https://www.heathrow.com/departures/terminal-5/flight-details/BA894/19-12-2023,07:51,London,BA894
+51,07:40,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2487/19-12-2023,07:50,London,LH2487
+52,07:40,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA572/19-12-2023,08:24,London,BA572
+53,07:40,Newcastle Upon Tyne,https://www.heathrow.com/departures/terminal-5/flight-details/BA1324/19-12-2023,08:00,London,BA1324
+54,07:45,Malaga,https://www.heathrow.com/departures/terminal-5/flight-details/BA412/19-12-2023,08:26,London,BA412
+55,07:45,Athens,https://www.heathrow.com/departures/terminal-5/flight-details/BA640/19-12-2023,08:30,London,BA640
+56,07:45,Oslo,https://www.heathrow.com/departures/terminal-3/flight-details/BA762/19-12-2023,08:35,London,BA762
+57,07:45,Toulouse,https://www.heathrow.com/departures/terminal-5/flight-details/BA372/19-12-2023,08:09,London,BA372
+58,07:50,Basel,https://www.heathrow.com/departures/terminal-5/flight-details/BA752/19-12-2023,08:04,London,BA752
+59,07:50,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI151/19-12-2023,07:56,London,EI151
+60,07:50,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1444/19-12-2023,08:21,London,BA1444
+61,07:50,Frankfurt,https://www.heathrow.com/departures/terminal-5/flight-details/BA902/19-12-2023,08:05,London,BA902
+62,07:55,Budapest,https://www.heathrow.com/departures/terminal-3/flight-details/BA868/19-12-2023,08:12,London,BA868
+63,07:55,Marseille,https://www.heathrow.com/departures/terminal-3/flight-details/BA366/19-12-2023,08:02,London,BA366
+64,07:55,Belgrade,https://www.heathrow.com/departures/terminal-5/flight-details/BA888/19-12-2023,08:15,London,BA888
+65,07:55,SAW,https://www.heathrow.com/departures/terminal-5/flight-details/BA602/19-12-2023,09:31,London,BA602
+66,08:00,New York City,https://www.heathrow.com/departures/terminal-2/flight-details/UA883/19-12-2023,08:16,London,UA883
+67,08:00,Gothenburg,https://www.heathrow.com/departures/terminal-3/flight-details/BA790/19-12-2023,08:23,London,BA790
+68,08:00,Manchester,https://www.heathrow.com/departures/terminal-5/flight-details/BA1386/19-12-2023,08:41,London,BA1386
+69,08:00,Montego Bay,https://www.heathrow.com/departures/terminal-3/flight-details/VS107/19-12-2023,08:33,London,VS107
+70,08:00,Valencia,https://www.heathrow.com/departures/terminal-3/flight-details/BA408/19-12-2023,08:31,London,BA408
+71,08:05,Aberdeen,https://www.heathrow.com/departures/terminal-5/flight-details/BA1306/19-12-2023,08:32,London,BA1306
+72,08:05,Doha,https://www.heathrow.com/departures/terminal-4/flight-details/QR006/19-12-2023,08:28,London,QR006
+73,08:05,Dusseldorf,https://www.heathrow.com/departures/terminal-2/flight-details/EW9469/19-12-2023,08:45,London,EW9469
+74,08:15,Lisbon,https://www.heathrow.com/departures/terminal-2/flight-details/TP1351/19-12-2023,08:44,London,TP1351
+75,08:15,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/BA466/19-12-2023,08:42,London,BA466
+76,08:20,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA476/19-12-2023,08:52,London,BA476
+77,08:20,Dallas Fort Worth,https://www.heathrow.com/departures/terminal-3/flight-details/AA051/19-12-2023,08:37,London,AA051
+78,08:20,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA117/19-12-2023,08:47,London,BA117
+79,08:20,Nice,https://www.heathrow.com/departures/terminal-5/flight-details/BA342/19-12-2023,08:56,London,BA342
+80,08:20,Warsaw,https://www.heathrow.com/departures/terminal-5/flight-details/BA846/19-12-2023,08:57,London,BA846
+81,08:25,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA430/19-12-2023,08:43,London,BA430
+82,08:25,Berlin,https://www.heathrow.com/departures/terminal-5/flight-details/BA992/19-12-2023,09:01,London,BA992
+83,08:25,Bologna,https://www.heathrow.com/departures/terminal-5/flight-details/BA540/19-12-2023,08:59,London,BA540
+84,08:25,Paris,https://www.heathrow.com/departures/terminal-5/flight-details/BA306/19-12-2023,09:06,London,BA306
+85,08:25,Dublin,https://www.heathrow.com/departures/terminal-5/flight-details/BA830/19-12-2023,09:07,London,BA830
+86,08:25,Boston,https://www.heathrow.com/departures/terminal-2/flight-details/B61621/19-12-2023,08:51,London,B61621
+87,08:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH925/19-12-2023,09:28,London,LH925
+88,08:30,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1476/19-12-2023,09:13,London,BA1476
+89,08:35,Copenhagen,https://www.heathrow.com/departures/terminal-5/flight-details/BA814/19-12-2023,09:15,London,BA814
+90,08:35,Doha,https://www.heathrow.com/departures/terminal-4/flight-details/QR010/19-12-2023,09:02,London,QR010
+91,08:35,Gibraltar,https://www.heathrow.com/departures/terminal-3/flight-details/BA490/19-12-2023,09:08,London,BA490
+92,08:40,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1002/19-12-2023,09:05,London,KL1002
+93,08:40,Cologne,https://www.heathrow.com/departures/terminal-5/flight-details/BA996/19-12-2023,08:58,London,BA996
+94,08:40,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA726/19-12-2023,09:20,London,BA726
+95,08:40,Venice,https://www.heathrow.com/departures/terminal-5/flight-details/BA578/19-12-2023,10:01,London,BA578
+96,08:40,Charlotte,https://www.heathrow.com/departures/terminal-3/flight-details/AA735/19-12-2023,08:54,London,AA735
+97,08:45,Delhi,https://www.heathrow.com/departures/terminal-2/flight-details/AI162/19-12-2023,11:27,London,AI162
+98,08:45,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2471/19-12-2023,09:30,London,LH2471
+99,08:45,Stuttgart,https://www.heathrow.com/departures/terminal-2/flight-details/EW2463/19-12-2023,09:09,London,EW2463
+100,08:45,Zurich,https://www.heathrow.com/departures/terminal-5/flight-details/BA712/19-12-2023,09:14,London,BA712
+101,08:45,LDY,https://www.heathrow.com/departures/terminal-2/flight-details/LM652/19-12-2023,09:19,London,LM652
+102,08:50,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI153/19-12-2023,09:37,London,EI153
+103,08:50,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1442/19-12-2023,09:49,London,BA1442
+104,08:50,Hamburg,https://www.heathrow.com/departures/terminal-2/flight-details/EW7465/19-12-2023,09:11,London,EW7465
+105,08:50,Minneapolis-St Paul,https://www.heathrow.com/departures/terminal-3/flight-details/DL011/19-12-2023,09:24,London,DL011
+106,08:50,Zurich,https://www.heathrow.com/departures/terminal-2/flight-details/LX317/19-12-2023,10:35,London,LX317
+107,08:55,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/VS003/19-12-2023,09:17,London,VS003
+108,08:55,Munich,https://www.heathrow.com/departures/terminal-5/flight-details/BA950/19-12-2023,09:22,London,BA950
+109,08:55,Nice,https://www.heathrow.com/departures/terminal-4/flight-details/AF7551/19-12-2023,09:10,London,AF7551
+110,09:00,Abu Dhabi,https://www.heathrow.com/departures/terminal-4/flight-details/EY012/19-12-2023,09:33,London,EY012
+111,09:00,Paris,https://www.heathrow.com/departures/terminal-4/flight-details/AF1681/19-12-2023,09:39,London,AF1681
+112,09:00,Geneva,https://www.heathrow.com/departures/terminal-2/flight-details/LX353/19-12-2023,09:36,London,LX353
+113,09:05,Vienna,https://www.heathrow.com/departures/terminal-2/flight-details/OS452/19-12-2023,09:47,London,OS452
+114,09:10,Boston,https://www.heathrow.com/departures/terminal-3/flight-details/DL059/19-12-2023,09:41,London,DL059
+115,09:10,Dubai,https://www.heathrow.com/departures/terminal-3/flight-details/EK008/19-12-2023,09:25,London,EK008
+116,09:10,New York City,https://www.heathrow.com/departures/terminal-2/flight-details/UA905/19-12-2023,10:06,London,UA905
+117,09:10,Singapore,https://www.heathrow.com/departures/terminal-2/flight-details/SQ305/19-12-2023,09:58,London,SQ305
+118,09:10,Belfast,https://www.heathrow.com/departures/terminal-5/flight-details/BA1418/19-12-2023,09:29,London,BA1418
+119,09:15,Grand Cayman,https://www.heathrow.com/departures/terminal-3/flight-details/BA253/19-12-2023,09:43,London,BA253
+120,09:15,Lisbon,https://www.heathrow.com/departures/terminal-5/flight-details/BA506/19-12-2023,10:51,London,BA506
+121,09:15,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/IB3163/19-12-2023,09:46,London,IB3163
+122,09:20,Dusseldorf,https://www.heathrow.com/departures/terminal-5/flight-details/BA938/19-12-2023,10:22,London,BA938
+123,09:20,Rome,https://www.heathrow.com/departures/terminal-5/flight-details/BA554/19-12-2023,09:50,London,BA554
+124,09:20,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA576/19-12-2023,09:48,London,BA576
+125,09:20,San Francisco,https://www.heathrow.com/departures/terminal-2/flight-details/UA900/19-12-2023,09:44,London,UA900
+126,09:25,Dallas Fort Worth,https://www.heathrow.com/departures/terminal-3/flight-details/AA079/19-12-2023,09:51,London,AA079
+127,09:25,Seattle,https://www.heathrow.com/departures/terminal-5/flight-details/BA053/19-12-2023,09:42,London,BA053
+128,09:30,Mumbai,https://www.heathrow.com/departures/terminal-5/flight-details/BA139/19-12-2023,10:16,London,BA139
+129,09:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH901/19-12-2023,10:21,London,LH901
+130,09:30,Houston,https://www.heathrow.com/departures/terminal-5/flight-details/BA195/19-12-2023,09:54,London,BA195
+131,09:30,Bahrain,https://www.heathrow.com/departures/terminal-4/flight-details/GF002/19-12-2023,09:53,London,GF002
+132,09:35,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1498/19-12-2023,10:00,London,BA1498
+133,09:35,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA175/19-12-2023,09:57,London,BA175
+134,09:40,Grenada,https://www.heathrow.com/departures/terminal-3/flight-details/VS187/19-12-2023,10:30,London,VS187
+135,09:40,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA728/19-12-2023,10:36,London,BA728
+136,09:40,Hamburg,https://www.heathrow.com/departures/terminal-5/flight-details/BA962/19-12-2023,09:56,London,BA962
+137,09:40,Miami,https://www.heathrow.com/departures/terminal-3/flight-details/VS117/19-12-2023,10:03,London,VS117
+138,09:40,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1456/19-12-2023,10:02,London,BA1456
+139,09:45,Cologne,https://www.heathrow.com/departures/terminal-2/flight-details/EW461/19-12-2023,10:18,London,EW461
+140,09:45,Newcastle Upon Tyne,https://www.heathrow.com/departures/terminal-5/flight-details/BA1326/19-12-2023,10:08,London,BA1326
+141,09:45,Cork,https://www.heathrow.com/departures/terminal-2/flight-details/EI711/19-12-2023,10:05,London,EI711
+142,09:45,KOI,https://www.heathrow.com/departures/terminal-2/flight-details/LM622/19-12-2023,10:10,London,LM622
+143,09:50,Cairo,https://www.heathrow.com/departures/terminal-5/flight-details/BA406/19-12-2023,10:49,London,BA406
+144,09:50,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI155/19-12-2023,11:04,London,EI155
+145,09:50,Nairobi,https://www.heathrow.com/departures/terminal-5/flight-details/BA065/19-12-2023,10:26,London,BA065
+146,09:50,Bucharest,https://www.heathrow.com/departures/terminal-3/flight-details/BA886/19-12-2023,10:33,London,BA886
+147,09:55,Copenhagen,https://www.heathrow.com/departures/terminal-2/flight-details/SK502/19-12-2023,10:20,London,SK502
+148,09:55,Tokyo,https://www.heathrow.com/departures/terminal-3/flight-details/JL042/19-12-2023,10:29,London,JL042
+149,09:55,Inverness,https://www.heathrow.com/departures/terminal-5/flight-details/BA1468/19-12-2023,10:41,London,BA1468
+150,09:55,Chicago,https://www.heathrow.com/departures/terminal-3/flight-details/AA087/19-12-2023,10:12,London,AA087
+151,10:00,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1008/19-12-2023,10:15,London,KL1008
+152,10:00,Miami,https://www.heathrow.com/departures/terminal-5/flight-details/BA207/19-12-2023,10:58,London,BA207
+153,10:00,Riyadh,https://www.heathrow.com/departures/terminal-4/flight-details/SV110/19-12-2023,10:24,London,SV110
+154,10:00,Shannon,https://www.heathrow.com/departures/terminal-2/flight-details/EI381/19-12-2023,10:34,London,EI381
+155,10:00,Vienna,https://www.heathrow.com/departures/terminal-2/flight-details/OS454/19-12-2023,10:38,London,OS454
+156,10:05,Boston,https://www.heathrow.com/departures/terminal-3/flight-details/AA109/19-12-2023,10:45,London,AA109
+157,10:05,Houston,https://www.heathrow.com/departures/terminal-2/flight-details/UA879/19-12-2023,10:27,London,UA879
+158,10:05,Lyon,https://www.heathrow.com/departures/terminal-3/flight-details/BA358/19-12-2023,10:42,London,BA358
+159,10:10,Copenhagen,https://www.heathrow.com/departures/terminal-5/flight-details/BA804/19-12-2023,10:37,London,BA804
+160,10:10,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/DL002/19-12-2023,11:01,London,DL002
+161,10:10,Los Angeles,https://www.heathrow.com/departures/terminal-5/flight-details/BA283/19-12-2023,10:31,London,BA283
+162,10:10,Lagos,https://www.heathrow.com/departures/terminal-5/flight-details/BA075/19-12-2023,11:06,London,BA075
+163,10:10,Nice,https://www.heathrow.com/departures/terminal-5/flight-details/BA346/19-12-2023,10:39,London,BA346
+164,10:15,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA588/19-12-2023,10:54,London,BA588
+165,10:15,Philadelphia,https://www.heathrow.com/departures/terminal-3/flight-details/AA729/19-12-2023,10:23,London,AA729
+166,10:20,Stockholm,https://www.heathrow.com/departures/terminal-2/flight-details/SK526/19-12-2023,11:02,London,SK526
+167,10:20,Delhi,https://www.heathrow.com/departures/terminal-3/flight-details/VS302/19-12-2023,11:09,London,VS302
+168,10:20,Helsinki,https://www.heathrow.com/departures/terminal-3/flight-details/AY1332/19-12-2023,11:11,London,AY1332
+169,10:25,Kuala Lumpur,https://www.heathrow.com/departures/terminal-4/flight-details/MH003/19-12-2023,10:44,London,MH003
+170,10:25,Warsaw,https://www.heathrow.com/departures/terminal-2/flight-details/LO282/19-12-2023,11:17,London,LO282
+171,10:25,Chicago,https://www.heathrow.com/departures/terminal-2/flight-details/UA958/19-12-2023,10:43,London,UA958
+172,10:30,Berlin,https://www.heathrow.com/departures/terminal-5/flight-details/BA982/19-12-2023,10:55,London,BA982
+173,10:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH903/19-12-2023,11:29,London,LH903
+174,10:30,Manchester,https://www.heathrow.com/departures/terminal-5/flight-details/BA1390/19-12-2023,12:16,London,BA1390
+175,10:30,Vienna,https://www.heathrow.com/departures/terminal-3/flight-details/BA700/19-12-2023,10:50,London,BA700
+176,10:35,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA474/19-12-2023,11:35,London,BA474
+177,10:35,Bridgetown,https://www.heathrow.com/departures/terminal-5/flight-details/BA255/19-12-2023,10:56,London,BA255
+178,10:35,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/AA101/19-12-2023,12:58,London,AA101
+179,10:35,Oslo,https://www.heathrow.com/departures/terminal-2/flight-details/SK804/19-12-2023,10:51,London,SK804
+180,10:35,Prague,https://www.heathrow.com/departures/terminal-3/flight-details/BA852/19-12-2023,10:48,London,BA852
+181,10:40,Dallas Fort Worth,https://www.heathrow.com/departures/terminal-5/flight-details/BA193/19-12-2023,12:40,London,BA193
+182,10:40,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1434/19-12-2023,11:29,London,BA1434
+183,10:45,Stockholm,https://www.heathrow.com/departures/terminal-5/flight-details/BA778/19-12-2023,11:19,London,BA778
+184,10:45,Detroit,https://www.heathrow.com/departures/terminal-3/flight-details/DL019/19-12-2023,11:12,London,DL019
+185,10:45,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA185/19-12-2023,11:37,London,BA185
+186,10:45,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/IB3175/19-12-2023,11:07,London,IB3175
+187,10:50,Atlanta,https://www.heathrow.com/departures/terminal-3/flight-details/VS103/19-12-2023,11:24,London,VS103
+188,10:50,Dublin,https://www.heathrow.com/departures/terminal-5/flight-details/BA834/19-12-2023,11:23,London,BA834
+189,10:50,Istanbul,https://www.heathrow.com/departures/terminal-5/flight-details/BA676/19-12-2023,11:39,London,BA676
+190,10:55,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA434/19-12-2023,11:48,London,BA434
+191,10:55,Singapore,https://www.heathrow.com/departures/terminal-2/flight-details/SQ317/19-12-2023,11:14,London,SQ317
+192,10:55,Athens,https://www.heathrow.com/departures/terminal-2/flight-details/A3601/19-12-2023,11:20,London,A3601
+193,11:00,Hanoi,https://www.heathrow.com/departures/terminal-4/flight-details/VN056/19-12-2023,11:54,London,VN056
+194,11:00,Hong Kong City,https://www.heathrow.com/departures/terminal-3/flight-details/CX252/19-12-2023,12:23,London,CX252
+195,11:00,Chicago,https://www.heathrow.com/departures/terminal-5/flight-details/BA295/19-12-2023,11:22,London,BA295
+196,11:00,NOC,https://www.heathrow.com/departures/terminal-2/flight-details/EI915/19-12-2023,11:40,London,EI915
+197,11:05,Brussels,https://www.heathrow.com/departures/terminal-2/flight-details/SN2094/19-12-2023,11:41,London,SN2094
+198,11:05,San Francisco,https://www.heathrow.com/departures/terminal-5/flight-details/BA285/19-12-2023,13:57,London,BA285
+199,11:05,Tampa,https://www.heathrow.com/departures/terminal-3/flight-details/VS129/19-12-2023,11:31,London,VS129
+200,11:05,Beirut,https://www.heathrow.com/departures/terminal-3/flight-details/ME802/19-12-2023,11:57,London,ME802
+201,11:10,Aberdeen,https://www.heathrow.com/departures/terminal-5/flight-details/BA1310/19-12-2023,11:46,London,BA1310
+202,11:10,Mumbai,https://www.heathrow.com/departures/terminal-2/flight-details/AC856/19-12-2023,11:33,London,AC856
+203,11:10,Delhi,https://www.heathrow.com/departures/terminal-5/flight-details/BA143/19-12-2023,11:25,London,BA143
+204,11:10,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2473/19-12-2023,12:00,London,LH2473
+205,11:10,Nairobi,https://www.heathrow.com/departures/terminal-4/flight-details/KQ103/19-12-2023,12:25,London,KQ103
+206,11:15,Copenhagen,https://www.heathrow.com/departures/terminal-5/flight-details/BA816/19-12-2023,11:30,London,BA816
+207,11:15,Los Angeles,https://www.heathrow.com/departures/terminal-3/flight-details/AA137/19-12-2023,11:36,London,AA137
+208,11:20,Boston,https://www.heathrow.com/departures/terminal-5/flight-details/BA213/19-12-2023,12:03,London,BA213
+209,11:20,Paris,https://www.heathrow.com/departures/terminal-5/flight-details/BA308/19-12-2023,11:45,London,BA308
+210,11:20,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA173/19-12-2023,11:55,London,BA173
+211,11:25,Frankfurt,https://www.heathrow.com/departures/terminal-5/flight-details/BA904/19-12-2023,11:50,London,BA904
+212,11:25,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1482/19-12-2023,12:09,London,BA1482
+213,11:25,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/IB3169/19-12-2023,12:44,London,IB3169
+214,11:25,Valletta,https://www.heathrow.com/departures/terminal-4/flight-details/KM101/19-12-2023,11:59,London,KM101
+215,11:30,Bridgetown,https://www.heathrow.com/departures/terminal-3/flight-details/VS131/19-12-2023,11:43,London,VS131
+216,11:30,Paris,https://www.heathrow.com/departures/terminal-4/flight-details/AF1581/19-12-2023,12:17,London,AF1581
+217,11:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH905/19-12-2023,12:45,London,LH905
+218,11:30,Istanbul,https://www.heathrow.com/departures/terminal-2/flight-details/TK1980/19-12-2023,12:04,London,TK1980
+219,11:35,Denver,https://www.heathrow.com/departures/terminal-2/flight-details/UA026/19-12-2023,11:53,London,UA026
+220,11:40,Brussels,https://www.heathrow.com/departures/terminal-5/flight-details/BA396/19-12-2023,12:15,London,BA396
+221,11:40,Larnaca,https://www.heathrow.com/departures/terminal-5/flight-details/BA662/19-12-2023,12:53,London,BA662
+222,11:40,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA590/19-12-2023,12:08,London,BA590
+223,11:40,Shanghai,https://www.heathrow.com/departures/terminal-3/flight-details/VS250/19-12-2023,12:02,London,VS250
+224,11:45,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1010/19-12-2023,12:18,London,KL1010
+225,11:45,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA484/19-12-2023,12:28,London,BA484
+226,11:45,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1440/19-12-2023,12:20,London,BA1440
+227,11:45,Miami,https://www.heathrow.com/departures/terminal-3/flight-details/AA057/19-12-2023,12:11,London,AA057
+228,11:45,Toronto,https://www.heathrow.com/departures/terminal-5/flight-details/BA093/19-12-2023,12:42,London,BA093
+229,11:50,Bangkok,https://www.heathrow.com/departures/terminal-2/flight-details/TG911/19-12-2023,12:10,London,TG911
+230,11:50,Charlotte,https://www.heathrow.com/departures/terminal-3/flight-details/AA733/19-12-2023,12:05,London,AA733
+231,11:50,Tokyo,https://www.heathrow.com/departures/terminal-5/flight-details/BA005/19-12-2023,14:54,London,BA005
+232,11:50,Melbourne,https://www.heathrow.com/departures/terminal-3/flight-details/QF010/19-12-2023,12:12,London,QF010
+233,11:55,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA730/19-12-2023,12:19,London,BA730
+234,11:55,Hamburg,https://www.heathrow.com/departures/terminal-5/flight-details/BA974/19-12-2023,12:29,London,BA974
+235,11:55,Phoenix,https://www.heathrow.com/departures/terminal-3/flight-details/AA195/19-12-2023,12:13,London,AA195
+236,12:00,Antigua,https://www.heathrow.com/departures/terminal-3/flight-details/VS133/19-12-2023,14:48,London,VS133
+237,12:00,New York City,https://www.heathrow.com/departures/terminal-2/flight-details/UA017/19-12-2023,12:21,London,UA017
+238,12:00,Lisbon,https://www.heathrow.com/departures/terminal-5/flight-details/BA518/19-12-2023,13:12,London,BA518
+239,12:00,Toronto,https://www.heathrow.com/departures/terminal-2/flight-details/AC855/19-12-2023,12:24,London,AC855
+240,12:00,Gibraltar,https://www.heathrow.com/departures/terminal-3/flight-details/BA492/19-12-2023,12:54,London,BA492
+241,12:05,Washington DC,https://www.heathrow.com/departures/terminal-2/flight-details/UA919/19-12-2023,12:26,London,UA919
+242,12:05,Chicago,https://www.heathrow.com/departures/terminal-2/flight-details/UA928/19-12-2023,12:35,London,UA928
+243,12:05,Stuttgart,https://www.heathrow.com/departures/terminal-3/flight-details/BA922/19-12-2023,12:59,London,BA922
+244,12:05,Zurich,https://www.heathrow.com/departures/terminal-2/flight-details/LX319/19-12-2023,13:03,London,LX319
+245,12:10,Austin,https://www.heathrow.com/departures/terminal-5/flight-details/BA191/19-12-2023,12:32,London,BA191
+246,12:10,Beirut,https://www.heathrow.com/departures/terminal-3/flight-details/ME202/19-12-2023,12:33,London,ME202
+247,12:10,Jersey,https://www.heathrow.com/departures/terminal-5/flight-details/BA1344/19-12-2023,12:36,London,BA1344
+248,12:10,Munich,https://www.heathrow.com/departures/terminal-5/flight-details/BA952/19-12-2023,12:55,London,BA952
+249,12:15,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI159/19-12-2023,12:52,London,EI159
+250,12:15,Dusseldorf,https://www.heathrow.com/departures/terminal-2/flight-details/EW9467/19-12-2023,12:31,London,EW9467
+251,12:15,Washington DC,https://www.heathrow.com/departures/terminal-5/flight-details/BA217/19-12-2023,12:49,London,BA217
+252,12:15,Reykjavik,https://www.heathrow.com/departures/terminal-2/flight-details/FI451/19-12-2023,12:56,London,FI451
+253,12:20,Los Angeles,https://www.heathrow.com/departures/terminal-3/flight-details/VS007/19-12-2023,13:01,London,VS007
+254,12:20,Salt Lake City,https://www.heathrow.com/departures/terminal-3/flight-details/DL051/19-12-2023,12:48,London,DL051
+255,12:20,New York City,https://www.heathrow.com/departures/terminal-2/flight-details/B6020/19-12-2023,12:46,London,B6020
+256,12:25,Denver,https://www.heathrow.com/departures/terminal-5/flight-details/BA219/19-12-2023,14:11,London,BA219
+257,12:25,Milan,https://www.heathrow.com/departures/terminal-4/flight-details/AZ247/19-12-2023,12:38,London,AZ247
+258,12:25,Seattle,https://www.heathrow.com/departures/terminal-3/flight-details/VS105/19-12-2023,12:50,London,VS105
+259,12:30,Atlanta,https://www.heathrow.com/departures/terminal-3/flight-details/DL031/19-12-2023,13:00,London,DL031
+260,12:30,Shanghai,https://www.heathrow.com/departures/terminal-5/flight-details/BA169/19-12-2023,13:05,London,BA169
+261,12:35,Houston,https://www.heathrow.com/departures/terminal-2/flight-details/UA004/19-12-2023,13:25,London,UA004
+262,12:35,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA574/19-12-2023,14:30,London,BA574
+263,12:35,Miami,https://www.heathrow.com/departures/terminal-3/flight-details/AA039/19-12-2023,13:07,London,AA039
+264,12:40,Berlin,https://www.heathrow.com/departures/terminal-5/flight-details/BA984/19-12-2023,13:04,London,BA984
+265,12:40,Detroit,https://www.heathrow.com/departures/terminal-3/flight-details/DL017/19-12-2023,13:10,London,DL017
+266,12:45,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA438/19-12-2023,13:08,London,BA438
+267,12:45,Dubai,https://www.heathrow.com/departures/terminal-5/flight-details/BA107/19-12-2023,13:32,London,BA107
+268,12:45,Vienna,https://www.heathrow.com/departures/terminal-3/flight-details/BA702/19-12-2023,13:24,London,BA702
+269,12:50,Dusseldorf,https://www.heathrow.com/departures/terminal-5/flight-details/BA940/19-12-2023,14:29,London,BA940
+270,12:50,Rome,https://www.heathrow.com/departures/terminal-5/flight-details/BA560/19-12-2023,13:17,London,BA560
+271,12:50,Los Angeles,https://www.heathrow.com/departures/terminal-5/flight-details/BA281/19-12-2023,13:35,London,BA281
+272,12:55,Belfast,https://www.heathrow.com/departures/terminal-5/flight-details/BA1416/19-12-2023,13:22,London,BA1416
+273,12:55,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1436/19-12-2023,13:16,London,BA1436
+274,12:55,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA732/19-12-2023,13:37,London,BA732
+275,12:55,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA177/19-12-2023,13:14,London,BA177
+276,13:00,Mumbai,https://www.heathrow.com/departures/terminal-2/flight-details/AI128/19-12-2023,13:46,London,AI128
+277,13:00,San Diego,https://www.heathrow.com/departures/terminal-5/flight-details/BA273/19-12-2023,13:20,London,BA273
+278,13:00,Calgary,https://www.heathrow.com/departures/terminal-2/flight-details/AC851/19-12-2023,13:13,London,AC851
+279,13:05,Nashville,https://www.heathrow.com/departures/terminal-5/flight-details/BA223/19-12-2023,13:59,London,BA223
+280,13:05,Paris,https://www.heathrow.com/departures/terminal-5/flight-details/BA314/19-12-2023,13:29,London,BA314
+281,13:05,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1484/19-12-2023,13:40,London,BA1484
+282,13:05,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/VS045/19-12-2023,13:31,London,VS045
+283,13:05,San Francisco,https://www.heathrow.com/departures/terminal-3/flight-details/VS019/19-12-2023,13:26,London,VS019
+284,13:10,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA480/19-12-2023,13:23,London,BA480
+285,13:10,Manchester,https://www.heathrow.com/departures/terminal-5/flight-details/BA1394/19-12-2023,14:02,London,BA1394
+286,13:10,Chicago,https://www.heathrow.com/departures/terminal-3/flight-details/AA091/19-12-2023,13:27,London,AA091
+287,13:10,Philadelphia,https://www.heathrow.com/departures/terminal-5/flight-details/BA067/19-12-2023,14:05,London,BA067
+288,13:20,Stockholm,https://www.heathrow.com/departures/terminal-5/flight-details/BA780/19-12-2023,14:27,London,BA780
+289,13:20,Athens,https://www.heathrow.com/departures/terminal-5/flight-details/BA632/19-12-2023,14:25,London,BA632
+290,13:20,Belgrade,https://www.heathrow.com/departures/terminal-4/flight-details/JU381/19-12-2023,14:10,London,JU381
+291,13:20,Riyadh,https://www.heathrow.com/departures/terminal-5/flight-details/BA263/19-12-2023,13:48,London,BA263
+292,13:25,Accra,https://www.heathrow.com/departures/terminal-5/flight-details/BA081/19-12-2023,14:19,London,BA081
+293,13:25,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/BA460/19-12-2023,14:02,London,BA460
+294,13:25,Marseille,https://www.heathrow.com/departures/terminal-3/flight-details/BA368/19-12-2023,13:54,London,BA368
+295,13:25,Toulouse,https://www.heathrow.com/departures/terminal-5/flight-details/BA378/19-12-2023,14:07,London,BA378
+296,13:25,Montreal,https://www.heathrow.com/departures/terminal-2/flight-details/AC865/19-12-2023,13:34,London,AC865
+297,13:30,Delhi,https://www.heathrow.com/departures/terminal-2/flight-details/AI112/19-12-2023,17:41,London,AI112
+298,13:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH907/19-12-2023,14:21,London,LH907
+299,13:30,Los Angeles,https://www.heathrow.com/departures/terminal-3/flight-details/AA135/19-12-2023,13:49,London,AA135
+300,13:35,New York City,https://www.heathrow.com/departures/terminal-2/flight-details/UA147/19-12-2023,13:47,London,UA147
+301,13:35,New Orleans,https://www.heathrow.com/departures/terminal-5/flight-details/BA225/19-12-2023,14:15,London,BA225
+302,13:35,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA584/19-12-2023,16:01,London,BA584
+303,13:40,Dubai,https://www.heathrow.com/departures/terminal-3/flight-details/EK002/19-12-2023,14:13,London,EK002
+304,13:40,Lisbon,https://www.heathrow.com/departures/terminal-2/flight-details/TP1359/19-12-2023,14:01,London,TP1359
+305,13:40,Nice,https://www.heathrow.com/departures/terminal-5/flight-details/BA354/19-12-2023,14:23,London,BA354
+306,13:40,Venice,https://www.heathrow.com/departures/terminal-5/flight-details/BA582/19-12-2023,14:26,London,BA582
+307,13:45,Bahrain,https://www.heathrow.com/departures/terminal-3/flight-details/BA125/19-12-2023,14:31,London,BA125
+308,13:45,Bengaluru,https://www.heathrow.com/departures/terminal-5/flight-details/BA119/19-12-2023,14:50,London,BA119
+309,13:45,Munich,https://www.heathrow.com/departures/terminal-5/flight-details/BA954/19-12-2023,14:28,London,BA954
+310,13:45,San Francisco,https://www.heathrow.com/departures/terminal-2/flight-details/UA949/19-12-2023,14:38,London,UA949
+311,13:45,Zurich,https://www.heathrow.com/departures/terminal-2/flight-details/LX333/19-12-2023,14:56,London,LX333
+312,13:50,Berlin,https://www.heathrow.com/departures/terminal-5/flight-details/BA994/19-12-2023,14:22,London,BA994
+313,13:50,Dallas Fort Worth,https://www.heathrow.com/departures/terminal-3/flight-details/AA021/19-12-2023,14:17,London,AA021
+314,13:50,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1448/19-12-2023,14:24,London,BA1448
+315,13:50,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2475/19-12-2023,14:33,London,LH2475
+316,13:55,Stockholm,https://www.heathrow.com/departures/terminal-2/flight-details/SK532/19-12-2023,14:25,London,SK532
+317,13:55,Abu Dhabi,https://www.heathrow.com/departures/terminal-4/flight-details/EY020/19-12-2023,15:12,London,EY020
+318,13:55,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA722/19-12-2023,14:34,London,BA722
+319,13:55,Hamburg,https://www.heathrow.com/departures/terminal-2/flight-details/EW7463/19-12-2023,14:08,London,EW7463
+320,13:55,Sofia,https://www.heathrow.com/departures/terminal-3/flight-details/BA890/19-12-2023,15:01,London,BA890
+321,14:00,Algiers,https://www.heathrow.com/departures/terminal-4/flight-details/AH2055/19-12-2023,14:52,London,AH2055
+322,14:00,Cairo,https://www.heathrow.com/departures/terminal-2/flight-details/MS778/19-12-2023,15:03,London,MS778
+323,14:00,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA115/19-12-2023,14:39,London,BA115
+324,14:00,Luxembourg-Ville,https://www.heathrow.com/departures/terminal-3/flight-details/BA418/19-12-2023,15:21,London,BA418
+325,14:00,Cork,https://www.heathrow.com/departures/terminal-2/flight-details/EI715/19-12-2023,14:09,London,EI715
+326,14:05,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/VS153/19-12-2023,14:41,London,VS153
+327,14:10,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA446/19-12-2023,14:36,London,BA446
+328,14:10,Charlotte,https://www.heathrow.com/departures/terminal-3/flight-details/AA731/19-12-2023,14:37,London,AA731
+329,14:10,Frankfurt,https://www.heathrow.com/departures/terminal-5/flight-details/BA908/19-12-2023,15:28,London,BA908
+330,14:10,Chennai,https://www.heathrow.com/departures/terminal-5/flight-details/BA035/19-12-2023,15:08,London,BA035
+331,14:15,Doha,https://www.heathrow.com/departures/terminal-4/flight-details/QR004/19-12-2023,17:27,London,QR004
+332,14:15,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI165/19-12-2023,14:46,London,EI165
+333,14:15,Miami,https://www.heathrow.com/departures/terminal-5/flight-details/BA209/19-12-2023,15:34,London,BA209
+334,14:15,Jersey,https://www.heathrow.com/departures/terminal-5/flight-details/BA1346/19-12-2023,14:44,London,BA1346
+335,14:20,Tel Aviv,https://www.heathrow.com/departures/terminal-4/flight-details/LY316/19-12-2023,14:58,London,LY316
+336,14:20,RIX,https://www.heathrow.com/departures/terminal-5/flight-details/BA880/19-12-2023,14:43,London,BA880
+337,14:25,Aberdeen,https://www.heathrow.com/departures/terminal-5/flight-details/BA1312/19-12-2023,14:45,London,BA1312
+338,14:25,Geneva,https://www.heathrow.com/departures/terminal-2/flight-details/LX355/19-12-2023,15:25,London,LX355
+339,14:25,Phoenix,https://www.heathrow.com/departures/terminal-3/flight-details/BA289/19-12-2023,15:02,London,BA289
+340,14:30,Brussels,https://www.heathrow.com/departures/terminal-5/flight-details/BA398/19-12-2023,15:29,London,BA398
+341,14:30,Copenhagen,https://www.heathrow.com/departures/terminal-5/flight-details/BA818/19-12-2023,15:28,London,BA818
+342,14:30,Vancouver,https://www.heathrow.com/departures/terminal-2/flight-details/AC861/19-12-2023,14:53,London,AC861
+343,14:30,Isle of Man,https://www.heathrow.com/departures/terminal-2/flight-details/LM676/19-12-2023,14:46,London,LM676
+344,14:30,Los Angeles,https://www.heathrow.com/departures/terminal-3/flight-details/DL187/19-12-2023,15:09,London,DL187
+345,14:35,Hyderabad,https://www.heathrow.com/departures/terminal-5/flight-details/BA277/19-12-2023,15:05,London,BA277
+346,14:35,Orlando,https://www.heathrow.com/departures/terminal-3/flight-details/VS091/19-12-2023,15:04,London,VS091
+347,14:35,Stuttgart,https://www.heathrow.com/departures/terminal-2/flight-details/EW2461/19-12-2023,15:00,London,EW2461
+348,14:35,Vienna,https://www.heathrow.com/departures/terminal-3/flight-details/BA704/19-12-2023,15:11,London,BA704
+349,14:40,Bologna,https://www.heathrow.com/departures/terminal-5/flight-details/BA542/19-12-2023,15:19,London,BA542
+350,14:45,PKX,https://www.heathrow.com/departures/terminal-5/flight-details/BA039/19-12-2023,16:16,London,BA039
+351,14:45,Prague,https://www.heathrow.com/departures/terminal-3/flight-details/BA856/19-12-2023,15:40,London,BA856
+352,14:45,Raleigh,https://www.heathrow.com/departures/terminal-3/flight-details/AA173/19-12-2023,15:06,London,AA173
+353,14:45,Vienna,https://www.heathrow.com/departures/terminal-2/flight-details/OS462/19-12-2023,15:36,London,OS462
+354,14:45,Belfast,https://www.heathrow.com/departures/terminal-5/flight-details/BA1428/19-12-2023,16:27,London,BA1428
+355,14:50,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA470/19-12-2023,15:22,London,BA470
+356,14:50,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/BA462/19-12-2023,15:16,London,BA462
+357,14:50,Bucharest,https://www.heathrow.com/departures/terminal-4/flight-details/RO392/19-12-2023,15:17,London,RO392
+358,14:50,Seattle,https://www.heathrow.com/departures/terminal-5/flight-details/BA049/19-12-2023,15:23,London,BA049
+359,14:50,Calgary,https://www.heathrow.com/departures/terminal-4/flight-details/WS019/19-12-2023,15:43,London,WS019
+360,14:55,Doha,https://www.heathrow.com/departures/terminal-4/flight-details/QR008/19-12-2023,15:32,London,QR008
+361,14:55,Newcastle Upon Tyne,https://www.heathrow.com/departures/terminal-5/flight-details/BA1334/19-12-2023,15:26,London,BA1334
+362,15:00,Paris,https://www.heathrow.com/departures/terminal-4/flight-details/AF1781/19-12-2023,15:53,London,AF1781
+363,15:00,Paris,https://www.heathrow.com/departures/terminal-5/flight-details/BA316/19-12-2023,15:51,London,BA316
+364,15:00,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA568/19-12-2023,15:31,London,BA568
+365,15:00,Toronto,https://www.heathrow.com/departures/terminal-2/flight-details/AC857/19-12-2023,15:55,London,AC857
+366,15:00,Jeddah,https://www.heathrow.com/departures/terminal-4/flight-details/SV114/19-12-2023,15:44,London,SV114
+367,15:05,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1486/19-12-2023,16:31,London,BA1486
+368,15:05,Houston,https://www.heathrow.com/departures/terminal-5/flight-details/BA197/19-12-2023,18:56,London,BA197
+369,15:05,Los Angeles,https://www.heathrow.com/departures/terminal-5/flight-details/BA269/19-12-2023,15:48,London,BA269
+370,15:05,Lyon,https://www.heathrow.com/departures/terminal-3/flight-details/BA364/19-12-2023,15:41,London,BA364
+371,15:10,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA734/19-12-2023,15:38,London,BA734
+372,15:10,Chicago,https://www.heathrow.com/departures/terminal-2/flight-details/UA959/19-12-2023,15:47,London,UA959
+373,15:10,San Francisco,https://www.heathrow.com/departures/terminal-5/flight-details/BA287/19-12-2023,15:56,London,BA287
+374,15:15,Warsaw,https://www.heathrow.com/departures/terminal-5/flight-details/BA850/19-12-2023,15:39,London,BA850
+375,15:20,Cairo,https://www.heathrow.com/departures/terminal-5/flight-details/BA400/19-12-2023,16:04,London,BA400
+376,15:20,Hamburg,https://www.heathrow.com/departures/terminal-5/flight-details/BA966/19-12-2023,16:21,London,BA966
+377,15:20,Los Angeles,https://www.heathrow.com/departures/terminal-2/flight-details/UA935/19-12-2023,15:46,London,UA935
+378,15:20,Manchester,https://www.heathrow.com/departures/terminal-5/flight-details/BA1396/19-12-2023,15:52,London,BA1396
+379,15:20,Shannon,https://www.heathrow.com/departures/terminal-2/flight-details/EI385/19-12-2023,16:06,London,EI385
+380,15:25,Baltimore,https://www.heathrow.com/departures/terminal-5/flight-details/BA229/19-12-2023,16:32,London,BA229
+381,15:25,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1446/19-12-2023,16:12,London,BA1446
+382,15:25,Oslo,https://www.heathrow.com/departures/terminal-3/flight-details/BA768/19-12-2023,16:11,London,BA768
+383,15:30,Dublin,https://www.heathrow.com/departures/terminal-5/flight-details/BA826/19-12-2023,16:09,London,BA826
+384,15:30,Frankfurt,https://www.heathrow.com/departures/terminal-5/flight-details/BA910/19-12-2023,16:03,London,BA910
+385,15:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH909/19-12-2023,16:00,London,LH909
+386,15:30,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/VS137/19-12-2023,16:13,London,VS137
+387,15:30,Zurich,https://www.heathrow.com/departures/terminal-5/flight-details/BA718/19-12-2023,16:08,London,BA718
+388,15:35,Atlanta,https://www.heathrow.com/departures/terminal-3/flight-details/BA227/19-12-2023,16:56,London,BA227
+389,15:35,Basel,https://www.heathrow.com/departures/terminal-5/flight-details/BA750/19-12-2023,16:10,London,BA750
+390,15:35,Budapest,https://www.heathrow.com/departures/terminal-3/flight-details/BA866/19-12-2023,16:05,London,BA866
+391,15:35,Oslo,https://www.heathrow.com/departures/terminal-2/flight-details/SK806/19-12-2023,15:54,London,SK806
+392,15:35,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/AA105/19-12-2023,15:58,London,AA105
+393,15:40,Dusseldorf,https://www.heathrow.com/departures/terminal-2/flight-details/EW9465/19-12-2023,16:07,London,EW9465
+394,15:45,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1020/19-12-2023,16:01,London,KL1020
+395,15:45,Stockholm,https://www.heathrow.com/departures/terminal-5/flight-details/BA782/19-12-2023,17:01,London,BA782
+396,15:45,Kuwait,https://www.heathrow.com/departures/terminal-4/flight-details/KU102/19-12-2023,16:14,London,KU102
+397,15:45,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/IB3177/19-12-2023,16:22,London,IB3177
+398,15:50,Atlanta,https://www.heathrow.com/departures/terminal-3/flight-details/DL033/19-12-2023,16:17,London,DL033
+399,15:50,Cologne,https://www.heathrow.com/departures/terminal-2/flight-details/EW465/19-12-2023,16:11,London,EW465
+400,15:50,Dubai,https://www.heathrow.com/departures/terminal-3/flight-details/EK030/19-12-2023,16:18,London,EK030
+401,15:50,Rome,https://www.heathrow.com/departures/terminal-5/flight-details/BA546/19-12-2023,16:46,London,BA546
+402,15:50,Miami,https://www.heathrow.com/departures/terminal-3/flight-details/VS005/19-12-2023,16:40,London,VS005
+403,15:55,Lisbon,https://www.heathrow.com/departures/terminal-5/flight-details/BA502/19-12-2023,16:29,London,BA502
+404,16:00,Berlin,https://www.heathrow.com/departures/terminal-5/flight-details/BA986/19-12-2023,16:23,London,BA986
+405,16:00,Jersey,https://www.heathrow.com/departures/terminal-5/flight-details/BA1348/19-12-2023,16:36,London,BA1348
+406,16:00,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/DL004/19-12-2023,16:38,London,DL004
+407,16:05,Amman,https://www.heathrow.com/departures/terminal-3/flight-details/RJ112/19-12-2023,21:16,London,RJ112
+408,16:05,Larnaca,https://www.heathrow.com/departures/terminal-5/flight-details/BA660/19-12-2023,16:42,London,BA660
+409,16:10,Copenhagen,https://www.heathrow.com/departures/terminal-5/flight-details/BA808/19-12-2023,16:25,London,BA808
+410,16:10,Hannover,https://www.heathrow.com/departures/terminal-5/flight-details/BA978/19-12-2023,18:01,London,BA978
+411,16:10,Las Vegas,https://www.heathrow.com/departures/terminal-3/flight-details/BA275/19-12-2023,17:30,London,BA275
+412,16:10,Los Angeles,https://www.heathrow.com/departures/terminal-3/flight-details/VS023/19-12-2023,16:50,London,VS023
+413,16:15,Helsinki,https://www.heathrow.com/departures/terminal-3/flight-details/AY1336/19-12-2023,16:55,London,AY1336
+414,16:15,Istanbul,https://www.heathrow.com/departures/terminal-2/flight-details/TK1986/19-12-2023,16:58,London,TK1986
+415,16:15,Chicago,https://www.heathrow.com/departures/terminal-5/flight-details/BA297/19-12-2023,17:39,London,BA297
+416,16:15,LDY,https://www.heathrow.com/departures/terminal-2/flight-details/LM656/19-12-2023,16:37,London,LM656
+417,16:15,Riyadh,https://www.heathrow.com/departures/terminal-4/flight-details/SV122/19-12-2023,16:33,London,SV122
+418,16:20,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI169/19-12-2023,16:59,London,EI169
+419,16:20,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA796/19-12-2023,16:43,London,BA796
+420,16:20,Washington DC,https://www.heathrow.com/departures/terminal-2/flight-details/UA925/19-12-2023,16:34,London,UA925
+421,16:20,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA113/19-12-2023,16:51,London,BA113
+422,16:25,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA440/19-12-2023,16:47,London,BA440
+423,16:25,Mumbai,https://www.heathrow.com/departures/terminal-5/flight-details/BA135/19-12-2023,16:39,London,BA135
+424,16:25,Boston,https://www.heathrow.com/departures/terminal-3/flight-details/VS011/19-12-2023,16:44,London,VS011
+425,16:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH911/19-12-2023,16:48,London,LH911
+426,16:30,Washington DC,https://www.heathrow.com/departures/terminal-5/flight-details/BA293/19-12-2023,17:29,London,BA293
+427,16:30,Montreal,https://www.heathrow.com/departures/terminal-5/flight-details/BA095/19-12-2023,17:18,London,BA095
+428,16:30,Tunis,https://www.heathrow.com/departures/terminal-4/flight-details/TU791/19-12-2023,17:15,London,TU791
+429,16:30,Shanghai,https://www.heathrow.com/departures/terminal-4/flight-details/MU534/19-12-2023,17:12,London,MU534
+430,16:35,Athens,https://www.heathrow.com/departures/terminal-2/flight-details/A3603/19-12-2023,16:54,London,A3603
+431,16:35,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA189/19-12-2023,17:25,London,BA189
+432,16:35,Seattle,https://www.heathrow.com/departures/terminal-3/flight-details/DL021/19-12-2023,16:52,London,DL021
+433,16:40,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1452/19-12-2023,17:06,London,BA1452
+434,16:40,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/BA464/19-12-2023,17:02,London,BA464
+435,16:40,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2477/19-12-2023,18:46,London,LH2477
+436,16:45,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA488/19-12-2023,17:35,London,BA488
+437,16:45,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1488/19-12-2023,17:03,London,BA1488
+438,16:45,Munich,https://www.heathrow.com/departures/terminal-5/flight-details/BA960/19-12-2023,17:00,London,BA960
+439,16:50,Boston,https://www.heathrow.com/departures/terminal-5/flight-details/BA203/19-12-2023,17:57,London,BA203
+440,16:50,Hong Kong City,https://www.heathrow.com/departures/terminal-3/flight-details/CX238/19-12-2023,17:09,London,CX238
+441,16:50,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA580/19-12-2023,17:24,London,BA580
+442,16:55,Rome,https://www.heathrow.com/departures/terminal-4/flight-details/AZ207/19-12-2023,17:04,London,AZ207
+443,16:55,Gothenburg,https://www.heathrow.com/departures/terminal-3/flight-details/BA802/19-12-2023,17:20,London,BA802
+444,16:55,Newcastle Upon Tyne,https://www.heathrow.com/departures/terminal-5/flight-details/BA1328/19-12-2023,17:08,London,BA1328
+445,16:55,Tehran,https://www.heathrow.com/departures/terminal-3/flight-details/IR710/19-12-2023,17:42,London,IR710
+446,17:00,Aberdeen,https://www.heathrow.com/departures/terminal-5/flight-details/BA1314/19-12-2023,17:44,London,BA1314
+447,17:00,Copenhagen,https://www.heathrow.com/departures/terminal-2/flight-details/SK506/19-12-2023,17:16,London,SK506
+448,17:00,Dublin,https://www.heathrow.com/departures/terminal-5/flight-details/BA838/19-12-2023,17:14,London,BA838
+449,17:00,Istanbul,https://www.heathrow.com/departures/terminal-5/flight-details/BA680/19-12-2023,17:32,London,BA680
+450,17:00,Nice,https://www.heathrow.com/departures/terminal-5/flight-details/BA348/19-12-2023,17:21,London,BA348
+451,17:05,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1022/19-12-2023,17:23,London,KL1022
+452,17:05,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/AA107/19-12-2023,17:10,London,AA107
+453,17:05,Toronto,https://www.heathrow.com/departures/terminal-5/flight-details/BA099/19-12-2023,17:55,London,BA099
+454,17:10,Belfast,https://www.heathrow.com/departures/terminal-5/flight-details/BA1420/19-12-2023,17:49,London,BA1420
+455,17:10,Casablanca,https://www.heathrow.com/departures/terminal-4/flight-details/AT801/19-12-2023,18:38,London,AT801
+456,17:10,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA736/19-12-2023,17:33,London,BA736
+457,17:10,Venice,https://www.heathrow.com/departures/terminal-5/flight-details/BA596/19-12-2023,17:51,London,BA596
+458,17:10,Zurich,https://www.heathrow.com/departures/terminal-2/flight-details/LX325/19-12-2023,17:17,London,LX325
+459,17:15,Mumbai,https://www.heathrow.com/departures/terminal-3/flight-details/VS354/19-12-2023,17:40,London,VS354
+460,17:15,ALA,https://www.heathrow.com/departures/terminal-4/flight-details/KC664/19-12-2023,18:18,London,KC664
+461,17:20,Newcastle Upon Tyne,https://www.heathrow.com/departures/terminal-5/flight-details/BA1336/19-12-2023,17:36,London,BA1336
+462,17:25,Paris,https://www.heathrow.com/departures/terminal-5/flight-details/BA322/19-12-2023,17:47,London,BA322
+463,17:25,Geneva,https://www.heathrow.com/departures/terminal-2/flight-details/LX349/19-12-2023,17:37,London,LX349
+464,17:25,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/IB3171/19-12-2023,17:45,London,IB3171
+465,17:25,Nairobi,https://www.heathrow.com/departures/terminal-4/flight-details/KQ101/19-12-2023,18:05,London,KQ101
+466,17:30,Athens,https://www.heathrow.com/departures/terminal-5/flight-details/BA634/19-12-2023,18:02,London,BA634
+467,17:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH915/19-12-2023,17:50,London,LH915
+468,17:30,Manchester,https://www.heathrow.com/departures/terminal-5/flight-details/BA1398/19-12-2023,18:23,London,BA1398
+469,17:30,Oslo,https://www.heathrow.com/departures/terminal-2/flight-details/SK810/19-12-2023,17:46,London,SK810
+470,17:35,Paris,https://www.heathrow.com/departures/terminal-4/flight-details/AF1281/19-12-2023,18:00,London,AF1281
+471,17:35,Las Vegas,https://www.heathrow.com/departures/terminal-3/flight-details/VS155/19-12-2023,18:07,London,VS155
+472,17:35,Prague,https://www.heathrow.com/departures/terminal-3/flight-details/BA860/19-12-2023,17:59,London,BA860
+473,17:40,Hong Kong City,https://www.heathrow.com/departures/terminal-5/flight-details/BA031/19-12-2023,19:17,London,BA031
+474,17:40,Vancouver,https://www.heathrow.com/departures/terminal-3/flight-details/BA085/19-12-2023,18:30,London,BA085
+475,17:40,Beijing,https://www.heathrow.com/departures/terminal-2/flight-details/CA856/19-12-2023,18:04,London,CA856
+476,17:45,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA442/19-12-2023,18:09,London,BA442
+477,17:45,Istanbul,https://www.heathrow.com/departures/terminal-2/flight-details/TK1972/19-12-2023,18:48,London,TK1972
+478,17:45,Bucharest,https://www.heathrow.com/departures/terminal-3/flight-details/BA884/19-12-2023,18:20,London,BA884
+479,17:45,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI173/19-12-2023,17:52,London,EI173
+480,17:50,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1030/19-12-2023,18:19,London,KL1030
+481,17:50,Brussels,https://www.heathrow.com/departures/terminal-2/flight-details/SN2096/19-12-2023,18:34,London,SN2096
+482,17:50,Hong Kong City,https://www.heathrow.com/departures/terminal-3/flight-details/CX250/19-12-2023,18:28,London,CX250
+483,17:50,Washington DC,https://www.heathrow.com/departures/terminal-3/flight-details/VS021/19-12-2023,18:10,London,VS021
+484,17:50,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2479/19-12-2023,18:12,London,LH2479
+485,17:55,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/VS009/19-12-2023,18:21,London,VS009
+486,18:00,Casablanca,https://www.heathrow.com/departures/terminal-4/flight-details/AT807/19-12-2023,18:43,London,AT807
+487,18:00,New York City,https://www.heathrow.com/departures/terminal-2/flight-details/UA921/19-12-2023,18:16,London,UA921
+488,18:00,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA179/19-12-2023,18:36,London,BA179
+489,18:00,Tashkent,https://www.heathrow.com/departures/terminal-4/flight-details/HY202/19-12-2023,19:07,London,HY202
+490,18:00,Toronto,https://www.heathrow.com/departures/terminal-2/flight-details/AC859/19-12-2023,18:26,London,AC859
+491,18:05,Aberdeen,https://www.heathrow.com/departures/terminal-5/flight-details/BA1318/19-12-2023,18:33,London,BA1318
+492,18:05,Stockholm,https://www.heathrow.com/departures/terminal-2/flight-details/SK528/19-12-2023,18:14,London,SK528
+493,18:05,Shannon,https://www.heathrow.com/departures/terminal-2/flight-details/EI387/19-12-2023,18:13,London,EI387
+494,18:05,Warsaw,https://www.heathrow.com/departures/terminal-5/flight-details/BA878/19-12-2023,18:46,London,BA878
+495,18:10,Bologna,https://www.heathrow.com/departures/terminal-5/flight-details/BA544/19-12-2023,18:32,London,BA544
+496,18:10,Helsinki,https://www.heathrow.com/departures/terminal-3/flight-details/AY1338/19-12-2023,19:21,London,AY1338
+497,18:10,Warsaw,https://www.heathrow.com/departures/terminal-2/flight-details/LO280/19-12-2023,18:42,London,LO280
+498,18:20,Cape Town,https://www.heathrow.com/departures/terminal-3/flight-details/VS478/19-12-2023,18:40,London,VS478
+499,18:20,Dublin,https://www.heathrow.com/departures/terminal-5/flight-details/BA824/19-12-2023,18:24,London,BA824
+500,18:20,Rome,https://www.heathrow.com/departures/terminal-5/flight-details/BA558/19-12-2023,18:53,London,BA558
+501,18:20,MLE,https://www.heathrow.com/departures/terminal-5/flight-details/BA061/19-12-2023,18:54,London,BA061
+502,18:20,DND,https://www.heathrow.com/departures/terminal-2/flight-details/LM626/19-12-2023,18:35,London,LM626
+503,18:25,Cape Town,https://www.heathrow.com/departures/terminal-5/flight-details/BA043/19-12-2023,18:49,London,BA043
+504,18:25,Johannesburg,https://www.heathrow.com/departures/terminal-5/flight-details/BA055/19-12-2023,19:39,London,BA055
+505,18:30,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1438/19-12-2023,18:44,London,BA1438
+506,18:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH917/19-12-2023,18:52,London,LH917
+507,18:30,Tokyo,https://www.heathrow.com/departures/terminal-3/flight-details/JL044/19-12-2023,19:02,London,JL044
+508,18:30,Milan,https://www.heathrow.com/departures/terminal-5/flight-details/BA570/19-12-2023,19:12,London,BA570
+509,18:30,Lisbon,https://www.heathrow.com/departures/terminal-2/flight-details/TP1357/19-12-2023,19:14,London,TP1357
+510,18:35,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA426/19-12-2023,18:51,London,BA426
+511,18:35,Delhi,https://www.heathrow.com/departures/terminal-5/flight-details/BA257/19-12-2023,19:06,London,BA257
+512,18:35,Manchester,https://www.heathrow.com/departures/terminal-5/flight-details/BA1402/19-12-2023,18:58,London,BA1402
+513,18:35,Stuttgart,https://www.heathrow.com/departures/terminal-2/flight-details/EW2465/19-12-2023,19:00,London,EW2465
+514,18:40,Copenhagen,https://www.heathrow.com/departures/terminal-2/flight-details/SK1516/19-12-2023,19:09,London,SK1516
+515,18:40,Vienna,https://www.heathrow.com/departures/terminal-3/flight-details/BA706/19-12-2023,19:05,London,BA706
+516,18:40,Zurich,https://www.heathrow.com/departures/terminal-2/flight-details/LX327/19-12-2023,19:01,London,LX327
+517,18:45,Copenhagen,https://www.heathrow.com/departures/terminal-5/flight-details/BA822/19-12-2023,20:17,London,BA822
+518,18:45,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI175/19-12-2023,18:59,London,EI175
+519,18:45,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/IB3167/19-12-2023,19:46,London,IB3167
+520,18:50,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1024/19-12-2023,,London,KL1024
+521,18:50,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA181/19-12-2023,19:19,London,BA181
+522,18:50,Seoul,https://www.heathrow.com/departures/terminal-4/flight-details/KE908/19-12-2023,19:22,London,KE908
+523,18:50,Los Angeles,https://www.heathrow.com/departures/terminal-3/flight-details/AA139/19-12-2023,19:18,London,AA139
+524,18:55,Berlin,https://www.heathrow.com/departures/terminal-5/flight-details/BA988/19-12-2023,19:13,London,BA988
+525,18:55,Basel,https://www.heathrow.com/departures/terminal-5/flight-details/BA756/19-12-2023,19:43,London,BA756
+526,18:55,Doha,https://www.heathrow.com/departures/terminal-4/flight-details/QR012/19-12-2023,19:38,London,QR012
+527,18:55,Singapore,https://www.heathrow.com/departures/terminal-5/flight-details/BA011/19-12-2023,19:35,London,BA011
+528,19:00,Stockholm,https://www.heathrow.com/departures/terminal-2/flight-details/SK1524/19-12-2023,19:15,London,SK1524
+529,19:00,Dubai,https://www.heathrow.com/departures/terminal-3/flight-details/EK032/19-12-2023,19:55,London,EK032
+530,19:00,Tokyo,https://www.heathrow.com/departures/terminal-2/flight-details/NH212/19-12-2023,19:28,London,NH212
+531,19:00,New York City,https://www.heathrow.com/departures/terminal-5/flight-details/BA183/19-12-2023,20:31,London,BA183
+532,19:05,Boston,https://www.heathrow.com/departures/terminal-5/flight-details/BA239/19-12-2023,19:37,London,BA239
+533,19:05,Lisbon,https://www.heathrow.com/departures/terminal-5/flight-details/BA504/19-12-2023,19:26,London,BA504
+534,19:05,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/IB3173/19-12-2023,19:32,London,IB3173
+535,19:10,Stockholm,https://www.heathrow.com/departures/terminal-5/flight-details/BA786/19-12-2023,19:34,London,BA786
+536,19:10,Barcelona,https://www.heathrow.com/departures/terminal-5/flight-details/BA482/19-12-2023,19:24,London,BA482
+537,19:10,Belfast,https://www.heathrow.com/departures/terminal-5/flight-details/BA1422/19-12-2023,19:25,London,BA1422
+538,19:10,Frankfurt,https://www.heathrow.com/departures/terminal-5/flight-details/BA916/19-12-2023,19:51,London,BA916
+539,19:10,Jersey,https://www.heathrow.com/departures/terminal-5/flight-details/BA1352/19-12-2023,19:30,London,BA1352
+540,19:15,Dusseldorf,https://www.heathrow.com/departures/terminal-5/flight-details/BA946/19-12-2023,19:44,London,BA946
+541,19:15,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1478/19-12-2023,19:31,London,BA1478
+542,19:15,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2481/19-12-2023,19:59,London,LH2481
+543,19:15,Zurich,https://www.heathrow.com/departures/terminal-5/flight-details/BA720/19-12-2023,19:42,London,BA720
+544,19:20,Abu Dhabi,https://www.heathrow.com/departures/terminal-4/flight-details/EY026/19-12-2023,19:45,London,EY026
+545,19:20,Hamburg,https://www.heathrow.com/departures/terminal-2/flight-details/EW7461/19-12-2023,19:58,London,EW7461
+546,19:25,Paris,https://www.heathrow.com/departures/terminal-5/flight-details/BA326/19-12-2023,19:53,London,BA326
+547,19:25,Oslo,https://www.heathrow.com/departures/terminal-3/flight-details/BA770/19-12-2023,19:48,London,BA770
+548,19:25,Toulouse,https://www.heathrow.com/departures/terminal-5/flight-details/BA376/19-12-2023,20:00,London,BA376
+549,19:25,Vienna,https://www.heathrow.com/departures/terminal-2/flight-details/OS456/19-12-2023,,London,OS456
+550,19:25,Hannover,https://www.heathrow.com/departures/terminal-5/flight-details/BA956/19-12-2023,20:47,London,BA956
+551,19:30,Amsterdam,https://www.heathrow.com/departures/terminal-5/flight-details/BA444/19-12-2023,19:50,London,BA444
+552,19:30,Dusseldorf,https://www.heathrow.com/departures/terminal-2/flight-details/EW9463/19-12-2023,19:54,London,EW9463
+553,19:30,Frankfurt,https://www.heathrow.com/departures/terminal-2/flight-details/LH919/19-12-2023,20:03,London,LH919
+554,19:30,Geneva,https://www.heathrow.com/departures/terminal-2/flight-details/LX357/19-12-2023,19:49,London,LX357
+555,19:30,Oslo,https://www.heathrow.com/departures/terminal-2/flight-details/SK812/19-12-2023,20:02,London,SK812
+556,19:35,Hamburg,https://www.heathrow.com/departures/terminal-5/flight-details/BA972/19-12-2023,20:26,London,BA972
+557,19:35,Cork,https://www.heathrow.com/departures/terminal-2/flight-details/EI723/19-12-2023,20:04,London,EI723
+558,19:40,Madrid,https://www.heathrow.com/departures/terminal-5/flight-details/IB3179/19-12-2023,20:11,London,IB3179
+559,19:40,Newcastle Upon Tyne,https://www.heathrow.com/departures/terminal-5/flight-details/BA1338/19-12-2023,20:22,London,BA1338
+560,19:45,Budapest,https://www.heathrow.com/departures/terminal-3/flight-details/BA870/19-12-2023,,London,BA870
+561,19:45,Paris,https://www.heathrow.com/departures/terminal-4/flight-details/AF1181/19-12-2023,20:06,London,AF1181
+562,19:45,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI177/19-12-2023,20:16,London,EI177
+563,19:45,Nice,https://www.heathrow.com/departures/terminal-5/flight-details/BA352/19-12-2023,20:25,London,BA352
+564,19:45,Delhi,https://www.heathrow.com/departures/terminal-2/flight-details/AI166/19-12-2023,21:15,London,AI166
+565,19:50,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/AA141/19-12-2023,20:13,London,AA141
+566,19:50,Manchester,https://www.heathrow.com/departures/terminal-5/flight-details/BA1388/19-12-2023,21:07,London,BA1388
+567,19:50,Munich,https://www.heathrow.com/departures/terminal-5/flight-details/BA958/19-12-2023,20:12,London,BA958
+568,19:50,Prague,https://www.heathrow.com/departures/terminal-3/flight-details/BA858/19-12-2023,20:08,London,BA858
+569,19:50,Stavanger,https://www.heathrow.com/departures/terminal-2/flight-details/SK4628/19-12-2023,20:07,London,SK4628
+570,19:55,Geneva,https://www.heathrow.com/departures/terminal-5/flight-details/BA738/19-12-2023,20:21,London,BA738
+571,19:55,Sydney,https://www.heathrow.com/departures/terminal-3/flight-details/QF002/19-12-2023,20:19,London,QF002
+572,20:00,Cologne,https://www.heathrow.com/departures/terminal-2/flight-details/EW469/19-12-2023,20:15,London,EW469
+573,20:00,Delhi,https://www.heathrow.com/departures/terminal-3/flight-details/VS300/19-12-2023,20:23,London,VS300
+574,20:00,Glasgow,https://www.heathrow.com/departures/terminal-5/flight-details/BA1494/19-12-2023,20:35,London,BA1494
+575,20:00,Istanbul,https://www.heathrow.com/departures/terminal-2/flight-details/TK1932/19-12-2023,20:27,London,TK1932
+576,20:05,Muscat,https://www.heathrow.com/departures/terminal-4/flight-details/WY102/19-12-2023,20:33,London,WY102
+577,20:05,Zurich,https://www.heathrow.com/departures/terminal-2/flight-details/LX339/19-12-2023,,London,LX339
+578,20:10,Doha,https://www.heathrow.com/departures/terminal-4/flight-details/QR106/19-12-2023,20:36,London,QR106
+579,20:10,Kuwait,https://www.heathrow.com/departures/terminal-4/flight-details/KU106/19-12-2023,20:32,London,KU106
+580,20:15,Addis Ababa,https://www.heathrow.com/departures/terminal-2/flight-details/ET701/19-12-2023,20:39,London,ET701
+581,20:15,Munich,https://www.heathrow.com/departures/terminal-2/flight-details/LH2483/19-12-2023,20:46,London,LH2483
+582,20:15,Dubai,https://www.heathrow.com/departures/terminal-3/flight-details/EK042/19-12-2023,20:29,London,EK042
+583,20:15,Sao Paulo,https://www.heathrow.com/departures/terminal-3/flight-details/LA8085/19-12-2023,,London,LA8085
+584,20:20,Dubai,https://www.heathrow.com/departures/terminal-3/flight-details/EK004/19-12-2023,21:02,London,EK004
+585,20:20,Edinburgh,https://www.heathrow.com/departures/terminal-5/flight-details/BA1464/19-12-2023,20:38,London,BA1464
+586,20:20,LDY,https://www.heathrow.com/departures/terminal-2/flight-details/LM658/19-12-2023,20:50,London,LM658
+587,20:25,Amsterdam,https://www.heathrow.com/departures/terminal-4/flight-details/KL1032/19-12-2023,20:43,London,KL1032
+588,20:25,New York City,https://www.heathrow.com/departures/terminal-3/flight-details/VS025/19-12-2023,20:49,London,VS025
+589,20:25,Beijing,https://www.heathrow.com/departures/terminal-2/flight-details/CA938/19-12-2023,20:41,London,CA938
+590,20:30,Mumbai,https://www.heathrow.com/departures/terminal-5/flight-details/BA199/19-12-2023,20:58,London,BA199
+591,20:30,Copenhagen,https://www.heathrow.com/departures/terminal-2/flight-details/SK1508/19-12-2023,20:45,London,SK1508
+592,20:30,Valletta,https://www.heathrow.com/departures/terminal-4/flight-details/KM103/19-12-2023,20:44,London,KM103
+593,20:30,Kigali,https://www.heathrow.com/departures/terminal-3/flight-details/WB711/19-12-2023,21:18,London,WB711
+594,20:35,Singapore,https://www.heathrow.com/departures/terminal-2/flight-details/SQ319/19-12-2023,20:56,London,SQ319
+595,20:40,Colombo,https://www.heathrow.com/departures/terminal-3/flight-details/UL504/19-12-2023,21:14,London,UL504
+596,20:40,Dubai,https://www.heathrow.com/departures/terminal-5/flight-details/BA105/19-12-2023,21:23,London,BA105
+597,20:40,Reykjavik,https://www.heathrow.com/departures/terminal-2/flight-details/FI455/19-12-2023,,London,FI455
+598,20:45,Dublin,https://www.heathrow.com/departures/terminal-2/flight-details/EI179/19-12-2023,20:51,London,EI179
+599,20:45,Hong Kong City,https://www.heathrow.com/departures/terminal-5/flight-details/BA027/19-12-2023,21:10,London,BA027
+600,20:50,Dubai,https://www.heathrow.com/departures/terminal-3/flight-details/VS400/19-12-2023,21:05,London,VS400
+601,20:55,Abu Dhabi,https://www.heathrow.com/departures/terminal-4/flight-details/EY018/19-12-2023,21:21,London,EY018
+602,20:55,Mumbai,https://www.heathrow.com/departures/terminal-3/flight-details/UK016/19-12-2023,21:26,London,UK016
+603,21:00,Shanghai,https://www.heathrow.com/departures/terminal-4/flight-details/MU552/19-12-2023,21:12,London,MU552
+604,21:05,Stockholm,https://www.heathrow.com/departures/terminal-2/flight-details/SK534/19-12-2023,21:20,London,SK534
+605,21:05,Mumbai,https://www.heathrow.com/departures/terminal-2/flight-details/AI130/19-12-2023,21:40,London,AI130
+606,21:05,Delhi,https://www.heathrow.com/departures/terminal-3/flight-details/UK018/19-12-2023,21:50,London,UK018
+607,21:10,Johannesburg,https://www.heathrow.com/departures/terminal-5/flight-details/BA057/19-12-2023,22:24,London,BA057
+608,21:10,Guangzhou,https://www.heathrow.com/departures/terminal-4/flight-details/CZ304/19-12-2023,21:27,London,CZ304
+609,21:15,Sao Paulo,https://www.heathrow.com/departures/terminal-3/flight-details/BA247/19-12-2023,21:38,London,BA247
+610,21:20,Taipei,https://www.heathrow.com/departures/terminal-2/flight-details/BR068/19-12-2023,21:58,London,BR068
+611,21:25,Kuala Lumpur,https://www.heathrow.com/departures/terminal-4/flight-details/MH001/19-12-2023,21:42,London,MH001
+612,21:30,Doha,https://www.heathrow.com/departures/terminal-4/flight-details/QR016/19-12-2023,21:55,London,QR016
+613,21:30,PKX,https://www.heathrow.com/departures/terminal-4/flight-details/CZ674/19-12-2023,21:43,London,CZ674
+614,21:35,Bangkok,https://www.heathrow.com/departures/terminal-2/flight-details/TG917/19-12-2023,22:00,London,TG917
+615,21:35,Dubai,https://www.heathrow.com/departures/terminal-5/flight-details/BA109/19-12-2023,21:52,London,BA109
+616,21:40,Bogota,https://www.heathrow.com/departures/terminal-2/flight-details/AV121/19-12-2023,21:48,London,AV121
+617,21:50,Sydney,https://www.heathrow.com/departures/terminal-5/flight-details/BA015/19-12-2023,22:12,London,BA015
+618,21:50,Bahrain,https://www.heathrow.com/departures/terminal-4/flight-details/GF006/19-12-2023,22:02,London,GF006
+619,22:00,Dubai,https://www.heathrow.com/departures/terminal-3/flight-details/EK006/19-12-2023,22:21,London,EK006
+620,22:00,LIM,https://www.heathrow.com/departures/terminal-3/flight-details/LA2475/19-12-2023,,London,LA2475
+621,22:05,Hong Kong City,https://www.heathrow.com/departures/terminal-3/flight-details/CX254/19-12-2023,22:34,London,CX254
+622,22:05,Cork,https://www.heathrow.com/departures/terminal-2/flight-details/EI725/19-12-2023,22:04,London,EI725
+623,22:05,Singapore,https://www.heathrow.com/departures/terminal-2/flight-details/SQ321/19-12-2023,22:06,London,SQ321
+624,22:05,Baku,https://www.heathrow.com/departures/terminal-4/flight-details/J2008/19-12-2023,22:23,London,J2008
+625,22:05,TFU,https://www.heathrow.com/departures/terminal-2/flight-details/CA424/19-12-2023,22:14,London,CA424
+626,22:10,Buenos Aires,https://www.heathrow.com/departures/terminal-5/flight-details/BA249/19-12-2023,23:00,London,BA249
+627,22:15,Athens,https://www.heathrow.com/departures/terminal-2/flight-details/A3609/19-12-2023,22:26,London,A3609
+628,22:15,Lagos,https://www.heathrow.com/departures/terminal-3/flight-details/VS411/19-12-2023,23:02,London,VS411
+629,22:20,Istanbul,https://www.heathrow.com/departures/terminal-2/flight-details/TK1984/19-12-2023,22:41,London,TK1984
+630,22:20,Kuwait,https://www.heathrow.com/departures/terminal-5/flight-details/BA157/19-12-2023,22:38,London,BA157
+631,22:20,Tel Aviv,https://www.heathrow.com/departures/terminal-4/flight-details/LY318/19-12-2023,23:08,London,LY318
+632,22:25,Cape Town,https://www.heathrow.com/departures/terminal-5/flight-details/BA059/19-12-2023,22:52,London,BA059
+633,22:25,Johannesburg,https://www.heathrow.com/departures/terminal-3/flight-details/VS449/19-12-2023,22:30,London,VS449
+634,22:30,Abuja,https://www.heathrow.com/departures/terminal-5/flight-details/BA083/19-12-2023,22:49,London,BA083
+635,22:30,Cairo,https://www.heathrow.com/departures/terminal-2/flight-details/MS780/19-12-2023,22:43,London,MS780
+636,22:30,Mexico City,https://www.heathrow.com/departures/terminal-3/flight-details/AM008/19-12-2023,22:54,London,AM008
+637,04:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA058/19-12-2023,04:38,Cape Town,BA058
+638,04:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA074/19-12-2023,04:33,Lagos,BA074
+639,04:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS450/19-12-2023,19:58,Johannesburg,VS450
+640,05:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA056/19-12-2023,04:41,Johannesburg,BA056
+641,05:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/QF009/19-12-2023,05:16,Melbourne,QF009
+642,05:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA262/19-12-2023,05:02,Riyadh,BA262
+643,05:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA016/19-12-2023,05:00,Sydney,BA016
+644,05:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/SV119/19-12-2023,05:05,Riyadh,SV119
+645,05:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA078/19-12-2023,04:54,Accra,BA078
+646,05:30,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/CX251/19-12-2023,05:52,Hong Kong City,CX251
+647,05:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA012/19-12-2023,05:34,Singapore,BA012
+648,05:35,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/MH002/19-12-2023,05:08,Kuala Lumpur,MH002
+649,05:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA064/19-12-2023,05:08,Nairobi,BA064
+650,05:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA032/19-12-2023,05:38,Hong Kong City,BA032
+651,05:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA254/19-12-2023,05:47,Bridgetown,BA254
+652,05:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SQ322/19-12-2023,00:17,Singapore,SQ322
+653,05:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/B61620/19-12-2023,18:27,Boston,B61620
+654,05:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA929/19-12-2023,16:25,Chicago,UA929
+655,06:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA184/19-12-2023,19:02,New York City,BA184
+656,06:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/QF001/19-12-2023,19:02,Sydney,QF001
+657,06:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA092/19-12-2023,19:02,Toronto,BA092
+658,06:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA106/19-12-2023,09:11,Dubai,BA106
+659,06:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS104/19-12-2023,17:57,Atlanta,VS104
+660,06:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA020/19-12-2023,15:41,Dallas Fort Worth,AA020
+661,06:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA110/19-12-2023,18:27,New York City,UA110
+662,06:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TG910/19-12-2023,01:04,Bangkok,TG910
+663,06:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/CX255/19-12-2023,,Hong Kong City,CX255
+664,06:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/WB710/19-12-2023,00:54,Kigali,WB710
+665,06:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA028/19-12-2023,06:31,Hong Kong City,BA028
+666,06:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA112/19-12-2023,18:59,New York City,BA112
+667,06:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/QR011/19-12-2023,18:59,Doha,QR011
+668,06:25,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/JL041/19-12-2023,06:15,Tokyo,JL041
+669,06:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA212/19-12-2023,06:12,Boston,BA212
+670,06:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA216/19-12-2023,18:47,Washington DC,BA216
+671,06:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA206/19-12-2023,17:44,Miami,BA206
+672,06:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA066/19-12-2023,06:17,Philadelphia,BA066
+673,06:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AC854/19-12-2023,06:57,Toronto,AC854
+674,06:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/ET700/19-12-2023,07:20,Addis Ababa,ET700
+675,06:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AI161/19-12-2023,03:23,Delhi,AI161
+676,06:35,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/GF007/19-12-2023,02:26,Bahrain,GF007
+677,06:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA918/19-12-2023,02:26,Washington DC,UA918
+678,06:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS004/19-12-2023,18:59,New York City,VS004
+679,06:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA294/19-12-2023,17:28,Chicago,BA294
+680,06:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA124/19-12-2023,17:28,Bahrain,BA124
+681,06:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA174/19-12-2023,19:20,New York City,BA174
+682,06:45,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS118/19-12-2023,17:26,Miami,VS118
+683,06:45,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/EY011/19-12-2023,17:26,Abu Dhabi,EY011
+684,06:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA730/19-12-2023,18:24,Charlotte,AA730
+685,06:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL016/19-12-2023,18:44,Detroit,DL016
+686,06:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA246/19-12-2023,06:35,Sao Paulo,BA246
+687,06:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS046/19-12-2023,06:35,New York City,VS046
+688,06:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA158/19-12-2023,08:18,BDA,BA158
+689,06:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA042/19-12-2023,,Cape Town,BA042
+690,06:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA014/19-12-2023,19:12,New York City,UA014
+691,06:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA194/19-12-2023,16:23,Houston,BA194
+692,06:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS092/19-12-2023,06:42,Orlando,VS092
+693,07:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA100/19-12-2023,19:25,New York City,AA100
+694,07:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL058/19-12-2023,20:15,Boston,DL058
+695,07:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL010/19-12-2023,17:14,Minneapolis-St Paul,DL010
+696,07:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA138/19-12-2023,06:44,Mumbai,BA138
+697,07:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA176/19-12-2023,19:53,New York City,BA176
+698,07:10,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AC864/19-12-2023,07:05,Montreal,AC864
+699,07:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS303/19-12-2023,07:05,Delhi,VS303
+700,07:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/EK007/19-12-2023,07:05,Dubai,EK007
+701,07:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL030/19-12-2023,07:05,Atlanta,DL030
+702,07:15,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/VN055/19-12-2023,07:05,Hanoi,VN055
+703,07:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA050/19-12-2023,16:34,Dallas Fort Worth,AA050
+704,07:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SQ306/19-12-2023,06:54,Singapore,SQ306
+705,07:20,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/QR105/19-12-2023,07:04,Doha,QR105
+706,07:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA880/19-12-2023,16:43,Houston,UA880
+707,07:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW9468/19-12-2023,07:14,Dusseldorf,EW9468
+708,07:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA723/19-12-2023,07:29,Geneva,BA723
+709,07:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA963/19-12-2023,,Hamburg,BA963
+710,07:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1371/19-12-2023,07:23,Manchester,BA1371
+711,07:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA901/19-12-2023,13:54,San Francisco,UA901
+712,07:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA142/19-12-2023,07:47,Delhi,BA142
+713,07:30,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/SV111/19-12-2023,07:00,Riyadh,SV111
+714,07:35,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS222/19-12-2023,07:23,UVF,VS222
+715,07:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA935/19-12-2023,07:38,Dusseldorf,BA935
+716,07:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA957/19-12-2023,07:38,Hannover,BA957
+717,07:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA054/19-12-2023,07:17,Johannesburg,BA054
+718,07:40,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1001/19-12-2023,07:34,Amsterdam,KL1001
+719,07:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA303/19-12-2023,07:39,Paris,BA303
+720,07:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA811/19-12-2023,07:35,Copenhagen,BA811
+721,07:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA423/19-12-2023,07:44,Amsterdam,BA423
+722,07:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA751/19-12-2023,07:37,Basel,BA751
+723,07:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH924/19-12-2023,07:51,Frankfurt,LH924
+724,07:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1475/19-12-2023,07:51,Glasgow,BA1475
+725,07:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA709/19-12-2023,07:43,Zurich,BA709
+726,07:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA108/19-12-2023,20:35,Boston,AA108
+727,07:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1301/19-12-2023,07:42,Aberdeen,BA1301
+728,07:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL001/19-12-2023,07:42,New York City,DL001
+729,07:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS130/19-12-2023,18:36,Tampa,VS130
+730,07:55,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AF7550/19-12-2023,07:49,Nice,AF7550
+731,07:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA920/19-12-2023,18:16,Chicago,UA920
+732,08:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA116/19-12-2023,20:32,New York City,BA116
+733,08:00,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AF1680/19-12-2023,07:23,Paris,AF1680
+734,08:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA853/19-12-2023,07:53,Prague,BA853
+735,08:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW2462/19-12-2023,07:55,Stuttgart,EW2462
+736,08:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LM651/19-12-2023,07:50,LDY,LM651
+737,08:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI152/19-12-2023,08:23,Dublin,EI152
+738,08:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2470/19-12-2023,08:15,Munich,LH2470
+739,08:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX316/19-12-2023,08:39,Zurich,LX316
+740,08:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA981/19-12-2023,08:20,Berlin,BA981
+741,08:10,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW7464/19-12-2023,07:38,Hamburg,EW7464
+742,08:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1339/19-12-2023,07:58,Jersey,BA1339
+743,08:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA248/19-12-2023,07:54,Buenos Aires,BA248
+744,08:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA086/19-12-2023,18:54,Chicago,AA086
+745,08:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1431/19-12-2023,08:14,Belfast,BA1431
+746,08:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1435/19-12-2023,08:08,Edinburgh,BA1435
+747,08:15,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX352/19-12-2023,08:17,Geneva,LX352
+748,08:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1321/19-12-2023,08:10,Newcastle Upon Tyne,BA1321
+749,08:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA094/19-12-2023,08:25,Montreal,BA094
+750,08:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA901/19-12-2023,08:04,Frankfurt,BA901
+751,08:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/OS451/19-12-2023,08:24,Vienna,OS451
+752,08:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA904/19-12-2023,20:36,New York City,UA904
+753,08:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/IB3170/19-12-2023,20:36,Madrid,IB3170
+754,08:30,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS138/19-12-2023,08:49,New York City,VS138
+755,08:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AC856/19-12-2023,20:33,Toronto,AC856
+756,08:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA228/19-12-2023,21:39,Baltimore,BA228
+757,08:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA377/19-12-2023,08:22,Toulouse,BA377
+758,08:35,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA106/19-12-2023,21:03,New York City,AA106
+759,08:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA172/19-12-2023,21:26,New York City,BA172
+760,08:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA561/19-12-2023,08:42,Milan,BA561
+761,08:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA222/19-12-2023,19:26,Nashville,BA222
+762,08:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA831/19-12-2023,19:26,Dublin,BA831
+763,08:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH900/19-12-2023,08:52,Frankfurt,LH900
+764,08:45,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA699/19-12-2023,08:31,Vienna,BA699
+765,08:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1391/19-12-2023,08:29,Manchester,BA1391
+766,08:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA543/19-12-2023,08:30,Bologna,BA543
+767,08:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK501/19-12-2023,08:30,Copenhagen,SK501
+768,08:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA341/19-12-2023,07:45,Nice,BA341
+769,09:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS012/19-12-2023,09:06,Boston,VS012
+770,09:00,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1007/19-12-2023,08:41,Amsterdam,KL1007
+771,09:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI710/19-12-2023,08:54,Cork,EI710
+772,09:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA761/19-12-2023,07:23,Oslo,BA761
+773,09:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LM621/19-12-2023,07:04,DND,LM621
+774,09:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA771/19-12-2023,09:33,Stockholm,BA771
+775,09:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW460/19-12-2023,09:14,Cologne,EW460
+776,09:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI154/19-12-2023,09:31,Dublin,EI154
+777,09:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA803/19-12-2023,09:08,Gothenburg,BA803
+778,09:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA947/19-12-2023,09:19,Munich,BA947
+779,09:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AY1331/19-12-2023,09:26,Helsinki,AY1331
+780,09:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA675/19-12-2023,09:29,Istanbul,BA675
+781,09:10,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/OS453/19-12-2023,09:16,Vienna,OS453
+782,09:10,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KQ102/19-12-2023,04:20,Nairobi,KQ102
+783,09:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS1222/19-12-2023,07:23,UVF,VS1222
+784,09:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA732/19-12-2023,20:52,Charlotte,AA732
+785,09:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1443/19-12-2023,09:35,Edinburgh,BA1443
+786,09:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/IB3162/19-12-2023,09:13,Madrid,IB3162
+787,09:15,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI380/19-12-2023,09:20,Shannon,EI380
+788,09:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA728/19-12-2023,21:36,Philadelphia,AA728
+789,09:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK525/19-12-2023,09:43,Stockholm,SK525
+790,09:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AC855/19-12-2023,08:47,Mumbai,AC855
+791,09:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS132/19-12-2023,08:47,Bridgetown,VS132
+792,09:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA218/19-12-2023,08:33,Denver,BA218
+793,09:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA188/19-12-2023,22:15,New York City,BA188
+794,09:30,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS166/19-12-2023,19:44,Montego Bay,VS166
+795,09:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA477/19-12-2023,11:09,Barcelona,BA477
+796,09:30,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA865/19-12-2023,09:42,Budapest,BA865
+797,09:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/B6007/19-12-2023,21:27,New York City,B6007
+798,09:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK803/19-12-2023,09:40,Oslo,SK803
+799,09:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA597/19-12-2023,09:32,Venice,BA597
+800,09:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LO281/19-12-2023,07:58,Warsaw,LO281
+801,09:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA027/19-12-2023,17:50,Denver,UA027
+802,09:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA038/19-12-2023,17:50,Miami,AA038
+803,09:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS106/19-12-2023,16:36,Seattle,VS106
+804,09:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA879/19-12-2023,16:36,Warsaw,BA879
+805,09:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA192/19-12-2023,20:09,Dallas Fort Worth,BA192
+806,09:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH902/19-12-2023,10:04,Frankfurt,LH902
+807,09:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1387/19-12-2023,10:12,Manchester,BA1387
+808,09:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA282/19-12-2023,10:12,Los Angeles,BA282
+809,09:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA391/19-12-2023,09:52,Brussels,BA391
+810,09:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS198/19-12-2023,09:36,SVD,VS198
+811,09:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/A3600/19-12-2023,09:52,Athens,A3600
+812,09:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TK1979/19-12-2023,09:54,Istanbul,TK1979
+813,10:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL018/19-12-2023,21:52,Detroit,DL018
+814,10:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA174/19-12-2023,21:45,Raleigh,AA174
+815,10:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1423/19-12-2023,09:59,Belfast,BA1423
+816,10:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA551/19-12-2023,10:08,Rome,BA551
+817,10:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA885/19-12-2023,07:23,Bucharest,BA885
+818,10:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA120/19-12-2023,22:32,CVG,BA120
+819,10:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA292/19-12-2023,22:34,Washington DC,BA292
+820,10:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SN2093/19-12-2023,10:08,Brussels,SN2093
+821,10:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA190/19-12-2023,19:26,Austin,BA190
+822,10:10,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AC850/19-12-2023,18:18,Calgary,AC850
+823,10:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA098/19-12-2023,11:26,Toronto,BA098
+824,10:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA499/19-12-2023,06:55,Lisbon,BA499
+825,10:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/ME801/19-12-2023,10:20,Beirut,ME801
+826,10:15,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA940/19-12-2023,22:22,New York City,UA940
+827,10:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA170/19-12-2023,23:17,Pittsburgh,BA170
+828,10:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA631/19-12-2023,10:06,Athens,BA631
+829,10:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1439/19-12-2023,10:24,Edinburgh,BA1439
+830,10:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1477/19-12-2023,10:22,Glasgow,BA1477
+831,10:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI156/19-12-2023,10:33,Dublin,EI156
+832,10:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA924/19-12-2023,22:18,Washington DC,UA924
+833,10:25,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA104/19-12-2023,22:42,New York City,AA104
+834,10:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2472/19-12-2023,10:53,Munich,LH2472
+835,10:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KM100/19-12-2023,08:11,Valletta,KM100
+836,10:30,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL003/19-12-2023,22:27,New York City,DL003
+837,10:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA401/19-12-2023,22:27,Cairo,BA401
+838,10:30,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AF1580/19-12-2023,22:27,Paris,AF1580
+839,10:35,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL050/19-12-2023,18:33,Salt Lake City,DL050
+840,10:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA429/19-12-2023,10:20,Amsterdam,BA429
+841,10:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/IB3160/19-12-2023,11:23,Madrid,IB3160
+842,10:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1305/19-12-2023,10:25,Aberdeen,BA1305
+843,10:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA833/19-12-2023,10:45,Dublin,BA833
+844,10:45,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA252/19-12-2023,10:30,Grand Cayman,BA252
+845,10:45,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1009/19-12-2023,10:47,Amsterdam,KL1009
+846,10:45,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/ME201/19-12-2023,07:50,Beirut,ME201
+847,10:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH904/19-12-2023,11:28,Frankfurt,LH904
+848,10:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA329/19-12-2023,10:32,Paris,BA329
+849,10:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA005/19-12-2023,20:29,Houston,UA005
+850,10:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA937/19-12-2023,10:55,Dusseldorf,BA937
+851,10:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/FI450/19-12-2023,10:36,Reykjavik,FI450
+852,10:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS154/19-12-2023,23:03,New York City,VS154
+853,10:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS010/19-12-2023,11:07,New York City,VS010
+854,10:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA208/19-12-2023,16:05,Miami,BA208
+855,10:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA284/19-12-2023,16:05,San Francisco,BA284
+856,11:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA296/19-12-2023,22:15,Chicago,BA296
+857,11:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA307/19-12-2023,10:46,Paris,BA307
+858,11:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1389/19-12-2023,10:46,Manchester,BA1389
+859,11:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AI129/19-12-2023,07:01,Mumbai,AI129
+860,11:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA661/19-12-2023,11:21,Larnaca,BA661
+861,11:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL032/19-12-2023,22:59,Atlanta,DL032
+862,11:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS022/19-12-2023,22:59,Washington DC,VS022
+863,11:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1325/19-12-2023,10:53,Newcastle Upon Tyne,BA1325
+864,11:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA226/19-12-2023,22:48,Atlanta,BA226
+865,11:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA182/19-12-2023,23:47,New York City,BA182
+866,11:15,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA938/19-12-2023,22:20,Chicago,UA938
+867,11:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1479/19-12-2023,11:06,Glasgow,BA1479
+868,11:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA725/19-12-2023,11:22,Geneva,BA725
+869,11:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AC858/19-12-2023,11:22,Toronto,AC858
+870,11:20,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AZ238/19-12-2023,10:27,Milan,AZ238
+871,11:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA711/19-12-2023,11:19,Zurich,BA711
+872,11:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX318/19-12-2023,11:32,Zurich,LX318
+873,11:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA473/19-12-2023,11:03,Barcelona,BA473
+874,11:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AI111/19-12-2023,11:43,Delhi,AI111
+875,11:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI158/19-12-2023,11:34,Dublin,EI158
+876,11:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW9466/19-12-2023,11:30,Dusseldorf,EW9466
+877,11:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL020/19-12-2023,17:54,Seattle,DL020
+878,11:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA813/19-12-2023,11:38,Copenhagen,BA813
+879,11:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/EK001/19-12-2023,11:45,Dubai,EK001
+880,11:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1441/19-12-2023,11:45,Edinburgh,BA1441
+881,11:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA734/19-12-2023,23:20,Charlotte,AA734
+882,11:45,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA917/19-12-2023,12:10,Stuttgart,BA917
+883,11:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA134/19-12-2023,12:10,Los Angeles,AA134
+884,11:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AC860/19-12-2023,18:50,Vancouver,AC860
+885,11:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA753/19-12-2023,12:33,Basel,BA753
+886,11:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA977/19-12-2023,11:51,Hannover,BA977
+887,12:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA266/19-12-2023,18:40,PDX,BA266
+888,12:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA930/19-12-2023,18:06,San Francisco,UA930
+889,12:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA431/19-12-2023,11:44,Amsterdam,BA431
+890,12:00,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/EY019/19-12-2023,08:29,Abu Dhabi,EY019
+891,12:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA949/19-12-2023,08:29,Munich,BA949
+892,12:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA078/19-12-2023,21:34,Dallas Fort Worth,AA078
+893,12:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS006/19-12-2023,11:49,Miami,VS006
+894,12:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA048/19-12-2023,11:49,Seattle,BA048
+895,12:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA991/19-12-2023,13:13,Berlin,BA991
+896,12:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA194/19-12-2023,19:19,Phoenix,AA194
+897,12:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA309/19-12-2023,12:08,Paris,BA309
+898,12:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA457/19-12-2023,10:57,Madrid,BA457
+899,12:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS008/19-12-2023,18:17,Los Angeles,VS008
+900,12:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1307/19-12-2023,12:09,Aberdeen,BA1307
+901,12:15,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/QR003/19-12-2023,14:01,Doha,QR003
+902,12:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA855/19-12-2023,12:16,Prague,BA855
+903,12:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA056/19-12-2023,23:03,Miami,AA056
+904,12:20,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/JU380/19-12-2023,12:32,Belgrade,JU380
+905,12:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA903/19-12-2023,12:32,Frankfurt,BA903
+906,12:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1473/19-12-2023,12:17,Glasgow,BA1473
+907,12:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA272/19-12-2023,12:07,San Diego,BA272
+908,12:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA313/19-12-2023,12:12,Amman,BA313
+909,12:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA845/19-12-2023,12:05,Dublin,BA845
+910,12:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA373/19-12-2023,12:05,Toulouse,BA373
+911,12:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA280/19-12-2023,12:24,Los Angeles,BA280
+912,12:30,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AH2054/19-12-2023,11:18,Algiers,AH2054
+913,12:30,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/SV115/19-12-2023,12:34,Jeddah,SV115
+914,12:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA565/19-12-2023,12:13,Milan,BA565
+915,12:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA260/19-12-2023,08:48,Islamabad,BA260
+916,12:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA196/19-12-2023,23:26,Houston,BA196
+917,12:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA997/19-12-2023,12:39,Cologne,BA997
+918,12:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/MS777/19-12-2023,09:58,Cairo,MS777
+919,12:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1445/19-12-2023,11:40,Edinburgh,BA1445
+920,12:35,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/LY315/19-12-2023,09:43,Tel Aviv,LY315
+921,12:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TP1352/19-12-2023,12:20,Lisbon,TP1352
+922,12:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH906/19-12-2023,13:06,Frankfurt,LH906
+923,12:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA276/19-12-2023,16:18,Hyderabad,BA276
+924,12:50,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/WS018/19-12-2023,11:56,Calgary,WS018
+925,12:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA479/19-12-2023,11:31,Barcelona,BA479
+926,12:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA573/19-12-2023,12:38,Milan,BA573
+927,12:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS020/19-12-2023,18:59,San Francisco,VS020
+928,12:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK531/19-12-2023,11:21,Stockholm,SK531
+929,13:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA939/19-12-2023,13:15,Dusseldorf,BA939
+930,13:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA367/19-12-2023,12:45,Marseille,BA367
+931,13:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2474/19-12-2023,12:32,Munich,LH2474
+932,13:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX332/19-12-2023,12:32,Zurich,LX332
+933,13:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1419/19-12-2023,12:42,Belfast,BA1419
+934,13:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA118/19-12-2023,12:43,Bengaluru,BA118
+935,13:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA791/19-12-2023,12:57,Gothenburg,BA791
+936,13:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA727/19-12-2023,12:56,Geneva,BA727
+937,13:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW7462/19-12-2023,12:22,Hamburg,EW7462
+938,13:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA697/19-12-2023,12:46,Vienna,BA697
+939,13:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA242/19-12-2023,12:51,Mexico City,BA242
+940,13:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA993/19-12-2023,12:29,Berlin,BA993
+941,13:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA549/19-12-2023,12:53,Rome,BA549
+942,13:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA763/19-12-2023,12:53,Oslo,BA763
+943,13:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA713/19-12-2023,13:00,Zurich,BA713
+944,13:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA288/19-12-2023,13:37,Phoenix,BA288
+945,13:20,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/QR007/19-12-2023,13:02,Doha,QR007
+946,13:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1499/19-12-2023,13:01,Glasgow,BA1499
+947,13:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI712/19-12-2023,12:49,Cork,EI712
+948,13:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1457/19-12-2023,13:07,Edinburgh,BA1457
+949,13:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI164/19-12-2023,13:08,Dublin,EI164
+950,13:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1393/19-12-2023,14:49,Manchester,BA1393
+951,13:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1327/19-12-2023,13:14,Newcastle Upon Tyne,BA1327
+952,13:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LM675/19-12-2023,11:59,Isle of Man,LM675
+953,13:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA923/19-12-2023,12:27,Los Angeles,UA923
+954,13:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA777/19-12-2023,13:48,Stockholm,BA777
+955,13:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA501/19-12-2023,10:55,Lisbon,BA501
+956,13:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA459/19-12-2023,13:42,Madrid,BA459
+957,13:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA343/19-12-2023,14:14,Nice,BA343
+958,13:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA815/19-12-2023,12:39,Copenhagen,BA815
+959,13:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX354/19-12-2023,13:21,Geneva,LX354
+960,13:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA156/19-12-2023,13:21,Kuwait,BA156
+961,13:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/DL186/19-12-2023,19:43,Los Angeles,DL186
+962,13:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA134/19-12-2023,15:37,Mumbai,BA134
+963,13:45,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AF1780/19-12-2023,15:37,Paris,AF1780
+964,13:45,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KU101/19-12-2023,10:32,Kuwait,KU101
+965,13:50,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1017/19-12-2023,13:31,Amsterdam,KL1017
+966,13:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/EK029/19-12-2023,13:26,Dubai,EK029
+967,13:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA036/19-12-2023,13:26,Chennai,BA036
+968,13:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW2460/19-12-2023,13:06,Stuttgart,EW2460
+969,14:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA483/19-12-2023,13:22,Barcelona,BA483
+970,14:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA729/19-12-2023,14:11,Geneva,BA729
+971,14:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA951/19-12-2023,13:46,Munich,BA951
+972,14:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA409/19-12-2023,13:41,Valencia,BA409
+973,14:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/LA2474/19-12-2023,13:41,LIM,LA2474
+974,14:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA541/19-12-2023,13:43,Bologna,BA541
+975,14:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1469/19-12-2023,12:50,Inverness,BA1469
+976,14:05,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/RO391/19-12-2023,12:23,Bucharest,RO391
+977,14:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/OS461/19-12-2023,12:23,Vienna,OS461
+978,14:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/LA8084/19-12-2023,12:23,Sao Paulo,LA8084
+979,14:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA869/19-12-2023,12:23,Budapest,BA869
+980,14:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA969/19-12-2023,12:23,Hamburg,BA969
+981,14:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA579/19-12-2023,12:23,Venice,BA579
+982,14:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/IR711/19-12-2023,14:16,Tehran,IR711
+983,14:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA467/19-12-2023,13:53,Madrid,BA467
+984,14:15,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/SV121/19-12-2023,13:55,Riyadh,SV121
+985,14:15,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/MU533/19-12-2023,10:04,Shanghai,MU533
+986,14:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA136/19-12-2023,20:07,Los Angeles,AA136
+987,14:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1433/19-12-2023,20:07,Edinburgh,BA1433
+988,14:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1487/19-12-2023,13:54,Glasgow,BA1487
+989,14:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA577/19-12-2023,14:04,Milan,BA577
+990,14:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA435/19-12-2023,14:04,Amsterdam,BA435
+991,14:25,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA359/19-12-2023,14:05,Lyon,BA359
+992,14:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA082/19-12-2023,09:12,Abuja,BA082
+993,14:30,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/EY025/19-12-2023,11:00,Abu Dhabi,EY025
+994,14:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI916/19-12-2023,13:46,NOC,EI916
+995,14:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA889/19-12-2023,12:41,Belgrade,BA889
+996,14:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AV120/19-12-2023,12:41,Bogota,AV120
+997,14:35,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA084/19-12-2023,15:18,Vancouver,BA084
+998,14:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK805/19-12-2023,14:26,Oslo,SK805
+999,14:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA835/19-12-2023,14:26,Dublin,BA835
+1000,14:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TK1985/19-12-2023,14:43,Istanbul,TK1985
+1001,14:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA847/19-12-2023,14:43,Warsaw,BA847
+1002,14:45,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/RJ111/19-12-2023,14:43,Amman,RJ111
+1003,14:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH908/19-12-2023,14:41,Frankfurt,LH908
+1004,14:45,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/GF003/19-12-2023,10:38,Bahrain,GF003
+1005,14:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS355/19-12-2023,10:38,Mumbai,VS355
+1006,14:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS412/19-12-2023,09:18,Lagos,VS412
+1007,14:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/IB3176/19-12-2023,14:31,Madrid,IB3176
+1008,15:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA274/19-12-2023,14:18,Las Vegas,BA274
+1009,15:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA805/19-12-2023,15:05,Copenhagen,BA805
+1010,15:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW9464/19-12-2023,14:45,Dusseldorf,EW9464
+1011,15:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/CX257/19-12-2023,14:51,Hong Kong City,CX257
+1012,15:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA895/19-12-2023,14:42,Reykjavik,BA895
+1013,15:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AM007/19-12-2023,23:00,Mexico City,AM007
+1014,15:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA413/19-12-2023,14:56,Malaga,BA413
+1015,15:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA397/19-12-2023,15:01,Brussels,BA397
+1016,15:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA315/19-12-2023,14:48,Paris,BA315
+1017,15:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1345/19-12-2023,14:50,Jersey,BA1345
+1018,15:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA268/19-12-2023,14:50,Los Angeles,BA268
+1019,15:10,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW464/19-12-2023,15:03,Cologne,EW464
+1020,15:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA256/19-12-2023,11:48,Delhi,BA256
+1021,15:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA286/19-12-2023,15:13,San Francisco,BA286
+1022,15:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1311/19-12-2023,15:12,Aberdeen,BA1311
+1023,15:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AY1335/19-12-2023,15:22,Helsinki,AY1335
+1024,15:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/JL043/19-12-2023,15:22,Tokyo,JL043
+1025,15:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA589/19-12-2023,14:31,Milan,BA589
+1026,15:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA983/19-12-2023,14:31,Berlin,BA983
+1027,15:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1483/19-12-2023,13:56,Glasgow,BA1483
+1028,15:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA347/19-12-2023,14:57,Nice,BA347
+1029,15:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SQ308/19-12-2023,14:39,Singapore,SQ308
+1030,15:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1449/19-12-2023,14:15,Edinburgh,BA1449
+1031,15:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/MH004/19-12-2023,15:28,Kuala Lumpur,MH004
+1032,15:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/A3602/19-12-2023,15:08,Athens,A3602
+1033,15:30,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KQ100/19-12-2023,15:25,Nairobi,KQ100
+1034,15:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LM655/19-12-2023,15:33,LDY,LM655
+1035,15:35,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS024/19-12-2023,22:03,Los Angeles,VS024
+1036,15:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI168/19-12-2023,15:48,Dublin,EI168
+1037,15:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA555/19-12-2023,15:21,Rome,BA555
+1038,15:35,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA491/19-12-2023,15:50,Gibraltar,BA491
+1039,15:35,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/TU790/19-12-2023,15:32,Tunis,TU790
+1040,15:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/NH211/19-12-2023,15:06,Tokyo,NH211
+1041,15:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH910/19-12-2023,15:34,Frankfurt,LH910
+1042,15:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA507/19-12-2023,14:11,Lisbon,BA507
+1043,15:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA475/19-12-2023,15:54,Barcelona,BA475
+1044,15:50,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AT800/19-12-2023,14:41,Casablanca,AT800
+1045,15:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2476/19-12-2023,16:44,Munich,LH2476
+1046,15:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/CA855/19-12-2023,16:44,Beijing,CA855
+1047,16:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK505/19-12-2023,15:58,Copenhagen,SK505
+1048,16:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA905/19-12-2023,15:42,Frankfurt,BA905
+1049,16:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA859/19-12-2023,15:36,Prague,BA859
+1050,16:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA701/19-12-2023,15:44,Vienna,BA701
+1051,16:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA679/19-12-2023,15:41,Istanbul,BA679
+1052,16:05,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1021/19-12-2023,16:12,Amsterdam,KL1021
+1053,16:05,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AZ204/19-12-2023,16:12,Rome,AZ204
+1054,16:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1399/19-12-2023,15:49,Manchester,BA1399
+1055,16:05,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KC663/19-12-2023,15:56,ALA,KC663
+1056,16:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS156/19-12-2023,22:28,Las Vegas,VS156
+1057,16:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA817/19-12-2023,22:28,Copenhagen,BA817
+1058,16:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/EK031/19-12-2023,16:07,Dubai,EK031
+1059,16:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA975/19-12-2023,16:26,Hamburg,BA975
+1060,16:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA731/19-12-2023,15:52,Geneva,BA731
+1061,16:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA439/19-12-2023,16:04,Amsterdam,BA439
+1062,16:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TK1971/19-12-2023,16:38,Istanbul,TK1971
+1063,16:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX324/19-12-2023,16:00,Zurich,LX324
+1064,16:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA641/19-12-2023,16:23,Athens,BA641
+1065,16:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK809/19-12-2023,16:13,Oslo,SK809
+1066,16:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/HY201/19-12-2023,14:06,Tashkent,HY201
+1067,16:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1417/19-12-2023,16:10,Belfast,BA1417
+1068,16:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA941/19-12-2023,17:20,Dusseldorf,BA941
+1069,16:30,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KE907/19-12-2023,11:25,Seoul,KE907
+1070,16:30,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA923/19-12-2023,16:32,Stuttgart,BA923
+1071,16:35,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AF1280/19-12-2023,16:15,Paris,AF1280
+1072,16:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA319/19-12-2023,16:24,Paris,BA319
+1073,16:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1437/19-12-2023,15:15,Edinburgh,BA1437
+1074,16:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/IB3172/19-12-2023,16:02,Madrid,IB3172
+1075,16:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX348/19-12-2023,16:04,Geneva,LX348
+1076,16:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH914/19-12-2023,16:35,Frankfurt,LH914
+1077,16:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA591/19-12-2023,16:21,Milan,BA591
+1078,16:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1489/19-12-2023,16:29,Glasgow,BA1489
+1079,16:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI172/19-12-2023,16:33,Dublin,EI172
+1080,16:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA779/19-12-2023,16:45,Stockholm,BA779
+1081,16:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TK1931/19-12-2023,16:36,Istanbul,TK1931
+1082,17:00,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1023/19-12-2023,16:50,Amsterdam,KL1023
+1083,17:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK527/19-12-2023,16:56,Stockholm,SK527
+1084,17:00,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AT806/19-12-2023,15:06,Casablanca,AT806
+1085,17:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AY1337/19-12-2023,17:34,Helsinki,AY1337
+1086,17:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA953/19-12-2023,17:12,Munich,BA953
+1087,17:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA485/19-12-2023,16:47,Barcelona,BA485
+1088,17:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SN2095/19-12-2023,16:55,Brussels,SN2095
+1089,17:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS301/19-12-2023,16:42,Delhi,VS301
+1090,17:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2478/19-12-2023,16:17,Munich,LH2478
+1091,17:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1347/19-12-2023,16:52,Jersey,BA1347
+1092,17:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA603/19-12-2023,16:44,SAW,BA603
+1093,17:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA733/19-12-2023,17:10,Geneva,BA733
+1094,17:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/IB3166/19-12-2023,17:44,Madrid,IB3166
+1095,17:15,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/CZ303/19-12-2023,12:36,Guangzhou,CZ303
+1096,17:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LO279/19-12-2023,15:42,Warsaw,LO279
+1097,17:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI718/19-12-2023,16:06,Cork,EI718
+1098,17:20,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/CZ673/19-12-2023,14:32,PKX,CZ673
+1099,17:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/EK041/19-12-2023,16:59,Dubai,EK041
+1100,17:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/QR001/19-12-2023,17:05,Doha,QR001
+1101,17:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA108/19-12-2023,17:08,Dubai,BA108
+1102,17:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA985/19-12-2023,17:08,Berlin,BA985
+1103,17:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TP1356/19-12-2023,17:08,Lisbon,TP1356
+1104,17:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA038/19-12-2023,17:08,PKX,BA038
+1105,17:30,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/MU551/19-12-2023,17:08,Shanghai,MU551
+1106,17:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1455/19-12-2023,17:08,Edinburgh,BA1455
+1107,17:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA575/19-12-2023,17:08,Milan,BA575
+1108,17:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA447/19-12-2023,17:08,Amsterdam,BA447
+1109,17:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK1517/19-12-2023,17:08,Copenhagen,SK1517
+1110,17:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA887/19-12-2023,16:12,Bucharest,BA887
+1111,17:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA168/19-12-2023,17:48,Shanghai,BA168
+1112,17:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH916/19-12-2023,17:32,Frankfurt,LH916
+1113,17:45,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA419/19-12-2023,18:21,Luxembourg-Ville,BA419
+1114,17:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LM625/19-12-2023,18:21,KOI,LM625
+1115,17:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA399/19-12-2023,18:17,Brussels,BA399
+1116,17:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI174/19-12-2023,17:39,Dublin,EI174
+1117,17:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX326/19-12-2023,17:14,Zurich,LX326
+1118,17:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/CA937/19-12-2023,15:17,Beijing,CA937
+1119,17:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS401/19-12-2023,17:16,Dubai,VS401
+1120,17:55,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1031/19-12-2023,17:16,Amsterdam,KL1031
+1121,17:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK1523/19-12-2023,17:53,Stockholm,SK1523
+1122,17:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW2464/19-12-2023,17:17,Stuttgart,EW2464
+1123,18:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA379/19-12-2023,17:23,Toulouse,BA379
+1124,18:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA138/19-12-2023,23:46,Los Angeles,AA138
+1125,18:00,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KU105/19-12-2023,23:46,Kuwait,KU105
+1126,18:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AI165/19-12-2023,14:50,Delhi,AI165
+1127,18:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA060/19-12-2023,12:38,MLE,BA060
+1128,18:10,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/EY017/19-12-2023,14:44,Abu Dhabi,EY017
+1129,18:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA198/19-12-2023,14:44,Mumbai,BA198
+1130,18:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/IB3180/19-12-2023,14:44,Madrid,IB3180
+1131,18:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1403/19-12-2023,18:03,Manchester,BA1403
+1132,18:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1335/19-12-2023,17:59,Newcastle Upon Tyne,BA1335
+1133,18:20,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AF1180/19-12-2023,17:51,Paris,AF1180
+1134,18:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/EK003/19-12-2023,15:11,Dubai,EK003
+1135,18:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA721/19-12-2023,18:06,Geneva,BA721
+1136,18:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS251/19-12-2023,11:19,Shanghai,VS251
+1137,18:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA703/19-12-2023,18:10,Vienna,BA703
+1138,18:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1313/19-12-2023,18:10,Aberdeen,BA1313
+1139,18:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/WY101/19-12-2023,18:07,Muscat,WY101
+1140,18:25,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA369/19-12-2023,18:15,Marseille,BA369
+1141,18:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK811/19-12-2023,18:47,Oslo,SK811
+1142,18:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1429/19-12-2023,19:25,Belfast,BA1429
+1143,18:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA481/19-12-2023,18:14,Barcelona,BA481
+1144,18:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA995/19-12-2023,18:34,Berlin,BA995
+1145,18:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA323/19-12-2023,18:52,Paris,BA323
+1146,18:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA519/19-12-2023,16:28,Lisbon,BA519
+1147,18:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2480/19-12-2023,17:56,Munich,LH2480
+1148,18:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA909/19-12-2023,19:16,Frankfurt,BA909
+1149,18:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX356/19-12-2023,18:16,Geneva,LX356
+1150,18:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW7460/19-12-2023,18:07,Hamburg,EW7460
+1151,18:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA585/19-12-2023,19:30,Milan,BA585
+1152,18:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/OS455/19-12-2023,19:30,Vienna,OS455
+1153,18:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW9462/19-12-2023,19:30,Dusseldorf,EW9462
+1154,18:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH918/19-12-2023,18:09,Frankfurt,LH918
+1155,18:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/IB3164/19-12-2023,18:30,Madrid,IB3164
+1156,18:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA955/19-12-2023,18:39,Munich,BA955
+1157,18:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI722/19-12-2023,17:33,Cork,EI722
+1158,18:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK4627/19-12-2023,18:11,Stavanger,SK4627
+1159,18:50,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA493/19-12-2023,17:17,Gibraltar,BA493
+1160,18:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/AI131/19-12-2023,18:42,Mumbai,AI131
+1161,18:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA238/19-12-2023,07:49,Boston,BA238
+1162,18:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1493/19-12-2023,19:50,Glasgow,BA1493
+1163,18:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1349/19-12-2023,18:46,Jersey,BA1349
+1164,18:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI386/19-12-2023,19:11,Shannon,EI386
+1165,19:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA355/19-12-2023,18:49,Nice,BA355
+1166,19:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/UK015/19-12-2023,18:58,Mumbai,UK015
+1167,19:05,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EW468/19-12-2023,18:50,Cologne,EW468
+1168,19:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1447/19-12-2023,18:15,Edinburgh,BA1447
+1169,19:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA559/19-12-2023,18:15,Rome,BA559
+1170,19:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/UL503/19-12-2023,13:13,Colombo,UL503
+1171,19:10,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SQ318/19-12-2023,13:13,Singapore,SQ318
+1172,19:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA583/19-12-2023,13:13,Venice,BA583
+1173,19:15,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1027/19-12-2023,19:07,Amsterdam,KL1027
+1174,19:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA827/19-12-2023,19:17,Dublin,BA827
+1175,19:15,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX338/19-12-2023,,Zurich,LX338
+1176,19:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA819/19-12-2023,19:42,Copenhagen,BA819
+1177,19:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/UK017/19-12-2023,19:22,Delhi,UK017
+1178,19:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA461/19-12-2023,19:08,Madrid,BA461
+1179,19:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/BR067/19-12-2023,,Taipei,BR067
+1180,19:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA781/19-12-2023,19:53,Stockholm,BA781
+1181,19:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KM102/19-12-2023,19:53,Valletta,KM102
+1182,19:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK1507/19-12-2023,18:29,Copenhagen,SK1507
+1183,19:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA735/19-12-2023,19:33,Geneva,BA735
+1184,19:30,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/FI454/19-12-2023,19:13,Reykjavik,FI454
+1185,19:30,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA365/19-12-2023,18:59,Lyon,BA365
+1186,19:30,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA857/19-12-2023,19:55,Prague,BA857
+1187,19:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TG916/19-12-2023,19:37,Bangkok,TG916
+1188,19:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA180/19-12-2023,08:15,New York City,BA180
+1189,19:35,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA967/19-12-2023,19:54,Hamburg,BA967
+1190,19:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2482/19-12-2023,19:54,Munich,LH2482
+1191,19:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LM657/19-12-2023,19:54,LDY,LM657
+1192,19:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA749/19-12-2023,19:40,Basel,BA749
+1193,19:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA677/19-12-2023,19:40,Istanbul,BA677
+1194,19:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA569/19-12-2023,,Milan,BA569
+1195,19:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA441/19-12-2023,,Amsterdam,BA441
+1196,19:50,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/QR015/19-12-2023,19:36,Doha,QR015
+1197,19:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI178/19-12-2023,19:52,Dublin,EI178
+1198,19:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA178/19-12-2023,08:26,New York City,BA178
+1199,19:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK533/19-12-2023,19:57,Stockholm,SK533
+1200,19:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA545/19-12-2023,19:02,Bologna,BA545
+1201,19:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA911/19-12-2023,19:39,Frankfurt,BA911
+1202,19:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS026/19-12-2023,19:47,New York City,VS026
+1203,19:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA719/19-12-2023,19:49,Zurich,BA719
+1204,20:00,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/EK005/19-12-2023,16:31,Dubai,EK005
+1205,20:05,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA705/19-12-2023,20:22,Vienna,BA705
+1206,20:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/CX253/19-12-2023,20:09,Hong Kong City,CX253
+1207,20:10,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/CA423/19-12-2023,16:42,TFU,CA423
+1208,20:15,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA471/19-12-2023,19:58,Barcelona,BA471
+1209,20:15,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/VS479/19-12-2023,20:00,Cape Town,VS479
+1210,20:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1459/19-12-2023,20:00,Edinburgh,BA1459
+1211,20:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA979/19-12-2023,20:50,Hannover,BA979
+1212,20:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA463/19-12-2023,20:12,Madrid,BA463
+1213,20:20,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/LY317/19-12-2023,17:49,Tel Aviv,LY317
+1214,20:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1495/19-12-2023,20:21,Glasgow,BA1495
+1215,20:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA797/19-12-2023,20:17,Geneva,BA797
+1216,20:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1405/19-12-2023,20:44,Manchester,BA1405
+1217,20:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA839/19-12-2023,20:44,Dublin,BA839
+1218,20:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/UA934/19-12-2023,09:37,New York City,UA934
+1219,20:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA987/19-12-2023,,Berlin,BA987
+1220,20:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AY1339/19-12-2023,20:54,Helsinki,AY1339
+1221,20:40,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AZ248/19-12-2023,19:41,Milan,AZ248
+1222,20:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA881/19-12-2023,19:39,RIX,BA881
+1223,20:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1421/19-12-2023,19:32,Belfast,BA1421
+1224,20:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH920/19-12-2023,20:33,Frankfurt,LH920
+1225,20:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1337/19-12-2023,19:25,Newcastle Upon Tyne,BA1337
+1226,20:45,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/B61107/19-12-2023,08:45,New York City,B61107
+1227,20:50,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/KL1033/19-12-2023,21:31,Amsterdam,KL1033
+1228,20:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA327/19-12-2023,21:03,Paris,BA327
+1229,20:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TK1983/19-12-2023,20:27,Istanbul,TK1983
+1230,20:50,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SN2105/19-12-2023,20:51,Brussels,SN2105
+1231,20:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA1315/19-12-2023,19:41,Aberdeen,BA1315
+1232,20:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA809/19-12-2023,19:53,Copenhagen,BA809
+1233,20:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA769/19-12-2023,20:56,Oslo,BA769
+1234,21:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/MS779/19-12-2023,20:52,Cairo,MS779
+1235,21:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2484/19-12-2023,20:49,Munich,LH2484
+1236,21:05,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/J2007/19-12-2023,20:37,Baku,J2007
+1237,21:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA443/19-12-2023,21:17,Amsterdam,BA443
+1238,21:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA407/19-12-2023,21:51,Cairo,BA407
+1239,21:15,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/A3608/19-12-2023,20:39,Athens,A3608
+1240,21:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK1527/19-12-2023,21:05,Stockholm,SK1527
+1241,21:20,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SN2103/19-12-2023,21:16,Brussels,SN2103
+1242,21:20,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA737/19-12-2023,20:51,Geneva,BA737
+1243,21:25,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/AF1380/19-12-2023,20:58,Paris,AF1380
+1244,21:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX358/19-12-2023,21:11,Geneva,LX358
+1245,21:25,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI388/19-12-2023,21:11,Shannon,EI388
+1246,21:25,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA851/19-12-2023,21:20,Warsaw,BA851
+1247,21:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TP1358/19-12-2023,21:14,Lisbon,TP1358
+1248,21:35,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK815/19-12-2023,21:29,Oslo,SK815
+1249,21:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/SK1501/19-12-2023,21:33,Copenhagen,SK1501
+1250,21:40,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA961/19-12-2023,21:24,Munich,BA961
+1251,21:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA891/19-12-2023,20:46,Sofia,BA891
+1252,21:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/OS457/19-12-2023,21:38,Vienna,OS457
+1253,21:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LX340/19-12-2023,21:37,Zurich,LX340
+1254,21:45,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA581/19-12-2023,22:07,Milan,BA581
+1255,21:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA427/19-12-2023,21:35,Amsterdam,BA427
+1256,21:50,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA783/19-12-2023,21:35,Stockholm,BA783
+1257,21:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA633/19-12-2023,22:12,Athens,BA633
+1258,21:55,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA867/19-12-2023,22:12,Budapest,BA867
+1259,21:55,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA547/19-12-2023,,Rome,BA547
+1260,22:00,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA489/19-12-2023,21:18,Barcelona,BA489
+1261,22:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LO285/19-12-2023,21:44,Warsaw,LO285
+1262,22:00,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/EI186/19-12-2023,21:27,Dublin,EI186
+1263,22:05,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA503/19-12-2023,22:03,Lisbon,BA503
+1264,22:10,London,https://www.heathrow.com/arrivals/terminal-4/flight-details/QR005/19-12-2023,21:46,Doha,QR005
+1265,22:10,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA142/19-12-2023,10:36,New York City,AA142
+1266,22:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA465/19-12-2023,21:03,Madrid,BA465
+1267,22:10,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA349/19-12-2023,21:10,Nice,BA349
+1268,22:15,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH922/19-12-2023,21:56,Frankfurt,LH922
+1269,22:15,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TK1987/19-12-2023,21:56,Istanbul,TK1987
+1270,22:20,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/BA861/19-12-2023,21:56,Prague,BA861
+1271,22:30,London,https://www.heathrow.com/arrivals/terminal-5/flight-details/BA663/19-12-2023,20:06,Larnaca,BA663
+1272,22:40,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/TP1366/19-12-2023,22:23,Lisbon,TP1366
+1273,22:40,London,https://www.heathrow.com/arrivals/terminal-3/flight-details/AA090/19-12-2023,09:14,Chicago,AA090
+1274,22:55,London,https://www.heathrow.com/arrivals/terminal-2/flight-details/LH2486/19-12-2023,23:04,Munich,LH2486
