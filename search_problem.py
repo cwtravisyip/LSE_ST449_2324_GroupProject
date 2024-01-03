@@ -5,14 +5,15 @@ import itertools
 # search problem
 class reschedule_problem:
 
-    def __init__(self,df, n_runway = 1, resume_hour = 23, resume_min = 0,\
+    def __init__(self,df, n_runway = 1, disruption_dur = 60,\
                 timeslot_dur = 5, max_delay = 120):
         # customized attributes of the problem
         self.df = df
         self.move = df['code']
         self.n_runway = n_runway
-        self.hour = resume_hour 
-        self.min = resume_min 
+        self.resumetime = self.df.iloc[0,0] + pd.Timedelta(minutes = disruption_dur)
+        self.hour = self.resumetime.hour
+        self.min = self.resumetime.minute
         self.time_slot_duration = timeslot_dur
         self.max_delay = max_delay
         # parsing the attribute for more useful format
@@ -143,9 +144,9 @@ class reschedule_problem:
 # search problem with utility as a function of time delayed and passenger load
 class reschedule_updated_u(reschedule_problem):
 
-    def __init__(self, df, n_runway = 1, resume_hour = 23, resume_min = 0,
+    def __init__(self, df, n_runway = 1, disruption_dur = 60,
                 timeslot_dur = 5, max_delay = 120):
-        super().__init__(df, n_runway , resume_hour , resume_min,
+        super().__init__(df, n_runway , disruption_dur,
                 timeslot_dur, max_delay)
 
 
@@ -164,7 +165,7 @@ class reschedule_updated_u(reschedule_problem):
 
         elif year == 1970:
             # compute utility of diverted flight
-            delay = - self.max_delay 
+            delay = - self.max_delay
 
         pass_load = self.df.query("code == @flcode")['pass_load'].values
         util = delay * np.arctan(pass_load/4) /np.pi * 2
@@ -246,3 +247,38 @@ def best_first_graph_search(problem):
         
     return None
     
+# ____________________________________________
+# bfs graph
+def breadth_first_search(problem):
+    """Search the nodes with the lowest depth scores first.
+    """
+    # adding first node
+    node = Node(problem.initial)
+    print(f"The airport resumed service at {problem.hour}:{problem.min:02d}")
+    iterations = 1
+    # applying the goal test when generating the node
+    if problem.goal_test(node.state):
+        return(iterations, node)
+
+    # expand the frontier based on the priority queue
+    # the current best candidate for extension
+    frontier = list()
+    frontier.append(tuple([node.depth,node ]))
+
+    while frontier:
+        # get the next node in the frontier
+        node = frontier.pop()[1]
+        # applying the goal test when expanding the node
+        if problem.goal_test(node.state):
+            ### <Add the node to the list of dictionary>
+            raise NotImplementedError
+        # for every child in the frontier
+        for child in node.expand(problem): # child is a node
+            frontier.append(tuple([int(child.depth),child]))
+            frontier.sort(reverse = True)
+
+    # <return the solution from the list that has the maximum utility>
+    # compute the utilityof all the solution yielded
+
+    # return the   
+    raise NotImplementedError
