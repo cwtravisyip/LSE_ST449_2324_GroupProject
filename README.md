@@ -9,7 +9,7 @@ Read on to learn more about the project.
 ## Workflow
 
 going to be updated soon
-<img src="XXX.png" alt="image description" width="850">
+<img src="LSE_AI_groupproject.png" alt="image description" width="850">
 
 ## Data Source
 
