@@ -173,7 +173,40 @@ class reschedule_updated_u(reschedule_problem):
             delay = - self.max_delay
 
         pass_load = self.df.query("code == @flcode")['pass_load'].values
-        util = delay * np.arctan(pass_load/4) /np.pi * 2
+        util = delay * np.arctan(pass_load/200) /np.pi * 2
+
+        return util[0]
+
+# __________________________
+# search problem with alternative u function
+class reschedule_custom_u(reschedule_problem):
+
+    def __init__(self, df,util_f, n_runway = 1, disruption_dur = 60,
+                timeslot_dur = 5, max_delay = 120,):
+        super().__init__(df, n_runway , disruption_dur,
+                timeslot_dur, max_delay)
+        self.util_f = util_f
+
+
+    def compute_util(self, flcode, year, month, date, hour, min):
+        """Compute the utility of a given rescheduled flight. This is defined
+        as the time difference between the original scheduled time and the 
+        new scheduled time"""
+        if flcode is None:
+            return 0 
+        elif year != 1970:
+            time_sch_org = self.df.query("code == @flcode")['time_sch'] # type pd Series
+            time_sch_new = pd.to_datetime(f"{year} {month} {date} {hour}:{min}")
+            # compute the time delayed
+            delay = time_sch_org - time_sch_new
+            delay = delay.reset_index(drop = True)[0].total_seconds() / 60
+
+        elif year == 1970:
+            # compute utility of diverted flight
+            delay = - self.max_delay
+
+        pass_load = self.df.query("code == @flcode")['pass_load'].values
+        util = self.util_f(delay, pass_load)
 
         return util[0]
 
