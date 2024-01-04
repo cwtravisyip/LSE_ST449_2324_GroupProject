@@ -147,6 +147,7 @@ class reschedule_problem:
 
 # __________________________
 # search problem with utility as a function of time delayed and passenger load
+# this is depracated, replaced by reschedule_custom_u
 class reschedule_updated_u(reschedule_problem):
 
     def __init__(self, df, n_runway = 1, disruption_dur = 60,
@@ -209,6 +210,43 @@ class reschedule_custom_u(reschedule_problem):
         util = self.util_f(delay, pass_load)
 
         return util[0]
+
+#____________________________
+# search problem with alternative u function and discount on future U
+class reschedule_custom_u_dis(reschedule_custom_u):
+
+    def __init__(self, df,util_f, n_runway = 1, disruption_dur = 60,
+                timeslot_dur = 5, max_delay = 120,dis_rate = 0.05):
+        super().__init__(df, util_f,n_runway , disruption_dur,
+                timeslot_dur, max_delay)
+        self.dis_rate = dis_rate
+
+    def compute_util(self, flcode, year, month, date, hour, min):
+        """Compute the utility of a given rescheduled flight. This is defined
+        as the time difference between the original scheduled time and the 
+        new scheduled time"""
+        if flcode is None:
+            return 0 
+        elif year != 1970:
+            time_sch_org = self.df.query("code == @flcode")['time_sch'] # type pd Series
+            time_sch_new = pd.to_datetime(f"{year} {month} {date} {hour}:{min}")
+            # compute the time delayed
+            delay = time_sch_org - time_sch_new
+            delay = delay.reset_index(drop = True)[0].total_seconds() / 60
+
+        elif year == 1970:
+            # compute utility of diverted flight
+            delay = - self.max_delay
+
+        pass_load = self.df.query("code == @flcode")['pass_load'].values
+        util = self.util_f(delay, pass_load)
+        # compute discounted util
+        time_elapse = time_sch_new  - self.resumetime
+        time_elapse = time_elapse.total_seconds()
+        time_period = time_elapse / 60 / self.time_slot_duration
+        dis_util = util / (self.dis_rate ** time_period)
+
+        return dis_util[0]
 
 
 # ____________________________
