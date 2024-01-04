@@ -33,8 +33,9 @@ class reschedule_problem:
         year, month, date, hour, min = self.parse_state_time(state)
         current_time = pd.to_datetime(f"{year} {month} {date} {hour}:{min}")
         min_time = pd.to_datetime(f"{year} {month} {date} {hour}:{min}") - pd.Timedelta(minutes = self.max_delay)
-        unassigned_flight['divert'] = unassigned_flight.apply(lambda flight: flight['time_sch'] < min_time  ,axis = 1)
+        unassigned_flight['divert'] = unassigned_flight.apply(lambda flight: flight['time_sch'] < min_time,axis = 1)
         unassigned_flight['to_sch'] = unassigned_flight.apply(lambda flight: flight['time_sch'] <=current_time  ,axis = 1)
+
 
         # return the pd.Series of unassigned flight that has passed its schedule time
         flight_to_assign = unassigned_flight[unassigned_flight['to_sch'] & ~(unassigned_flight['divert'])]['code']
@@ -73,7 +74,7 @@ class reschedule_problem:
     
     def result(self, state, flight_diverted:list, flights:list):
         """return the state in a form of dictionary that is the result of a given move"""
-        # !!! think of a way to iterate through the time slot even if no flight assigned
+        # parse the time data
         year, month, date, hour, min = self.parse_state_time(state)
         for fl in flights:
             time_sch = f"{year} {month} {date} {hour:02d}:{min:02d}"
@@ -126,11 +127,15 @@ class reschedule_problem:
         self.solution = solver_algo(self)    
         
     def display(self):
-        """ [in DEV] Method to show the new schedule of the flightafter solving for the problem, 
+        """ Display the self.solution that is of type pandas dataframe
+        to compare the solution with the set up that we try to solve 
         """
         if self.solution is None:
             print("The problem has not been solved. Pass a solving algorithm to the .solve method")
             raise NotImplementedError
+        elif type(self.solution) != pd.core.frame.DataFrame:
+            print("""THe solution returned by the algorithm cannot be parsed because it is 
+                  not of type pd.core.frame.DataFrame""")
         
         display_df = self.df.copy()
         display_df = pd.merge(self.df[['code','time_sch','pass_load']], self.solution, left_on= "code", right_index = True)
@@ -245,7 +250,7 @@ def best_first_graph_search(problem):
             frontier.append(tuple([int(child.path_cost),child]))
             frontier.sort(reverse = True)
         
-    return None
+    return None # otherwise return node.state
     
 # ____________________________________________
 # bfs graph
@@ -260,6 +265,7 @@ def breadth_first_search(problem):
     if problem.goal_test(node.state):
         return(iterations, node)
 
+    solutions = []
     # expand the frontier based on the priority queue
     # the current best candidate for extension
     frontier = list()
@@ -270,15 +276,31 @@ def breadth_first_search(problem):
         node = frontier.pop()[1]
         # applying the goal test when expanding the node
         if problem.goal_test(node.state):
-            ### <Add the node to the list of dictionary>
-            raise NotImplementedError
-        # for every child in the frontier
-        for child in node.expand(problem): # child is a node
-            frontier.append(tuple([int(child.depth),child]))
-            frontier.sort(reverse = True)
+            # add the node to the list of dictionary
+            solutions.append(tuple([node.path_cost,node]))
+            print(f"A terminal state has been reached: total {len(solutions)} solutions")
+        else:
+            # for every child in the frontier
+            for child in node.expand(problem): # child is a node
+                print(f"Iteration: {iterations} at depth {child.depth}")
+                print((f"Check if the depth is consistent withe the node state."))
+                print(f"There should be {len(child.state)/problem.n_runway} timeslot iterated.")
+                frontier.append(tuple([int(child.depth),child]))
+                frontier.sort(reverse = True)
+                print(f"frontier length: {len(frontier)}")
+                iterations+= 1
+            
+                if iterations % 10000 == 0:
+                    command_input = input("Continue or break?")
+                    try:
+                        command_input = command_input.lower.strip() 
+                    except:
+                        command_input = None
+                    if command_input != "break":
+                        break
 
     # <return the solution from the list that has the maximum utility>
     # compute the utilityof all the solution yielded
-
+    solutions.sort(reverse = True)
     # return the   
-    raise NotImplementedError
+    return solutions
